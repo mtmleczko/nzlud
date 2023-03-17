@@ -1,0 +1,1818 @@
+1
+TABLE OF CONTENTS
+Page
+SECTION 1 PURPOSE 1
+SECTION 2 DEFINITIONS 1
+SECTION 3 ESTABLISHMENT OF DISTRICTS 5
+SECTION 4 OFFICIAL ZONING MAP 5
+SECTION 5 GENERAL PROVISIONS 7
+SECTION 6 "A-1" AGRICULTURAL DISTRICTS 10
+SECTION 7 "R-1" ONE FAMILY RESIDENCE DISTRICTS 11
+SECTION 8 "R-2" ONE AND TWO-FAMILY RESIDENCE DISTRICTS 13
+SECTION 9 "R-3" MULTI-FAMILY RESIDENCE DISTRICTS 14
+SECTION 10 "B-1" RETAIL BUSINESS DISTRICTS 16
+SECTION 11 "B-2" GENERAL BUSINESS DISTRICTS 18
+SECTION 12 "I-1" INDUSTRIAL DISTRICTS 20
+SECTION 13 SIGN AND AWNING REGULATIONS 23
+SECTION 14 CENTRAL COMMERCIAL HISTORIC DISTRICT
+SIGN AND AWNING REGULATIONS 27
+SECTION 15 SPECIAL PROVISIONS 31
+SECTION 15A CONDITIONAL USE PERMITS 35
+SECTION 16 ADULT USES 35
+SECTION 17 ADDITIONAL REQUIREMENTS, EXCEPTIONS, & MODIFICATIONS 37
+SECTION 18 ZONING ADMINISTRATION 39
+SECTION 19 PLANNING AND ZONING COMMISSION 41
+SECTION 20 BOARD OF ADJUSTMENT 43
+SECTION 21 DISTRICT CHANGES AND ORDINANCE AMENDMENTS 47
+SECTION 22 PENALTY 47
+SECTION 23 SEVERABILITY 47
+Albia Zoning Ordinance-Page 1
+ALBIA ZONING ORDINANCE
+SECTION 1 PURPOSE.
+To provide adequate light and air, to prevent the overcrowding of land, to avoid undue concentration of population, to regulate the
+use of land, and to promote the health, morals, safety and general welfare in the City of Albia, Iowa.
+SECTION 2 DEFINITIONS.
+For use in this chapter certain terms or words used herein shall be interpreted or defined as follows:
+Purpose. For the purpose of the ordinance, certain terms or words are used in a limited or special sense, as herein defined.
+Words used in the present tense include the future, words in a singular number include the plural, and words in the
+plural number include the singular; the word "shall" is mandatory and not directory.
+Accessory Use or Structure. A subordinate use or structure detached from but located on the same lot as the principal
+structure. The accessory use or structure is incidental and accessory to the use of the principal structure.
+Alley. A public way less than 21 feet in width affording secondary means of access to abutting property.
+Automobile Repair:
+Major. General repair, rebuilding or reconditioning of engines, motor vehicles or trailers; collision service, including
+body, frame or fender straightening or repair; over-all painting or paint shop; vehicle steam cleaning.
+Minor. Minor repairs, incidental body and fender work, painting and upholstering, replacement of parts and motor
+service to passenger automobiles and trucks not exceeding 1 1/2 tons capacity, but not including any operation
+specified under "Automobile Repair -- Major".
+Basement. A story having part but not more than 50% of its height below the average grade of the adjoining ground (as
+distinguished from a "cellar"). A basement shall be counted as a story for the purpose of height measurement.
+Bed and Breakfast Inn. A private residence which provides lodging and meals for guests, in which the host or hostess resides
+and which provides no more than four guest units. The facility can advertise as a bed and breakfast home, but not as
+a hotel, motel, or restaurant. A bed and breakfast home can serve food only to overnight guests. A bed and breakfast
+home may serve or offer alcoholic beverages to overnight guests. All guest rooms must have an operable smoke
+detector. There shall be one off street parking space per guest unit and a minimum of two off street parking spaces
+for the host or hostess. A bed and breakfast home may have one unlit advertising sign not to exceed two square feet.
+Block-Front. A portion of a street on a particular side of the street without a separation by a cross-street or alley
+Boarding House. An establishment with lodging for three or more persons where meals are regularly prepared and served for
+compensation and where food is placed upon the table family style, without service or ordering of individual portions
+from a menu.
+Building. Any structure for the shelter or enclosure of persons, animals, or chattels.
+Cellar. A story having 50% or more of its height below the average grade of the adjoining ground. A cellar shall be counted
+as a story, for purposes of height measurement, only if used for dwelling purposes other than by a janitor or caretaker
+employed on the premises.
+District. Any section of the city within which the zoning regulations are uniform.
+Drive-In Facility. An establishment that, by design of physical facilities or by service or packaging procedures, encourages or
+permits customers to receive a service or obtain a product that may be used or consumed in a motor vehicle on the
+premises or to be entertained while remaining in an automobile.
+Albia Zoning Ordinance-Page 2
+Dwelling. A building or portion thereof occupied or intended to be occupied exclusively for residence purposes, but not
+including a tent, cabin, trailer, or a room in a hotel or motel.
+Dwelling Group. Two or more detached dwellings located on a parcel of land in one ownership.
+Dwelling, Single Family, attached. One of two or more residential buildings having a common party wall separating
+dwelling units.
+Dwelling, Single Family, detached. A residential building containing not more than one dwelling entirely surrounded
+by open space on the same lot.
+Dwelling, Three Family. A residential building used for occupancy by no more than three families living
+independently of each other and containing three dwelling units.
+Dwelling, Four Family. A residential building used for occupancy by no more than four families living
+independently of each other and containing four dwelling units.
+Dwelling, Multi-Family. A building or portion thereof used for occupancy by three or more families living
+independently of each other and containing three or more dwelling units.
+Essential Services. The erection, construction, alteration, or maintenance, by public utilities or municipal or other
+governmental agencies, of underground or overhead gas, electrical, steam or water transmission or distribution
+systems, collection, communication, supply or disposal systems, including poles, wires, mains, drains, sewers, pipes,
+conduits, cables, fire alarm boxes, police call boxes, traffic signals, hydrants, and other similar equipment and
+accessories in connection therewith; reasonably necessary for the furnishing of adequate service by such public
+utilities or municipal or other governmental agencies or for the public health or safety or general welfare, but not
+including buildings.
+Family. One or more persons related by blood, marriage or adoption, together with his, her, or their domestic servants,
+maintaining a common household in a dwelling.
+Garage, Private. A detached accessory building or portion of a principal building used for the storage of self-propelled
+passenger vehicles or trailers of the occupants of the premises and/or not more than one truck of a rated capacity not
+exceeding 1 1/2 tons.
+Garage, Public. Any building where automotive vehicles are painted, repaired, rebuilt, reconstructed, and/or stored for
+compensation.
+Garage, Storage. Any building or premises used for housing only of motor driven vehicles pursuant to previous arrangements
+and not to transients, and, at which, automobile fuels and oils are not sold, and motor driven vehicles are not being
+equipped, repaired, hired, or sold.
+Height. In the case of a wall, or part of a building, the vertical distance from the average established curb grade in front of the
+lot or from the average finished grade at the building line, if higher, to the average height of the top of the cornice of
+a flat roof, or roof line, or to the deck line of a mansard roof, or to the middle height of the highest gable or dormer in
+a pitched or hipped roof, or if there are no gables or dormers, to the middle height of such pitched or hipped roof.
+Highway or Primary Thoroughfare. An officially designated federal or state numbered highway or other road designated as a
+highway or primary thoroughfare on the Transportation Plan as officially adopted and amended from time to time by
+the Planning Commission and City Council.
+Home Occupation. A secondary use carried on by a member of the family residing on the premises and which is conducted
+entirely within the residence where there is no evidence of such occupation being conducted on the premises by
+virtue of storage, displays, excessive noise, odors, or electrical disturbances. Customer parking must be provided
+inconspicuously on the premises. No sign is permitted. One (1) name plate meeting the following requirements is
+permitted:
+a. Must not be larger than one and five tenths square feet;
+Albia Zoning Ordinance-Page 3
+b. Must be placed flat against the side of the residence, or posted within two (2) feet and parallel with the
+residence;
+c. Must not be illuminated.
+Not more than one (1) person other than members of the immediate family residing on the premises may be
+employed. Not more than one-half of the total floor area of the premises may be devoted to the home occupation. No
+mechanical equipment may be used on the premises except such that is permissible for purely domestic or household
+purposes. Nothing can be sold or offered for sale that has not been produced on the premises.
+A property owner, or tenant, desiring to carry on a home occupation must first apply for a home occupation permit
+with the Zoning Administrator and pay a fee of $25.00. The application shall set forth a description of the occupation,
+a parking plan, a description of any sign to be used in connection with the occupation, the amount of floor area to be
+used for the home occupation, and a description of all equipment expected to be used to carry on the business. The
+Zoning Administrator’s decision regarding the issuance of a Home Occupation Permit may be appealed pursuant to
+Section 20 of this Ordinance.
+Hotel. A facility offering transient lodging accommodations on a daily rate to the general public and providing additional
+services, such as restaurants, meeting rooms, and recreational facilities.
+Land Use Plan. The comprehensive long-range plan for the desirable use of land in the community, as officially adopted and
+as amended from time to time by the Planning and Zoning Commission and City Council; the purpose of such plan
+being, among other things, to serve as a guide to the zoning and progressive changes in the zoning of land to meet
+changing community needs, in the subdividing and use of undeveloped land, and in the acquisition of land for such
+public purposes as streets, parks, schools, and other public buildings or public uses.
+Lodging House. A building where, for compensation, lodging is provided for three (3) or more persons.
+Lot. A parcel of land, abutting on a street, whose area, in addition to the parts thereof occupied or hereafter to be occupied by
+a building and its accessory buildings, is sufficient to provide the yards and courts required by the ordinance.
+Lot, Corner. A lot of which as least two adjacent sides abut for their full lengths upon a street, provided that the
+interior angle at the intersection of such two sides is less than 135 degrees.
+Lot Area. The horizontal area within the lot lines of the lot.
+Lot Depth. The mean horizontal distance between the front and rear lot lines.
+Lot Width. The mean horizontal distance across the lot between side lot lines at the building line measured at right
+angles to the depth.
+Lot Lines. Lines bounding a lot, as defined herein.
+Lot of Record. A lot which is a part of a subdivision, the map of which has been recorded in the office of the county recorder
+of Monroe County; or a parcel of land, the deed to which has been recorded in the office of the county recorder of
+Monroe County prior to the adoption of these regulations.
+Mobile Home. Any vehicle without motive power used or so manufactured or constructed as to permit its being used as a
+conveyance upon the public streets and highways and so designed, constructed, or reconstructed as will permit the
+vehicle to be used as a place for human habitation by one or more persons; but shall also include any such vehicle
+with motive power not registered as a motor vehicle in Iowa. A "mobile home" is not built to a mandatory building
+code, contains no state or federal seals, and was built before June 15, 1976. If a mobile home is place outside a
+mobile home park, the home is to be assessed and taxed as real estate. A mobile home is not a manufactured or
+modular home as that term is defined in this code.
+Mobile Home Park., Any site, lot, field, or tract of land under common ownership upon which two or more occupied or
+unoccupied mobile homes, manufactured homes, modular homes or a combination of the homes, recreational vehicle
+or structure or vehicle suitable or intended for habitation are harbored, either free of charge or for revenue purposes,
+and shall include any building, structure, tent, vehicle or enclosure used or intended for use as part of the equipment
+of such mobile home park. The term "mobile home park" shall not be construed to include mobile homes, buildings,
+Albia Zoning Ordinance-Page 4
+tents, or other structures temporarily maintained by any individual, educational institution, or company on their own
+premises and used exclusively to house their own labor or students. A mobile home park must be classified as to
+whether it is a residential mobile home park or a recreational mobile home park or both. The mobile home park
+residential landlord tenant Act only applies to residential mobile home parks.
+Manufactured Home. A factory built structure built under the authority of 42 United States Code Section 5403, is required by
+federal law to display a seal from the United States department of Housing and Urban Development, and was
+constructed on or after June 15, 1976 to be used as a place for human habitation. If a manufactured home is placed in
+a mobile home park, the home must be titled and is subject to the mobile home square foot tax. If a manufactured
+home is placed outside a mobile home park, the home is to be assessed and taxed as real estate A mobile home is not
+a modular or manufactured home.
+Modular Home. A factory-built structure built on a permanent chassis which is manufactures to be used as a place of human
+habitation, is constructed to comply with the Iowa State Building Code for modular factory-built structures, and must
+display the seal issued by the State Building Code Commissioner. If a modular home is placed in a mobile home
+park, the home is subject to the annual tax as required by Section 435.22 of the Iowa Code. If a modular home is
+placed outside a mobile home park, the home shall be considered real property and is to be assessed and taxed as real
+estate.
+Motel. A building or group of buildings containing apartments and/or rooming units, each of which maintains a separate
+entrance. Such building or group of buildings is designed, intended, or used primarily for the accommodation of
+automobile travelers and provides automobile parking conveniently located on the premises.
+Motor Fuel Station. A place where minor automobile repair is conducted and where gasoline, diesel oil, kerosene, or any
+other motor fuel or lubricating oil or grease for operating motor vehicles is offered for sale to the public and
+deliveries are made directly into motor vehicles, including greasing and oiling and the sale of automobile accessories
+on the premises.
+Non-conforming Use. A building, structure, or premises lawfully occupied at the time of the enactment of the ordinance by a
+use that does not conform with the provisions of the ordinance for the district in which it is located; also, such use
+resulting from changes in zoning districts or in textual provisions made hereafter.
+Parking Area, Accessory. An area of one or more parking spaces located on the same property as the building, structure, or
+premises it is intended to serve, or on adjoining or nearby property other than the public right-of-way, and of such
+shape and nature as to be appropriate and usable for the parking or storage, loading and unloading of self-propelled
+vehicles.
+Permanent Foundation. A foundation that consists of load-bearing walls, constructed of concrete, that are buried at least 42”
+deep. This permanent foundation shall be in the form of a solid wall located under the exterior walls of the structure,
+or a pier that supports the alternative structure construction of manufactured homes, as to support and secure the
+structure. In all installation, the mobile home, manufactured home, or modular home shall be attached to the
+permanent foundation in such a manner as to prevent lateral movement, settling, or heaving. The permanent
+foundation system must be visually compatible with the aesthetics of surrounding residential structures. The term
+“visually compatible” as used herein means that the foundation has a similar appearance and is constructed of similar
+materials as the foundations of like dwellings in the area.
+Sign. Any structure or devise on which letters, illustrations, designs, figures, or symbols are painted, printed, stamped, raised,
+attached, or outlined for visual communication. This device is used for the purpose of bringing the subject thereof to
+the attention of the public, but not including any flag, badge or insignia of any government or governmental agency.
+Story. That portion of a building included between the upper surface of any floor and the upper surface of the floor next
+above, or the ceiling or roof next above such floor; provided that, for the purpose of determining the required
+dimensions of yards and courts, then the average story height of a building exceeds 12 feet, each 12 feet or fraction
+thereof of the total building height shall be considered a separate full story or fractional story respectively, except the
+first story which may be 15 feet high.
+Story, Half. A partial story under a gable, hip or gambrel roof, the wall plates of which on at least two opposite
+exterior walls are not more than four feet above the floor of such story; provided, however, that any partial story used
+for residence purposes, other than for a janitor or caretaker and his or her family, shall be deemed a full story.
+Albia Zoning Ordinance-Page 5
+Street. Any public way set aside as a permanent right-of-way for vehicular or pedestrian access 21 feet or more in width if it
+existed at the time of the enactment of the ordinance; and any such public way created after enactment of the
+ordinance, provided it is 60 feet or more in width.
+Structural Alteration. Any change in the supporting members of a building including but not limited to bearing walls, loadbearing
+partitions, columns, beams, or girders, or any substantial change in the roof or in the exterior walls.
+Structure. Anything constructed, the use of which requires permanent location on the ground, or attached to something having
+permanent location on the ground.
+Yard, Front. An open space extending the full width of the lot between a building and the front lot line, unoccupied and
+unobstructed from the ground upward, except as hereinafter specified. A corner lot shall have two front yards.
+Front Yard, Least Depth. The shortest distance, measured horizontally, between any part of a building, other than
+such parts as hereinafter excepted, and the front lot line.
+Yard, Rear. An open space extending the full width of a lot between a building and the rear lot line, unoccupied and
+unobstructed from the ground upward, except as hereinafter specified.
+Rear Yard, Least Depth. The shortest distance, measured horizontally, between any part of a building, other than
+such parts as hereinafter excepted, and the rear lot line. In the case of an irregular, triangular or gore-shaped lot, a
+line 10 feet in length entirely within the lot, parallel to and a maximum distance from the front lot line shall be
+considered the rear lot line.
+Yard, Side. An open space extending from the front yard to the rear yard between a building and the side lot line, unoccupied
+and unobstructed from the ground upward, except as hereinafter specified.
+Side Yard, Least Width. The shortest distance, measured horizontally, between any part of a building, other than
+such parts as hereinafter excepted, and the nearest side lot line.
+SECTION 3 ESTABLISHMENT OF DISTRICTS.
+For the purpose of the ordinance, the following districts are designated:
+“R-1” One-Family Residence Districts
+“R-2” One, Two, Three and Four-Family Residence Districts
+“R-3” Multi-Family Residence Districts
+“B-1” Retail Business Districts
+“B-2” General Business Districts
+“I-1” Industrial Districts
+SECTION 4 OFFICIAL ZONING MAP.
+As shown by the official zoning map, the city is divided into six (6) classes of districts. The boundaries of these districts are
+hereby established as shown on the official zoning map of the city, and said map and all notations, references and other
+information shown thereon shall be and are hereby made a part of this ordinance by reference. The official zoning map, signed by
+the mayor and properly attested by signature of the clerk and date of adoption, shall be and remain on file in the office of the city
+clerk.
+1. Boundaries. The Boundaries of these districts are hereby established as shown on a map entitled "Zoning Map",
+which accompanies and is hereby made a part of this ordinance. The district boundary lines on said map are intended
+to follow lot lines, and centerlines of streets or alleys, the centerlines of streets or alleys projected, railroad right-ofways,
+or the corporate limit lines, all as they existed at the time of enactment of the ordinance; but where a district
+boundary line does not clearly coincide with lot lines, it shall be determined by scaling.
+2. Divided Lots. Where a district boundary line divides a lot which was in single ownership and of record at the time of
+enactment of the ordinance, the rules applying to the less restricted portion of such lot shall be considered as
+extending to the entire lot. If the more restricted portion of such lot is more than 50 feet beyond said dividing district
+boundary line, such less restricted use shall be limited to the portion of the lot lying within 50 feet of said boundary
+line.
+Albia Zoning Ordinance-Page 6
+3. Interpretations. Questions concerning the exact location of district boundary lines shall be determined by the Board
+of Adjustment according to rules and regulations which it may adopt, as hereinafter provided under Section 19 Board
+of Adjustments.
+4. Annexed Areas. All territory which may hereafter be annexed to the community shall be classed automatically as
+being in a "R-1 Residential District until such classification shall have been changed by amendment of the ordinance
+as provided hereinafter.
+Revised 9-5-2000
+SECTION 5 GENERAL PROVISIONS.
+The following are the general provisions to be considered in this zoning ordinance:
+1. Zoning Affects Every Structure and Use. Except as hereinafter provided, no building, structure or land shall
+hereafter be used and no building or part thereof or structure shall be erected, constructed, reconstructed, occupied,
+moved, altered, or repaired, except in conformity with the regulation herein specified for the class of District in
+which it is located.
+2. Continuing Existing Uses. Any building, structure, or use lawfully existing at the time of enactment of the ordinance
+may be continued, except certain non-conforming uses as provided under non-conforming uses in Section 5 General
+Provisions. Nothing in the ordinance shall prevent the strengthening or restoring to a safe condition any part of any
+building or structure declared unsafe by any competent authority.
+3. Non-Conforming Uses. Except as hereinafter provided under the designated exceptions below.
+a. Damaged Structures. Any non-conforming building or structure which has been or may be damaged by
+fire, flood, explosion earthquake, war, riot, or an act of God, may be reconstructed and used as before if it
+be done within 12 months of such calamity, unless damaged more than 50% of its fair market value, as
+determined by the Board of Adjustment, at the time of such damage, in which case reconstruction shall be
+in accordance with the provision of the ordinance.
+b. Discontinued Use or Changed Use. The following shall not be devoted again to non-conforming use:
+buildings, structures, or premises where a non-conforming use has been or may be discontinued for more
+than one year; buildings, structures or premises that have been changed or may be changed to a use
+permitted in the district in which they are located.
+c. Conformity Period. Any building or structure devoted to a non-conforming use with a fair market value
+of less than $500, as determined by the Board of Adjustment, may be continued for a period not to exceed
+three years after enactment of the ordinance, whereupon such non-conforming use shall cease and
+thereafter such building or structure shall be removed or changed to a conforming use.
+d. Exceptions. The foregoing provision under the Non-Conforming Uses subsections a, b, c, and d under
+Section 5 General Provisions, insofar as these limit reconstruction's or require certain uses to cease or
+buildings or structures to be removed or changed, shall not be applicable where any such building,
+structure or use would be conforming under the Comprehensive or Land Use Plan as defined herein.
+4. Street Frontage - Minimum Requirements. No lot created after the adoption of the ordinance shall contain any
+building used as a dwelling unless it abuts at least 37.5 feet on a street or have a permanent exclusive non-obstructed
+easement of access not less than 37.5 feet wide to a street.
+5. Lot Area Requirements.
+a. Existing Lots of Record. In any district where dwellings are permitted, a one-family detached dwelling
+may be constructed on any size lot officially recorded at the time of enactment of the ordinance, provided
+that (1) the owner does not own any adjoining property; and (2) the proposed yard spaces satisfy
+requirements stipulated for the district in which said lot is located. Requirements may be modified by the
+Board of Adjustment as set forth hereinafter.
+b. Lots Unserved by Sewer and/or Water. In any district where neither water supply nor public sanitary
+sewer is accessible, the otherwise specified lot area shall be a minimum 20,000 square feet with width
+requirements of 100 feet. If, however a public water and sanitary sewer supply systems are accessible and
+Albia Zoning Ordinance-Page 7
+will be installed, these requirements shall be 10,000 square feet and 66 feet respectively. The City
+Engineer or his or her equivalent shall certify that said areas will be large enough to satisfy all applicable
+requirements concerning water supply and the disposal of sanitary wastes.
+6. Numbers of Uses on One Lot. No lot shall contain more than one principal use.
+7. Accessory Buildings in Residence Districts.
+a. Size of Structure. An accessory building shall be erected in and occupy less than 30% of a required rear
+yard. A private garage may be located within fifty (50) feet of any front lot line, but not closer than the
+projected front line of the dwelling. An accessory building shall be only erected in the side or back yard of
+the lot. Accessory buildings shall be distanced at least five feet from all lot lines. Accessory buildings may
+be erected as a part of the main building, or may be connected thereto by a breezeway or similar structure,
+providing said buildings comply with all yard requirements for any main or principal building. An
+accessory building which is not a part of the main building may occupy a maximum of 30% of the rear or
+side yard, shall not exceed sixteen and one-half (16 ½) feet in height and shall not exceed thirteen hundred
+(1300) square feet in total area.
+In the R-1 or R-2, Residential Districts a private garage may be constructed in the side yard or rear yard
+on the same lot with the main or principal building, or on a lot adjoining the lot on which the main or
+principal building is located, either as a separate building or attached to the main or principal building.
+When wholly or partially within the limits of the side yard and attached to the main or principal building,
+such garage shall be considered a part of the main or principal building and shall conform to all yard and
+space requirements as specified in this zoning ordinance for main buildings.
+b. Topography. Where the natural grade of a lot at the front wall of the principal building is more that 8 feet
+above the average established curb grade in front of the lot, a private garage may be erected within any
+yard or court, but not within 10 feet of any property line, provided that at least one-half of the height of
+such private garage shall be below the level of the yard or court.
+c. Attached Garage or Carport. A garage or carport attached directly to the dwelling or connected by a
+breezeway or similar structure shall become a part of the principal building and shall comply with all yard
+requirements of the dwelling.
+8. Adjoining Lots Under One Ownership. Where two adjoining lots are under one ownership, an accessory building
+may be constructed on one lot if the adjacent lot contains the principal structure. The accessory structure must
+comply with the regulations contained in this ordinance regarding size and location on the lot.
+9. Required Yard Cannot be Reduced or Used by Another Building.
+a. Area. No lot, yard, court, parking area or other open space shall be so reduced in area or dimension as to
+make any such area or dimension less than the minimum required by the ordinance. If already less than
+the minimum required it shall not be further reduced. Each building or structure shall have its own open
+space as required in this ordinance and such open space shall not be included as part of the open space to
+any other building or structure.
+b. Garages and Parking. The space used for a private garage and parking area shall be considered as part of
+the open space required about a principal building and the same rules shall apply as to size. Such space
+shall not be reduced or included as part of any required open space for another building or structure.
+10. Conversion of Dwelling. The conversion of any building or dwelling, or the conversion of any dwelling so as to
+accommodate an increased number of dwelling units or families, shall be permitted only within a district in which a
+new building for similar occupancy would be permitted under the ordinance. Such conversion will be permitted only
+when the resulting occupancy will comply with the requirements governing new construction in such district with
+respect to: lot size, lot area per dwelling unit, dimensions of yards and other open spaces, and off-street parking.
+Each conversion shall be subject also to further requirements as may be specified hereinafter within the Section
+applying to each district.
+11. Transitional Uses in "R" Districts. In any "R-1", "R-2", or "R-3" District a transitional use shall be permitted on a lot
+the side lot line of which adjoins, either directly or across an alley, any "B" or "I" Districts. The permitted
+transitional uses for any such lot in an "R-1" District shall be any use permitted in the "R-2" District and for any such
+Albia Zoning Ordinance-Page 8
+lot in an "R-2" District any use permitted in the "R-3" District. In the case of any such lot in an "R-1", "R-2", or "R-
+3" District, the requirements governing lot area per dwelling unit, off-street parking, yards and other open spaces
+shall be the same as for the district respectively next listed in Section 3 Establishment of Districts. Any transitional
+use authorized under this section shall not extend more than 100 feet from the side lot line of the lot abutting on the
+zoning district boundary line.
+Revised 10-21-02
+12. Minimum Ground Floor Area for Dwellings.
+a. One-Story Dwellings. A one-story dwelling shall contain not less than 720 square feet of usable ground
+floor area, exclusive of open porches, garages or steps.
+b. Multi-Story Dwellings. A 1 1/2 or two-story dwelling shall contain not less that 600 square feet of ground
+floor area, exclusive of open porches, garages, or steps.
+13. Traffic Visibility Across Corner Lots. In any "R" District on any corner lot, no fence, structure or planting shall be
+erected or maintained within 20 feet of the "corner" so as to interfere with traffic visibility across the corner.
+14. Essential Services. Essential services shall be permitted as authorized and regulated by law and other ordinances of
+the community, it being the intention hereof to exempt such essential services from the application of the ordinance.
+15. Off-Street Parking and Loading. In any district spaces for off-street parking and for loading or unloading shall be
+provided in accordance with the provisions of Section 14 Special Provisions.
+16. Validity of Existing Building Permits. Nothing herein contained shall require any change in the over-all layout,
+plans, construction, size or designated use of any development, building, structure or part thereof, for which official
+approvals and required building permits have been granted before the enactment of the ordinance. Such construction,
+conforming with approved plans, shall have been started prior to the effective date of the ordinance and completion
+thereof carried on in a normal manner within the subsequent six-month period and not discontinued until completion,
+except for reasons beyond the builder's control.
+SECTION 6 “A-I” AGRICULTURAL DISTRICTS
+RESERVED FOR FUTURE USE.
+SECTION 7 "R-1" ONE FAMILY RESIDENCE DISTRICTS.
+The following are provisions of the R-1 One Family Residence Districts:
+1. Permitted Principal Uses.
+a. One-family detached dwellings.
+b. Public parks, playgrounds, and recreational areas.
+c. Essential services as defined herein and municipal administrative or public buildings or properties, except
+such uses as storage yards, warehouses, garages, or other uses customarily conducted as gainful business,
+provided any building is located not less that 20 feet from any lot in an "R" District.
+d. Cemeteries of 10 acres or more in size.
+e. Churches, chapels, or parish houses located not less that 20 feet from any side lot line in any "R" District.
+f. Any building or structure occupied or used for preschool, elementary, junior high or high schools, and
+public libraries located not less than 20 feet from any side lot line.
+g. Transformer stations and booster or pressure regulating stations, without service yard or storage.
+h. A manufactured home or modular home only if it is installed upon a permanent foundation as defined
+herein.
+i. Two, three and four-family dwellings pursuant to a conditional use permit issued pursuant to Chapter 15A
+of the Albia Zoning Ordinances.
+Albia Zoning Ordinance-Page 9
+j. Expansion of an existing nonconforming commercial or industrial use in a residential area or the
+expansion of an existing nonconforming industrial use in a commercial area may be allowed by a
+conditional use permit if the following conditions exist:
+1. The area at the time of the application for the conditional use permit is a lawful nonconforming use.
+2. If the existing nonconforming use is a commercial use, the area is located immediately adjacent to or
+adjoining an existing commercial district or industrial district.
+3. If the existing nonconforming use is industrial, the area is located immediately adjacent to or adjoining
+an existing industrial district.
+2. When Authorized by Board of Adjustment.
+a. Privately operated country clubs, golf courses, swimming clubs, riding stables, and similar recreation uses
+provided that any principal or accessory building in connection therewith shall be located not less than
+200 feet from any lot in an "R" District.
+3. Permitted Accessory Uses.
+a. Private garages or parking areas.
+b. Living quarters of persons employed on the premises.
+c. Office of a physician, dentist, lawyer, architect, engineer, clergyman, accountant, or similar enterprises; or
+customary incidental home occupations including home day cares, beauty shops, barber shops; or dancing
+or music schools with more than one pupil at a time. No more than one room within the dwelling shall be
+used for such purposes.
+d. Home occupations as defined in Section 2 of this Ordinance after issuance of a permit by
+the Zoning Administrator.
+e. Signs as regulated by Section 13.
+4. Height Regulations. No principal structure shall exceed 2 1/2 stories or 35 feet in height from the average
+established curb grade in front of the lot or the average finished grade at the building line,
+if higher, and no accessory structure shall exceed one story or 15 feet in height, except as provided in Section 16
+Additional Requirements, Exceptions, and Modifications.
+Revised 6-6-05
+5. Lot Area, Frontage and Yard Requirements. The following minimum requirements shall be observed, subject to the
+additional requirements, exceptions and modifications in Section 16 Additional Requirements, Exceptions, and
+Modifications, inclusive. Each lot shall have a minimum lot area of 7,500 square feet.
+Minimum Minimum Side Minimum
+Minimum Front Yard Widths Rear
+Lot Yard Least Sum Least Yard
+Width Depth Width Widths Depth
+1 and 1 1/2 stories 66' 25' or 8' 16' 35'
+conforming
+2 and 2 1/2 stories 66' 25' or 8' 16' 35'
+conforming
+Accessory Buildings must be at least 5 feet from the rear lot lines and 3 feet from the side lot lines.
+SECTION 8 "R-2" ONE, TWO, THREE AND FOUR-FAMILY RESIDENCE DISTRICTS.
+Albia Zoning Ordinance-Page 10
+The following are provisions of the R-2 One, Two, Three and Four-Family Residence Districts:
+1. Permitted Principal Uses.
+a. Any use or structure permitted and as regulated in the permitted principal uses of Section 7 “R-1” One-Family
+Residence Districts, except as hereinafter modified.
+b. Two, Three and Four-Family dwellings.
+c. A manufactured home or modular home only if it is installed upon a permanent foundation as defined herein.”
+2. When Authorized by Board by Adjustment.
+a. Any use as regulated in Section 7.2 "R-1" One Family Residence Districts, except as hereinafter modified.
+b. Dwelling Groups
+c. Parking areas accessory to a use in an adjoining less restricted district, when abutting or directly across an
+alley, subject to the applicable conditions stipulated in Section 19 Board of Adjustments, and such further
+conditions as may be stipulated by the board.
+d. Hospitals, sanitariums, and nursing homes provided that any such buildings shall be at least 50 feet from
+any lot in any "R" District. Hospitals shall be located on lots of five acres or more, sanitariums on lots of
+ten acres or more and nursing homes on lots of 20,000 square feet or more.
+e. Residence development project exempt from district height regulations (See Section 14 Special
+Provisions).
+3. Permitted Accessory Uses.
+a. "R-1" Residence District accessory uses.
+b. Signs as regulated by Section 13.
+4. Height Regulations. No principal structure shall exceed 2 1/2 stories or 35 feet in height from the average
+established curb grade in front of the lot or from the average finished grade at the building line, if higher, and no
+accessory structure shall exceed one story or 15 feet in height, except as provided in Section 16 Additional
+Requirements, Exceptions, and Modifications.
+5. Lot Area, Frontage, and Yard Requirements. The following minimum requirements shall be observed, subject to the
+additional requirements, exceptions and modifications in Section 16 Additional Requirements, Exceptions, and
+Modifications, inclusive. Each one-family residence shall be located on a lot containing at least 6,000 square feet.
+Each structure containing more than one family shall be located on a lot having an area of 4,000 square feet for each
+family.
+Minimum Minimum Side Minimum
+Minimum Front Yard Widths Rear
+Lot Yard Least Sum Least Yard
+Width Depth Width Widths Depth
+1 and 1 1/2 stories 66' 25' 8' 16' 35'
+<+ or conforming+>
+2 and 2 1/2 stories 66' 25' 8' 16' 35'
+<+or conforming+>
+Accessory Buildings must be at least 5 feet from the rear lot lines and 3 feet from the side lot lines.
+(Revised 11-15-04)
+SECTION 9 "R-3" MULTI-FAMILY RESIDENCE DISTRICTS.
+The following are provisions of the R-3 Multi-Family Residence Districts:
+Albia Zoning Ordinance-Page 11
+1. Permitted Principal Uses.
+a. Any use or structure permitted and as regulated in permitted principal uses in Section 8 "R-2" One, Two,
+Three and Four-Family Residence Districts, except as hereinafter modified.
+b. Dwellings for any number of families.
+c. Boarding and lodging houses.
+d. A manufactured home or modular home only if it is installed upon a permanent foundation as defined
+herein or a mobile home, manufactured home or modular home within an authorized mobile home park
+2. When Authorized by Board of Adjustment.
+a. Any use as regulated in Section 8.2 "R-2" One, Two, Three and Four-Family Residence Districts, except
+as hereinafter modified.
+b. Office of civic, religious or charitable organizations and financial or insurance institutions conducting
+their activities primarily by mail and not handling merchandise or rendering services on the premises.
+c. Physicians' and dentists' offices and private clinics for human care, professional offices of architects,
+engineers, lawyers, and the like; offices devoted to real estate, insurance, management, and similar
+enterprises when conducting their activities primarily by mail or telephone and not displaying or handling
+merchandise on the premises.
+d. Mobile home parks subject to the following conditions:
+(1) The mobile home park shall be located on a parcel of ground at least five acres in size and each
+boundary line of the park shall be at least 200 feet from any residential structure located outside
+the park unless separated therefrom by a natural or artificial barrier.
+(2) The park shall be located on a well-drained site, properly graded to insure rapid drainage and
+freedom from stagnant pools of water.
+(3) Each mobile home, manufactured home, or modular home space shall be large enough to provide
+a distance of 10 feet between any trailer or structure on the space and the lot line, a front yard of
+15 feet and a rear yard of 10 feet.
+(4) All mobile home, manufactured home, or modular home spaces shall abut upon a driveway of
+not less than 20 feet in width which shall have unobstructed access to a public street.
+(5) Walkways not less than two feet wide shall be provided from the trailer spaces to the service
+buildings.
+(6) All driveways and walkways in the park shall be hard surfaced and lighted at night with electric
+lamps of not less than 25 watts each, spaced at intervals of not more than 100 feet.
+(7) Each mobile home park shall provide service buildings to house such toilet, bathing, and other
+sanitary facilities and such laundry facilities as may be prescribed.
+(8) An electrical outlet supplying at least 110 volts shall be provided for each mobile home,
+manufactured home, or modular home space.
+(9) Adequate sanitary facilities and supply of pure water shall be provided to each mobile home,
+manufactured home, or modular home space.
+(10) Each park shall comply with the regulations set forth by the General Assembly of Iowa.
+(11) Tiedowns for each mobile home, manufactured home, or modular home as required of State law.
+3. Permitted Accessory Uses.
+a. "R-2" Residence District accessory uses.
+b. Signs as regulated by Section 13. Revised 12-21-98
+4. Height Regulations. No principal structure shall exceed five stories or 60 feet in height, at the required front, side
+and rear yard lines, other than as provided in Section 16 Additional Requirements, Exceptions, and Modifications
+except that one foot may be added to the height permitted for each foot that the building is set back from the required
+yard lines and that one foot be added to the minimum lot width for each one foot that the building exceeds five stories
+Albia Zoning Ordinance-Page 12
+or 60 feet in height. For buildings exceeding the five stories or 60 feet, a sprinkler system must be installed for fire
+protection.
+5. Lot Area, Frontage and Yard Requirements. The following minimum requirements shall be observed, subject to the
+additional requirements, exceptions and modifications in Section 16 Additional Requirements, Exceptions, and
+Modifications, inclusive. Each structure shall be located on a lot containing at least 5,000 square feet. Each structure
+containing more than one family shall be located on a lot having an area of 2,000 square feet for each family.
+Minimum Minimum Side Minimum
+Minimum Front Yard Widths Rear
+Lot Yard Least Sum Least Yard
+Width Depth Width Widths Depth
+1 story 50' 30' 6' 12' 30'
+2 stories 52' 32' 8' 17' 30'
+3 stories 55' 35' 10' 22' 35'
+4 stories 65' 40' 12' 27' 40'
+5 stories 75' 45' 14' 33' 45'
+Over 5 stories (See Sub-section 9.5 of "R-3" Districts yard and width requirements)
+Accessory Buildings must be at least 5 feet from the rear lot lines and 3 feet from the side lot lines.
+SECTION 10 "B-1" RETAIL BUSINESS DISTRICTS.
+The following are provisions of the B-1 Retail Business Districts:
+1. Permitted Principal Uses.
+a. Any use or structure permitted and as regulated in Section 9 "R-3" Multi-Family Residence Districts,
+except hereinafter modified.
+b. Any retail business establishment, such as appliance store, auto accessory store, bakery with baking
+limited to goods for retail sales on the premises, book or stationery store, cafe or restaurant, camera or
+photographic supply shop, candy or ice cream store, delicatessen, drug store, fabric shop, floor-covering
+store, florist shop, furniture store including incidental upholstering, gift shop, grocery store, haberdashery
+or women's ready-to-wear shop, hardware or paint store, hobby shop, jewelry store, meat market, shoe
+store and variety store.
+c. Any service establishment, such as a bank or other financial enterprise, barber or beauty shop, business or
+professional office, clothes cleaning or laundry pick-up station, funeral home, theater, and self-service
+laundry.
+d. Animal hospitals, veterinary clinics or kennels, provided that buildings or enclosures in which animals are
+kept shall be at least 100 feet from any lot in any "R" District.
+e. Bus terminal.
+f. Business or trade school.
+g. Commercial parking lot.
+h. Department store.
+i. Electrical and shoe repair shops.
+j. Hotel.
+Albia Zoning Ordinance-Page 13
+k. Meeting hall, club or fraternal organization where alcohol is not served.
+l. Messenger or telegraph service stations.
+m. Music and dancing studio.
+n. Public parking lot, customer and other accessory parking area, subject to the applicable provisions of
+Section 14 Special Provisions.
+o. Storage garages.
+p. Auto dealership sales showrooms.
+q. Libraries and museums.
+r. The following uses when occupying a completely enclosed building located at least 100 feet from any "R"
+District:
+(1) Dance hall, bar or cocktail lounge, night club, and similar enterprise.
+(2) Furniture upholstering.
+(3) Printing, publishing, engraving or lithographing shop.
+(4) Laundry and dry cleaning shop.
+(5) Plumbing shops.
+s. Any other use that is determined by the Board of Adjustment to be of the same general character as the
+forgoing permitted uses, but not including any use which may become noxious or offensive in a "B-1"
+Retail Business District.
+2. Permitted Accessory Uses.
+a. Accessory uses customarily incidental to a permitted use, including signs as regulated by Section 13.
+3. Height Regulations. No structure shall exceed three stories or 45 feet in height, except as provided in Section 16
+Additional Requirements, Exceptions, and Modifications.
+4. Yard Requirements. The following minimum requirements shall be observed, subject to the additional requirements,
+exception and modifications in Section 16 Additional Requirements, Exceptions, and Modifications.
+Minimum Minimum Minimum
+Front Yard Depth Side Yard Depth Rear Yard Depth
+Dwelling (same as in "R-3" Districts)
+Other Permitted Uses None None, except where None, except
+adjoining an "R" where adjoining
+District, then same and "R" District,
+as the least width then same as "R"
+required in that "R" District.
+District.
+(Revised 9-5-2000)
+SECTION 11 "B-2" GENERAL BUSINESS DISTRICTS.
+The following are provisions of the B-2 General Business Districts:
+1. Permitted Principal Uses.
+a. Any use or structure permitted and as regulated in Section 10 "B-1" Retail Business Districts, except as
+hereinafter modified.
+b. Tourist homes.
+Albia Zoning Ordinance-Page 14
+c. Building material sales yards, if enclosed on all sides by an eight-foot high solid fence.
+d. Wholesale businesses and warehouses.
+e. Hotels or motels, subject to the provisions of Section 14 Special Provisions.
+f. Drive-in facility establishments.
+g. Farm implement sales and service.
+h. Frozen food lockers.
+i. Motor fuel stations subject to the conditions stipulated in Section 14 Special Provisions.
+j. Greenhouses.
+k. Commercial baseball field, boat house, golf driving range, skating rink, swimming pool, or similar open
+air recreational uses and facilities, but not within 200 feet of any "R" District.
+l. The following uses provided no part of a building where any activity is conducted shall have any openings
+other than stationary windows or required fire exits within 100 feet of any "R" District.
+(1) Automobile, truck, trailer, and farm implement establishments for display, hire, sales, including
+sales lots.
+(2) Bottling of soft drinks or milk, or distribution stations.
+(3) Bowling alley, pool hall or billiard parlor, dance hall, bar or cocktail lounge, night club and
+similar enterprises.
+(4) Carpenter shop, electrical, heating, ventilating or plumbing shop, furniture upholstering shop,
+printing, publishing, engraving or lithographing plant, laundry and dry cleaning shop, sign
+painting shop, and similar establishments.
+m. Recreational vehicle park, subject to a conditional use permit pursuant to Sec. 15A of the Albia Zoning
+Ordinances.
+n. Any other use that is determined by the Board of Adjustment to be of the same general character as the
+foregoing permitted uses, but not including any use which may become noxious or offensive in a "B-2"
+District.
+2. Permitted Accessory Uses.
+a. "B-1" Retail Business District accessory use.
+b. Other accessory uses customarily incidental to a permitted principal use, including signs as regulated by
+Section 13.
+3. Height Regulations. No structure shall exceed three stories or 45 feet in height, except as provided in Section 16
+Additional Requirements, Exceptions, and Modifications.
+4. Lot Area, Frontage, and Yard Requirements. The following minimum requirements shall be observed, subject to the
+additional requirements, exceptions and modifications in Section 16 Additional Requirements, Exceptions, and
+Modifications, inclusive.
+Albia Zoning Ordinance-Page 15
+Minimum Minimum Minimum
+Minimum Minimum Front Side Rear
+Lot Lot Area Yard Yard Yard
+Area Per Family DepthWidths Depth
+Dwellings (Same as "R-3" Districts)
+Other
+Permitted
+Uses None None None None, except None, except
+where adjoining where adan
+"R" District joining an
+then same as the "R" District
+least width then same
+required in that as "R"
+"R" District District
+Revised 9-5-2000
+SECTION 12 "I-1" INDUSTRIAL DISTRICTS.
+The following are provisions of the I-1 Industrial Districts:
+1. Permitted Principal Uses.
+a. Any use or structure permitted and as regulated in permitted principal uses of Section 11 "B-2" General
+Business Districts, except as hereinafter modified.
+b. The following uses if located not less than 100 feet from any "R" District, provided any such operations
+are enclosed by a solid wall or fence not less than six feet in height:
+(1) Builder's or contractor's plant or storage yard.
+(2) Building material sales and storage yard, including concrete mixing.
+(3) Lumber yard, including millwork.
+(4) Open yard for storage and sale of feed, fertilizer, or fuel.
+c. The following uses, providing no part of a building occupied by such uses shall have openings other than
+stationary windows or required exits within 100 feet of any "R' District:
+(1) Automobile repair garage doing major repair, including tire retreading or recapping, battery
+service and repair.
+(2) The manufacture, compounding, processing, packaging or treatment of such products as bakery
+goods, candy, cosmetics, pharmaceuticals, toiletries, milk and food products.
+(3) The manufacture, compounding, assembling, or treatment of articles or merchandise from the
+following previously prepared material: canvas, cellophane, cloth, fiber, glass, leather, paper,
+plastics, precious or semi-precious metals or stone, rubber, textiles, wood and yarn.
+(4) The manufacture or assembly of electrical appliances, electronic instruments and devices,
+phonographs, radio and televisions sets, electric and neon signs, refrigerators and stoves.
+d. Railroad freight stations, trucking or motor freight terminals, provided that service yards or docks are at
+least 100 feet from any lot in any "R" District.
+e. Sanitary landfills, in accordance with county and state regulations, except that no sanitary landfill shall be
+operated within 1,320 feet of any "R" District.
+f. Any other use not in conflict with enacted laws of the State of Iowa or city regulating nuisances that is
+determined by the Board of Adjustment to be of the same general character as the foregoing permitted
+uses, but not including any use which may become noxious in an "I-1" District or offensive or emitting or
+likely to emit substantial amounts of dust, odor, gas, smoke, or noise. In determining the character of
+such use, the Board shall refer to the special exceptions and interpretation of the map in Section 19 Board
+of Adjustments.
+Albia Zoning Ordinance-Page 16
+g. Auto salvage and wrecking operations, industrial metal and waste salvage operations, and junk yards, but
+only when located inside a building or when wholly enclosed by a wooden fence not less than eight (8)
+feet in height and in which the openings or cracks are less than fifteen (15) percent of the total area.
+2. Permitted Accessory Uses.
+a. "B-2" Business District accessory uses.
+b. Other accessory uses customarily incidental to a permitted principal use, including signs as regulated by
+Section 13.
+3. Prohibited Uses.
+a. Dwellings, except for watchman or caretaker on the premises.
+b. Schools, hospitals, clinics, and other institutions for human care, except when incidental to a permitted
+principal use.
+c. Generation, storage, or handling of nuclear or radioactive materials.
+d. None of the following specific uses shall be permitted unless approved by the council after a review and
+report from the Zoning Commission, subject to such requirements as it may deem necessary to protect
+adjacent property and prevent objectionable or offensive conditions:
+(1) Chemicals, petroleum, coal, and allied products:
+a) Acids and derivatives
+b) Acetylene
+c) Ammonia
+d) Carbide
+e) Caustic Soda
+f) Cellulose and cellulose storage
+g) Chlorine
+h) Coke oven products (including fuel gas) and coke oven products storage
+i) Creosote
+j) Distillation, manufacture, or refining of coal, tar, asphalt, wood, and bones
+k) Explosives (including ammunition and fireworks) and explosives storage
+l) Fertilizer (organic)
+m) Fish oils and meal
+n) Glue, gelatin (animal)
+o) Hydrogen and oxygen
+p) Lampblack, carbonblack, and boneblack
+q) Nitrating of cotton or other materials
+r) Nitrates (manufacture and natural) of explosive nature and storage
+s) Petroleum, gasoline, and lubricating oil refining and wholesale storage
+t) Plastic materials and synthetic resins
+u) Potash
+v) Pyroxylin
+w) Rendering and storage of dead animals, offal, garbage, or waste products
+x) Turpentine and resin
+y) Wells, gas and oil
+(2) Clay, stone, and glass products:
+a) Brick, firebrick refactories, and clay products (coal fired)
+b) Cement, lime, gypsum, or plaster of Paris
+c) Minerals and earth; quarrying, extracting, grinding, crushing, and processing
+(3) Food and beverage:
+a) Fat rendering
+b) Fish curing, packing, and storage
+c) Slaughtering of animals
+d) Starch manufacture
+(4) Metals and metal products:
+a) Aluminum powder and paint manufacture
+b) Blast furnace, cupolas
+Albia Zoning Ordinance-Page 17
+c) Blooming mill
+d) Metal and metal ores, reduction, refining, smelting, and alloying
+e) Scrap metal reduction
+f) Steel works and rolling mill (ferrous)
+(5) Wood and paper products:
+a) Match manufacture
+b) Wood pulp and fiber, reduction and processing
+(6) Unclassified industries and uses:
+a) Hair, hides, and raw fur, curing, tanning, dressing, dyeing, and storage
+b) Stockyard or commercial feed lot
+4. Yard Requirements. The following minimum requirements shall be observed, subject to the additional requirements,
+exceptions and modifications in Section 16 Additional Requirements, Exceptions, and Modifications, inclusive (Revised 9-5-2000)
+Height Minimum Minimum Minimum
+Permitted Uses Front Yard Depth Side Yard Widths Rear Yard Depth
+4 stories or 50' Same as B-2 Same as B-2 Same as B-2
+in height
+SECTION 13 SIGN AND AWNING REGULATIONS.
+The following are provisions of signs and awnings:
+1. Purpose of Sign Regulations. The purpose of this section is to provide that signs and awnings are safely constructed
+and kept in a safe condition, and that signs shall not be located so as to cause a safety hazard. It is intended to protect
+values, create a more attractive economic and business climate, enhance and protect the physical appearance of the
+community, preserve the scenic and natural beauty of designated areas, and provide a more enjoyable and pleasing
+community. All signs for which permits are issued shall be designed to preserve the architectural integrity of the
+building and shall be in keeping with the restoration concept of the Albia central business district.
+2. Sign Specifications. As applicable to this section, the following words and terms are hereby defined:
+a. Agricultural Sign. Any sign not exceeding four square feet in area indicating the type of plant being
+grown or the type of fertilizer/herbicide used.
+(1) These signs may be used only within an agricultural realm.
+(2) Agricultural signs do not require a permit for use.
+b. Awning. A device attached to buildings by means of movable metal frames. It shall also mean all metal
+and/or wood projections also referred to as canopies and marquees.
+(1) Movable awnings supported throughout on metal frames may extend over the sidewalk portion
+of a public street a distance not to exceed two-thirds (2/3) of the width of the sidewalk space;
+provided that every such awning frame shall not be less than seven feet six inches (7'6") from the
+sidewalk immediately below, and that any fringe attached to the awning shall not be less than
+seven feet (7') from the sidewalk immediately below.
+(2) Permanent canopies or marquees, except those already in existence at the time of passage of this
+ordinance, shall not be permitted.
+c. Billboard. Any flat surface twenty (20) square feet or more in area, erected on a framework or attached
+to posts, buildings, or other structures, and used for the display of bills, posters or other advertising
+matter, posted, tacked, or fastened thereto. Billboards of any kind are prohibited in the central business
+district and residential districts. The central business district is described as commencing at the corner of
+North “A” Street and “B” Avenue West, thence east to North 3rd Street, thence south to 2nd Avenue East,
+thence west to South “A” Street, thence north to the place of beginning. In the central business district,
+any service station, super market or car dealer located in the central business district shall be allowed one
+freestanding sign advertising their product and/or service.
+d. Free Standing Sign. A sign permanently supported by one or more uprights, braces, poles, or other
+similar structural components when utilizing earth, rock, the ground, or any foundation set in the ground
+as a primary holding base and not attached to or enclosed by any building.
+Albia Zoning Ordinance-Page 18
+e. Ground Sign. Any sign the structure of which is erected upon or supported by the ground with a surface
+area of twenty (20) square feet or less.
+(1) Poster boards or ground signs are prohibited in the following locations:
+a) Closer to any street line or established building line than a distance equal to the height of
+such sign above the ground.
+b) Within five hundred feet (500') of any railroad crossings, where the sign will interfere
+with or obstruct the view of persons approaching the street intersection.
+c) Within two hundred feet (200') of any street intersection where the sign will interfere with
+or obstruct the view of persons approaching the street intersection.
+d) In any location which will interfere with the lighting of any street, alley, or public place,
+or interfere with any public utility service.
+(2) An open space at least one foot (1') high shall be maintained between the poster board or ground
+sign and the ground.
+(3) All poster boards and ground signs shall be constructed and supported to withstand a horizontal
+wind pressure of thirty pounds (30) per square foot of surface. All structural parts, posts and
+braces shall be able to withstand all induced stresses using unit stress values of fifty percent
+(50%) of the allowable unit stress values commonly used for such materials.
+f. Illuminated Signs.
+(Revised 3-4-02)
+(1) Whenever any sign is illuminated by electricity or equipped in any way with electrical devices,
+these devices shall conform in all respects to the provisions of this code.
+(2) No flashing signs of any type are permitted.
+g. Poster Board. Any flat surface under twenty (20) square feet in area, erected on a framework or attached
+to posts, buildings, or other structures, and used for the display of bills, posters or other advertising matter
+produced on paper sheets, cloth or other materials and posted, tacked, or fastened thereto.
+(1) Poster boards or ground signs are prohibited in the following locations:
+a) Closer to any street line or established building line than a distance equal to the height of
+such sign above the ground.
+b) Within five hundred feet (500') of any railroad crossings, where the sign will interfere
+with or obstruct the view of persons approaching the street intersection.
+c) Within two hundred feet (200') of any street intersection where the sign will interfere with
+or obstruct the view of persons approaching the street intersection.
+d) In any location which will interfere with the lighting of any street, alley, or public place,
+or interfere with any public utility service.
+(2) An open space at least one foot (1') high shall be maintained between the poster board or ground
+sign and the ground.
+(3) All poster boards and ground signs shall be constructed and supported to withstand a horizontal
+wind pressure of thirty pounds (30) per square foot of surface. All structural parts, posts and
+braces shall be able to withstand all induced stresses using unit stress values of fifty percent
+(50%) of the allowable unit stress values commonly used for such materials.
+h. Projecting Sign. Any sign fastened to, suspended from, or supported by a building or structure so as to
+project therefrom at an angle.
+(1) Signs fastened to, suspended from or supported by a building or structure so as to project
+therefrom at an angle shall not extend more than three feet (3') beyond the street line.
+(2) Projecting signs shall not contain an exposed surface area on one side exceeding six square feet
+(6 sq. ft.).
+(3) Projecting signs shall have a clear space of not less than seven feet six inches (7'6") below all
+parts of the sign. Projecting signs extending into the limits of an alley shall have a clear space of
+not less than sixteen feet (16') above the alley grade.
+(4) The distance between the parallel surfaces of a double faced sign shall not exceed three inches
+(3").
+(5) All projecting signs shall be securely supported by metal brackets attached to the walls of the
+building with through bolts, expansion bolts or lag screws, and shall be firmly, braced and held
+in place by means of soft iron or steel cables, provided with turn buckles for tightening when so
+required.
+i. Real Estate Sign. Signs used for advertising the sale or lease of a building or lot, upon which the same are
+located, where the signs are not permanently attached to buildings or the ground.
+Albia Zoning Ordinance-Page 19
+(1) These signs may be used in a temporary nature during the time the property is for sale or to lease.
+(2) Real estate signs shall be removed upon which time the building or lot for sale or lease on the
+premises is sold or leased out.
+j. Roof Sign. The term "Roof Sign" shall mean any sign placed on or above the roof of any building or
+structure.
+(1) Roof signs of any kind are prohibited.
+k. Sign. Any structure or device on which letters, illustrations, designs, figures, or symbols are painted,
+printed, stamped, raised, attached, or outlined for visual communication. This device is used for the
+purpose of bringing the subject thereof to the attention of the public, but not including any flag, badge or
+insignia of any government or governmental agency.
+l. Sign Area: Display surface included within the framework of any sign measured from the outside of the
+framework. The total area shall include:
+(1) Faces of all permanent exterior signs visible from a public way
+(2) The area of permanent signs placed upon the surfaces of windows and doors.
+(3) The area within the outline enclosing the lettering, modeling, or insignia of signs integral with
+the wall and not designed as a panel.
+m. Street Line. The place where the public sidewalk begins and the private property line ends.
+n. Temporary Signs. Signs used for advertising special events which are not permanently attached to
+buildings or the ground.
+(1) May be used for advertising special events but will be limited to three (3) days use in any six
+month period. Size requirements will not apply to temporary signs but all other requirements
+must be followed.
+o. Wall Sign. Any sign with its face parallel to and projecting not more than six (6) inches from the wall to
+which it is attached.
+(1) Signs placed against the exterior walls of buildings shall not exceed more than six (6) inches
+from the wall surface to which they are attached.
+(2) Wall signs attached parallel to the face of a building shall not exceed forty square feet (40 sq. ft.)
+in area, for any twenty feet (20') of frontage on the building, nor shall more than one of these
+signs be attached to each face of the building.
+(3) Wall signs shall not extend beyond the ends of the wall surface on which they are placed.
+(4) Wall signs shall be securely attached to structural members of buildings with metal brackets,
+expansion bolts or lag screws.
+3. Permits Required. Every person shall obtain a permit from the city zoning administrator before erecting a projecting
+sign, wall sign, poster board or ground sign. A committee may be appointed to review such permits for
+recommendation to the city zoning administrator. The Historic Preservation Committee may review the permits in
+the Downtown Historical District of Albia.
+4. District Sign Allowances.
+a. Agricultural District Signs.
+(1) Agricultural signs
+(2) Signs not exceeding twenty square feet in area pertaining to a permitted recreational use or areas
+of scenic beauty, provided such signs shall be set back at least ten feet from any right-of-way,
+and there shall be a distance of three hundred (300) feet between any such signs.
+(3) Signs accessory to roadside stands shall be limited to two signs per lot with no sign being larger
+than ten square feet, set back at least ten feet from the right-of-way of any highway, street, or
+road.
+(4) Real estate signs, not exceeding two per lot and set back at least four feet from the right-of way
+of any highway, street, or road.
+b. Residential District Signs.
+(1) Awnings, ground signs, illuminated signs, poster boards, projected signs, temporary signs, and
+wall signs not to exceed twelve square feet in total sign area. These signs must be set back at
+least twenty (20) feet from the right-of-way of any highway, street, or road.
+Albia Zoning Ordinance-Page 20
+(2) Real estate signs, not exceeding two per lot and set back at least four (4) feet from the right-ofway
+of any highway, street, or road.
+(3) One nameplate not exceeding four square feet for each dwelling.
+(4) Agricultural signs are not allowed in any residential district.
+c. Business District Signs.
+(1) Awnings, ground signs, illuminated signs, poster boards, projected signs, temporary signs, and
+wall signs not to exceed 100 square feet in total sign area.
+(2) Real estate signs, not exceeding two per lot.
+(3) Agricultural signs are not allowed in any business district.
+(4) Historical District Signs may be stipulated by the Albia Historical District Commission
+d. Industrial District Signs.
+(1) Awnings, ground signs, illuminated signs, poster boards, projected signs, temporary signs, and
+wall signs not to exceed 100 square feet in total sign area.
+(2) Real estate signs, not exceeding two per lot.
+(3) Agricultural signs are not allowed in any industrial district.
+4. Restricted Area, Unlawful Signs, Non-Conforming Signs. No sign of any type, or any part thereof, whether or not
+the same is an integral part of the building or structure, shall be affixed or placed upon any building or structure
+unless the front face of such sign shall be parallel to the face of the building or structure to which it is affixed in front
+of which it is placed. Said parallel sign shall not extend more than six (6) inches from the front of the building or
+structure, and if said parallel sign is affixed to a permanent canopy or marquee, said sign shall not extend further out
+than the furthest extension of the canopy or marquee. The above restrictions shall apply to all buildings and
+structures in the central business district of the City of Albia, Iowa. An exception of the above shall be that any
+service station, supermarket or car dealer located in the above areas shall be allowed one freestanding sign
+advertising their product and/or service.
+5. Means of Egress. Signs shall not be so placed as to obstruct or interfere with a required doorway, window, fire
+escape, passage-way to a fire escape, or other means of egress.
+6. Removal of Certain Signs. Any sign or part thereof now or hereafter existing which no longer advertises a bona fide
+business conducted, or a product sold, shall be taken down and removed by the owner, agent or person having the
+beneficial use of the building or structure upon which such sign may be found, within thirty (30) days written
+notification from the city council, and upon failure to comply with such notice within the time specified in such
+order, the city council is hereby authorized to cause removal of such signs, and any expense incident thereto shall be
+paid by the owner of the building or structure to which said sign is attached.
+7. Signs Prohibited. Any sign or sign structure which meets one of the following circumstances is hereby strictly
+prohibited.
+a. Structurally unsafe.
+b. Constitutes a hazard to safety or health by reason of inadequate maintenance, dilapidated or abandonment.
+c. Not kept in good repair.
+d. In any way constitutes a hazard or a detriment to traffic safety by obstructing the vision of drivers, or the
+visibility of any traffic sign or control device on public streets and roads.
+8. Penalty. Unless otherwise provided herein, any person who violates any of the provisions of this section shall be
+guilty of a simple misdemeanor.
+Albia Zoning Ordinance-Page 21
+SECTION 14 CENTRAL COMMERCIAL HISTORIC DISTRICT SIGN AND AWNING REGULATIONS
+The following are provisions of signs and awnings only in the central commercial historic district:
+1. Purpose of Sign Regulations. The purpose of this section is to provide that signs and awnings are safely constructed
+and kept in a safe condition, and that signs shall not be located so as to cause a safety hazard. It is intended to protect
+values, create a more attractive economic and business climate, enhance and protect the physical appearance of the
+community, preserve the scenic and natural beauty of designated areas, and provide a more enjoyable and pleasing
+community. All signs for which permits are issued shall be designed to preserve the architectural integrity of the
+building and shall be in keeping with the restoration concept of the Albia Square and Central Commercial Historic
+District.
+2. Sign Specifications. As applicable to this section, the following words and terms are hereby defined:
+a. Awning. A system of movable metal framework which may exist in the up or down position covered with
+vinyl or canvas material attached to the exterior of a building. The word awning may also describe a
+framework of the same construction permanently fixed in the down position.
+(1) Movable and permanent awnings supported throughout on metal frames may extend over the
+sidewalk portion of a public street a distance not to exceed two-thirds (2/3) of the width of the
+sidewalk space; provided that every such awning frame shall not be less than seven feet six
+inches (7'6") from the sidewalk immediately below, and that any fringe attached to the awning
+shall not be less than seven feet (7') from the sidewalk immediately below.
+(2) Such awning frames shall be covered with canvas duck material in colors chosen to enhance the
+owner's and neighboring buildings.
+b. Billboard. Any flat surface twenty (20) square feet or more in area, erected on a framework or attached to
+posts, buildings, or other structures, and used for the display of bills, posters or other advertising matter,
+posted, tacked, or fastened thereto.
+(1) Billboards of any kind are prohibited.
+c. Canopies or Marquees. The word canopy or marquee shall include all types of awning systems that are
+fixed permanently in the down position, with a heavy metal or wood frame construction and exterior
+coverings including vinyl, canvas, wood, and metal materials. Heavy wood or metal construction of
+canopy and marquee framework consists of frames constructed of anything larger than one and one-half
+inch (1.5") diameter metal piping or two inch by two inch (2" x 2") wood materials.
+(1) Permanent canopies or marquees, except those already in existence at the time of passage of this
+ordinance, shall not be permitted.
+d. Free Standing Sign. A sign permanently supported by one or more uprights, braces, poles, or other
+similar structural components when utilizing earth, rock, the ground, or any foundation set in the ground
+as a primary holding base and not attached to or enclosed by any building.
+e. Ground Sign. Any sign the structure of which is erected upon or supported by the ground with a surface
+area of twenty (20) square feet or less.
+(1) Poster boards or ground signs are prohibited in the following locations:
+a) Closer to any street line or established building line than a distance equal to the height of
+such sign above the ground.
+b) Within five hundred feet (500') of any railroad crossings, where the sign will interfere
+with or obstruct the view of persons approaching the street intersection.
+c) Within two hundred feet (200') of any street intersection where the sign will interfere with
+or obstruct the view of persons approaching the street intersection.
+d) In any location which will interfere with the lighting of any street, alley, or public place,
+or interfere with any public utility service.
+(2) An open space at least one foot (1') high shall be maintained between the poster board or ground
+sign and the ground.
+Albia Zoning Ordinance-Page 22
+(3) All poster boards and ground signs shall be constructed and supported to withstand a horizontal
+wind pressure of thirty pounds (30) per square foot of surface. All structural parts, posts and
+braces shall be able to withstand all induced stresses using unit stress values of fifty percent
+(50%) of the allowable unit stress values commonly used for such materials.
+f. Illuminated Signs.
+(1) Whenever any sign is illuminated by electricity or equipped in any way with electrical devices,
+these devices shall conform in all respects to the provisions of the National Electric Code.
+(2) No flashing signs of any type are permitted.
+g. Poster Board. Any flat surface under twenty (20) square feet in area, erected on a framework or attached
+to posts, buildings, or other structures, and used for the display of bills, posters or other advertising matter
+produced on paper sheets, cloth or other materials and posted, tacked, or fastened thereto.
+(1) Poster boards or ground signs are prohibited in the following locations:
+a) Closer to any street line or established building line than a distance equal to the height of
+such sign above the ground.
+b) Within five hundred feet (500') of any railroad crossings, where the sign will interfere
+with or obstruct the view of persons approaching the street intersection.
+c) Within two hundred feet (200') of any street intersection where the sign will interfere with
+or obstruct the view of persons approaching the street intersection.
+d) In any location which will interfere with the lighting of any street, alley, or public place,
+or interfere with any public utility service.
+(2) An open space at least one foot (1') high shall be maintained between the poster board or ground
+sign and the ground.
+(3) All poster boards and ground signs shall be constructed and supported to withstand a horizontal
+wind pressure of thirty pounds (30) per square foot of surface. All structural parts, posts and
+braces shall be able to withstand all induced stresses using unit stress values of fifty percent
+(50%) of the allowable unit stress values commonly used for such materials.
+h. Projecting Sign. Any sign fastened to, suspended from, or supported by a building or structure so as to
+project therefrom at an angle with a surface area no greater than seven and one-half square feet.
+(1) Signs fastened to, suspended from or supported by a building or structure so as to project
+therefrom at an angle shall not extend more than three feet (3') beyond the street line.
+(2) Projecting signs shall not contain an exposed surface area on one side exceeding six square feet
+(6 sq. ft.).
+(3) Projecting signs shall have a clear space of not less than seven feet six inches (7'6") below all
+parts of the sign. Projecting signs extending into the limits of an alley shall have a clear space of
+not less than sixteen feet (16') above the alley grade.
+(4) The distance between the parallel surfaces of a double faced sign shall not exceed three inches
+(3").
+(5) All projecting signs shall be securely supported by metal brackets attached to the walls of the
+building with through bolts, expansion bolts or lag screws, and shall be firmly, braced and held
+in place by means of soft iron or steel cables, provided with turn buckles for tightening when so
+required.
+i. Real Estate Sign. Signs used for advertising the sale or lease of a building or lot, upon which the same are
+located, where the signs are not permanently attached to buildings or the ground.
+(1) These signs may be used in a temporary nature during the time the property is for sale or to lease.
+(2) Real estate signs shall be removed upon which time the building or lot for sale or lease on the
+premises is sold or leased out.
+j. Roof Sign. The term "Roof Sign" shall mean any sign placed on or above the roof of any building or
+structure.
+(1) Roof signs of any kind are prohibited in the Albia Historic Commercial District.
+k. Sign. Any structure or device on which letters, illustrations, designs, figures, or symbols are painted,
+printed, stamped, raised, attached, or outlined for visual communication. This device is used for the
+purpose of bringing the subject thereof to the attention of the public, but not including any flag, badge or
+insignia of any government or governmental agency.
+Albia Zoning Ordinance-Page 23
+l. Sign Area: Display surface included within the framework of any sign measured from the outside of the
+framework. The total area shall include:
+(1) Faces of all permanent exterior signs visible from a public way
+(2) The area of permanent signs placed upon the surfaces of windows and doors.
+(3) The area within the outline enclosing the lettering, modeling, or insignia of signs integral with
+the wall and not designed as a panel.
+m. Street Line. The place where the public sidewalk begins and the private property line ends.
+n. Temporary Signs. Signs used for advertising special events which are not permanently attached to
+buildings or the ground.
+(1) May be used for advertising special events but will be limited to three (3) days use in any six
+month period. Size requirements will not apply to temporary signs but all other requirements
+must be followed.
+o. Wall Sign. Any sign with its face parallel to and projecting not more than six (6) inches from the wall to
+which it is attached.
+(1) Signs placed against the exterior walls of buildings shall not exceed more than six (6) inches
+from the wall surface to which they are attached.
+(2) Wall signs attached parallel to the face of a building shall not exceed forty square feet (40 sq. ft.)
+in area, for any twenty feet (20') of frontage on the building, nor shall more than one of these
+signs be attached to each face of the building. Where ever possible, wall signs shall be placed in
+the areas constructed as transoms originally.
+(3) Wall signs shall not extend beyond the ends of the wall surface on which they are placed.
+(4) Wall signs shall be securely attached to structural members of buildings with metal brackets,
+expansion bolts, lag screws, or similar fasteners.
+(5) No vacuformed or signs of similar construction be allowed under this section.
+3. Permits Required. Every person shall obtain a permit from the Albia Historic Preservation Commission before
+erecting a projecting sign, wall sign, poster board or ground sign. Such permit will require submission of a drawing
+of the sign proposed with all appropriate measurements needed to determine compliance with this ordinance. The
+Albia Historic Preservation Commission may review the permits for the Albia Square and Central Commercial
+Historic District when necessary.
+4. Restricted Area, Unlawful Signs, Non-Conforming Signs. No sign of any type, or any part thereof, whether or not
+the same is an integral part of the building or structure, shall be affixed or placed upon any building or structure
+unless the front face of such sign shall be parallel to the face of the building or structure to which it is affixed in front
+of which it is placed. Said parallel sign shall not extend more than six (6) inches from the front of the building or
+structure, and if said parallel sign is affixed to a permanent canopy or marquee, said sign shall not extend further out
+than the furthest extension of the canopy or marquee. The above restrictions shall apply to all buildings and
+structures in the Commercial Historic District of the City of Albia, Iowa. An exception of the above shall be that any
+service station, supermarket or car dealer located in the above areas shall be allowed one freestanding sign
+advertising their product and/or service.
+5. Means of Egress. Signs shall not be so placed as to obstruct or interfere with a required doorway, window, fire
+escape, passage-way to a fire escape, or other means of egress.
+6. Removal of Certain Signs. Any sign or part thereof now or hereafter existing which no longer advertises a bona fide
+business conducted, or a product sold, shall be taken down and removed by the owner, agent or person having the
+beneficial use of the building or structure upon which such sign may be found, within thirty (30) days written
+notification from the city council, and upon failure to comply with such notice within the time specified in such
+order, the city council is hereby authorized to cause removal of such signs, and any expense incident thereto shall be
+paid by the owner of the building or structure to which said sign is attached.
+7. Signs Prohibited. Any sign or sign structure which meets one of the following circumstances is hereby strictly
+prohibited.
+a. Structurally unsafe.
+b. Constitutes a hazard to safety or health by reason of inadequate maintenance, dilapidated or abandonment.
+Albia Zoning Ordinance-Page 24
+c. Not kept in good repair.
+d. In any way constitutes a hazard or a detriment to traffic safety by obstructing the vision of drivers, or the
+visibility of any traffic sign or control device on public streets and roads.
+8. Penalty. Any failure to conform to this section of the City of Albia Zoning Ordinance shall result in a municipal
+infraction in accordance with the Albia City Code of Ordinances.
+9. Albia Square and Central Commercial Historic District Boundaries. The boundaries of the Central Commercial
+Historic District are shown on the map attached to the zoning map.
+SECTION 15 SPECIAL PROVISIONS.
+The following are the special provisions to be considered in this zoning ordinance:
+1. Off-Street Parking Areas and Loading Spaces.
+a. Off-Street Loading. In all districts, in connection with every building or part thereof hereafter erected,
+having a gross floor area of 2,500 square feet of more, which is to be occupied by uses requiring the
+receipt or distribution by vehicles of materials or merchandise, there shall be provided and maintained on
+the same premises with such building at least one off-street loading space accessible from an alley,
+easement of access, or, when there is no such alley or easement of access, from a street plus one additional
+such loading space for each 10,000 square feet or major fraction thereof of gross floor area so used in
+excess of 15,000 square feet. Such space may occupy all, or any part of a required rear yard, or, with
+authorization of the Board of Adjustment, part of any other yard or court space on the same premises.
+b. Off-Street Parking. In all districts except "B-1", off-street accessory parking areas, in the open or in a
+garage, shall be provided in connection with the uses set forth hereinafter and to the extent indicated
+therewith, in addition to the above required loading and unloading spaces. Such areas, in the case of "R"
+Districts and for dwellings in other districts, shall be on the premises intended to be served; and in the
+case of "B-1" or "I-1" Districts, premises intended to be served or on adjoining or nearby property within
+100 feet of any part of said premises and in the same or less restricted district.
+c. Number of Parking Spaces Required.
+Use Parking Spaces Required
+Automobile or Machinery Sales 1 for each 1,000 square feet of
+and Service Garages floor area plus one for each
+full-time employee
+Banks, Business & Professional 1 for each 200 square feet of
+Offices floor area
+Bowling Alleys 6 for each alley
+Churches and Schools 1 for each 4 seats in principal
+auditorium
+Convenience Stores-Drug, 1 for each 300 square feet of
+Grocery, Hardware, and floor area devoted to sales plus
+similar stores 1 for each full-time employee
+Dance Halls and Assembly 1 for each 50 square feet of
+Halls without fixed seats floor area used for assembly
+or dancing
+Drive-In Facility Establishments Not less than 1/3 of the total
+ground area be devoted
+exclusively to parking
+and accesses ways.
+Albia Zoning Ordinance-Page 25
+Dwellings -
+Single-Family Detached 2 for each dwelling unit
+All Other 1 1/2 for each dwelling unit
+Food Pick-Up Establishments Minimum of 1 plus 1 for each
+100 square feet of floor area
+Funeral Homes, Mortuaries 6 per chapel room or parlor or
+1 per 50 square feet of rooms
+used for services, whichever
+is greater
+Hospitals, Nursing Homes and 1 for each 5 beds plus 1 for each
+similar care centers 2 doctors and employees
+Manufacturing Plants, Research, 1 for each 3 employees on
+or Testing Laboratories, Bottling maximum working shift
+Plants
+Medical or Dental Clinics 1 for each 200 square feet of
+floor area plus 1 for each fulltime
+employee and 1 for each
+doctor
+Motels 1 for each unit, plus 1 for each
+2 employees on maximum shift
+Motor Fuel Stations 1 for each employee on duty
+plus 1 for each service bay
+Service Establishments-
+Barber Shops 2 for each chair plus 1 for each
+2 employees on maximum shift
+Beauty Shops 1 for each dryer plus 1 for each
+2 employees on maximum shift
+Coin-Operated Laundries 1 for each 3 washers and/or
+and/or Dry Cleaning cleaning machines plus 1 for
+Establishments each 2 employees on maximum shift
+Restaurants 1 for each 3 seats plus 1 for each
+2 employees on maximum shift
+Shoppers' Goods-Appliance 1 for each 500 square feet of
+Household Equipment, floor area plus 1 for each full-
+Furniture and similar stores time employee
+Taverns or Bars 1 for each 2 seats plus a for
+each 2 employees on maximum
+shift
+Theaters 1 for each 4 seats
+Wholesale Establishments 1 for each 4 employees on
+maximum work shift
+In the case of any use which is not specifically mentioned herein, the provisions for a similar use which is mentioned shall apply.
+d. Units of Measurement. The following shall apply as the unit of measurement for parking spaces:
+Albia Zoning Ordinance-Page 26
+(1) Parking Space. Each parking space rectangular in shape shall not be less than 8 1/2 feet wide
+and 20 feet long, or not less than 170 square feet in area exclusive of access drives or aisles.
+(2) Loading Space. Each loading space shall not be less than 10 feet wide, 40 feet in length and 14
+feet in height, exclusive of access and turning area.
+(3) Floor Area. In the case of merchandising or service types of uses, "floor area" shall mean the
+gross floor area used or intended to be used by tenants, or for service to the public as customers,
+patrons or clients, but shall not include areas used principally for non-public purposes, such as
+toilet or rest rooms, utilities, or dressing rooms.
+(4) Hospital Bassinets. In hospitals, bassinets shall not be counted as beds.
+(5) Benches in Place of Public Assembly. In stadiums, sports arenas, churches and other places of
+public assembly in which patrons or spectators occupy benches, pews, or other similar seating
+facilities, each 20 inches of such seating facilities shall be counted as one seat for the purposes of
+determining requirements for off-street parking facilities under this ordinance.
+e. Development Standards. Off-street accessory parking areas shall be of usable shape, and shall be
+improved, in accordance with requirements of the City Engineer, or his or her equivalent, with a durable
+and dustless surface and so graded and drained as to dispose of all surface water accumulation within the
+area. Any lighting used to illuminate such parking areas shall be so arranged as to reflect the light away
+from adjoining premises in and "R" District.
+f. Exceptions. The following exceptions to parking spaces are permitted:
+(1) The Board of Adjustment may authorize on appeal a modification, reduction, or waiver of the
+foregoing requirements, if it should find that in the particular case the peculiar nature of the use,
+or other exceptional situation or conditions would justify such modifications, reduction or
+waiver.
+(2) The Zoning Commission, in consultation with other city departments and agencies concerned,
+shall make studies as found advisable of various areas in the city for the purpose of determining
+the areas within which there is need for the establishment of off-street parking facilities to the
+City Council. This report shall include recommendations on the type, size, location and other
+pertinent features of the proposed off-street parking facilities and the area they are intended to
+serve.
+2. Designated Flood Hazard Area. All buildings and land within a designated flood hazard area as defined by the
+Department of Housing and Urban Development shall be limited to the following uses:
+a. The growing of agricultural crops and nursery stock gardening.
+b. The keeping of agricultural livestock in accordance with the municipal ordinance relating thereto.
+c. Public Recreation.
+d. No building shall be erected, converted, or enlarged on any parcel of land without the approval of the
+Zoning Board of Adjustment.
+3. Garages, Motor Fuel Stations, and Car Washes.
+a. No building, structure or premises shall be used, erected or altered which is intended or designed to be
+used as a public garage, automobile repair shop, motor fuel station, or car wash having an entrance or exit
+for vehicles in the same block-front and within 200 feet of any school, public playground, church,
+hospital, public library or institution for dependents or for children, and no such entrance or exit shall be
+located within the same block-front and within 20 feet of any "R" District; nor shall any part of such
+public garage, automobile repair shop, motor fuel station, or car wash be located within 100 feet of any
+building or grounds of any of the aforesaid public or institutional uses.
+b. All activities incidental to the sale of gasoline or oil such as battery and tire repair, car washing and
+greasing shall be conducted within the building and there shall be no storage or accumulation of
+Albia Zoning Ordinance-Page 27
+miscellaneous equipment, machinery or motor vehicles, disabled or otherwise, outside of the
+principal structure.
+c. No above ground storage for volatile or explosive fuels will be permitted.
+4. Trailers, Recreational Vehicles and Tents.
+a. The parking of a trailer or recreational vehicle, or erections of a tent in any district, except in an approved
+trailer park or camp ground, for 48 hours or longer shall be prohibited, except for small utility trailers and
+except that a camping, utility or boat trailer, with or without boat, may be stored in rear yards, provided
+that no living quarters shall be maintained or any business conducted in connection therewith while such
+trailer is parked or stored.
+b. In any district, the wheels of any trailer or recreational vehicle shall not be removed except for repairs, nor
+shall such trailer be otherwise permanently fixed to the ground by any person, firm or corporation in a
+manner that would prevent ready removal of said trailer.
+c. The parking, storage, or keeping of a garbage truck or other vehicles designed or actually being used to
+carry, haul, or transport garbage, solid waste or other refuse is prohibited in the corporate limits of the
+City, except in areas designated as I-1, Industrial.
+5. Hotels or Motels.
+a. No vehicular entrance to or exit from any hotel or motel, wherever such may be located, shall be within
+200 feet along streets from any school, public playground, church, hospital, library or institution for
+dependents or for children, except where such property is in another block or on another street, which the
+premises in question do not abut.
+b. The following regulations shall be complied with:
+(1) Any lot to be used for a motel shall be not less than 15,000 square feet in area and shall contain
+not less than 1,000 square feet of lot area per sleeping unit. All buildings and structures on the
+lot shall occupy in the aggregate not more than 25% of the area of the lot.
+(2) All areas used for automobile access parking shall comply with the provisions of off-street
+parking areas and loading spaces under Section 14 Special Provisions.
+(3) All areas not used for access, parking, circulation, buildings and services shall be completely
+landscaped and the entire site maintained in good condition.
+(4) No enlargements or extensions to any motel shall be permitted unless the existing one is made to
+conform substantially with all the requirements for new construction for such an establishment.
+Revised 6-3-96
+SECTION 15A CONDITIONAL USE PERMITS.
+The following are the special provisions to be considered in this zoning ordinance:
+1. Any use listed as a conditional use in this Ordinance shall be permitted only on application to the Zoning
+Administrator, review and recommendation of the Planning and Zoning Commission, and issuance of the Conditional
+Use Permit by the Albia City Council. The applicant for a conditional use permit shall fill out and submit to the
+Zoning Administrator an application for Conditional Use Permit. When such permit is submitted, a fee of $100 shall
+be paid in order for the application to receive consideration by the Planning and Zoning Commission. The Zoning
+Administrator and the Planning Commission prior to the consideration of the permit shall conduct a thorough site
+evaluation.
+2. The City Zoning Administrator and the Planning Commission shall consider:
+(1). The maintenance of the public health, safety and
+welfare;
+(2). The location of the site with respect to existing and proposed access roads;
+(3). Its compatibility with adjacent land uses;
+(4). Its compatibility with the intent of the zoning district in which such use is proposed;
+Albia Zoning Ordinance-Page 28
+(5). The prevention and control of water pollution;
+(6). Existing topography and drainage features and vegetative cover on the site;
+(7). The erosion potential of the site based upon the degree and direction of slope, soil type and existing vegetative cover;
+(8). The amount of liquid waste to be generated and the adequacy of the proposed or existing sewage treatment system;
+(9). The visibility of structures and other facilities;
+(10). Adequacy of the site for water supply and on-site sewage treatment systems.
+3. Upon consideration of the factors listed above, the Planning and Zoning Commission may attach such conditions, in
+addition to those required elsewhere in this Ordinance, that it deems necessary for the furtherance of the purposes set
+forth in this Ordinance. Such conditions attached to Conditional Use Permits may include, but shall not be limited to:
+(1). Increased yards and setbacks;
+(2). Periods and/or hours of operation;
+(3). Minimum number of off-street parking spaces;
+(4). Type of construction;
+(5). Deed restrictions;
+(6). Landscaping and vegetative screening;
+(7). Specified sewage treatment and water supply facilities;
+(8). Location of signs and parking;
+(9). Any other reasonable requirements necessary to fulfill the purposes and intent of this Ordinances.
+4. An applicant for a Conditional Use Permit may be required to furnish the Planning Commission, in addition to the
+information required for the building or other permit, the following;
+(1). A plan of the proposed project area showing contours, soil types, ground water conditions, bedrock, slope, and
+vegetative cover;
+(2). Location of existing and proposed buildings, parking areas, traffic access, driveways, walkways, open spaces and
+vegetative cover;
+(3). Plans of buildings, sewage treatment facilities, water supply systems, and arrangements of operations;
+(4). Specifications for areas of proposed grading, filling, lagooning, dredging, or other topographic alterations;
+(5). Other pertinent information necessary to determine if the proposal meets the requirements and intent of this
+ordinance.
+5. The final permit shall be issued by the City Council.
+6. The Commission shall fix a reasonable time for the hearing of an application. The notice shall give at least four days and
+not to exceed twenty days notice of the time and place of such hearing by insertion in a newspaper published in the
+community. In addition the Commission shall also give notice delivered by first class mail at least five days before the
+time fixed for such hearing to the applicant, the Zoning Administrator, and the respective owners of record of property
+adjoining or adjacent to the premises in question. Any party may appear at such hearing in person or by agent or by
+attorney. The Commission shall decide the application or appeal within a reasonable time.
+Albia Zoning Ordinance-Page 29
+SECTION 16 ADULT USES.
+1. Definitions for Adult Uses
+Adult Uses: Adult Uses include Adult Amusement or Entertainment, Adult Book Store or Gift Shop, Adult Hotel or
+Motel, Adult Photo Studio, Adult Theater, Adult Video Store, and Massage Parlor.
+Adult Amusement or Entertainment: An amusement or entertainment which is distinguished or characterized by an
+emphasis on acts or material depicting, describing or relating to "Specified Sexual Activities": or "Specified
+Anatomical Areas", as defined herein, including, but not limited to, topless or bottomless dancers, exotic
+dancers, strippers, male or female impersonators or similar entertainment.
+Adult Book Store or Gift Shop: An establishment having as a substantial and significant portion of its stock in trade
+books, magazines and other periodicals or goods and items held for sale which are characterized by their
+emphasis on matters depicting, describing or relating to "Specified Sexual Activities" or "Specified
+Anatomical Areas" as defined herein.
+Adult Hotel or Motel: A building with accommodations used for the temporary occupancy of one or more
+individuals and is an establishment wherein a substantial and significant portion of the materials presented
+are distinguished or characterized by an emphasis or on matter depicting, describing or relating to "Specified
+Sexual Activities" or "Specified Anatomical Areas", as defined herein, for observation by the individuals
+therein.
+Adult Photo Studio: An establishment which, upon payment of a fee, provides photographic equipment and/or
+models for the purpose of photographing "Specified Sexual Activities" or "Specified Anatomical Areas" as
+defined herein.
+Adult Theater: A theater wherein a substantial and significant portion of the materials presented are distinguished or
+characterized or relating to "Specified Sexual Activities" or "Specified Anatomical Areas", as defined
+herein, for observation by patrons herein.
+Adult Video Store: A video store wherein a substantial and significant portion of the materials presented are
+distinguished or characterized or relating to "Specified Sexual Activities" or "Specified Anatomical Areas",
+as defined herein.
+Massage Parlor: Any building, room, place or establishment, where manipulated massage or manipulated exercise is
+practiced upon the human body for pay with an emphasis on "Specified Sexual Activities" or "Specified
+Anatomical Areas", as defined herein, by anyone not a duly licensed physician, osteopath, chiropractor,
+registered nurse and practical nurse operating under a physician's direction, physical therapist, phiropidist,
+registered speech pathologist and physical or occupational therapist who treat only patients recommended
+by a licensed physician and operate only under such physician's direction, whether with or without the use of
+mechanical, therapeutic or bathing devices, and shall include Turkish bath houses. The term shall not
+include a regular licensed hospital, medical clinic or nursing home, duly licensed beauty parlors or barber
+shops.
+Minors: Any person under the age of twenty-one years.
+Specified Anatomical Areas: Less than completely and opaquely covered human genital, pubic region, buttocks; and
+a female breast below a point above the top of the areola; and human male genitals in a discernibly turgid
+state--even if completely and opaquely covered.
+Specified Sexual Activities: Patently offensive acts, exhibitions, representations, depictions or descriptions of: (1)
+human genitals in a state of sexual stimulation or arousal; (2) fondling or other erotic touching of human
+genitals, pubic region, buttocks or female breasts; (3) intrusion, however slight, actual or simulated, by an
+object, any part of an animal's body, or any part of a person's body into genital or anal openings of a person's
+body; (4) cunnilingus, fellatio, anilingus, masturbation, bestiality, lewd exhibition of genitals or excretory
+function, actual or simulated; (5) flagellation, mutilation or torture, actual or simulated, in a sexual context.
+2. General Regulations
+a. Adult Uses. Adult uses near a personal residence, a public or parochial school, licensed day care facility,
+church, public park, or any dwelling (one-family, two-family, or multiple family dwellings) has a
+Albia Zoning Ordinance-Page 30
+deleterious effect on both the business and residential segments of the city. The establishment of more
+than two (2) adult uses within one thousand (1,000) feet of each other compounds this deleterious effect.
+Control of Adult Uses is needed to allow an acceptable level of such uses while maintaining
+neighborhoods which meet the expectations of the general public.
+(1) An Adult Use shall not be located within one thousand (1,000) feet of any public or parochial
+school, licensed day care facility, church, public park, or any dwelling (one-family, two-family,
+or multiple family dwellings).
+(2) One thousand (1,000) feet restrictions shall be computed by measurement from the nearest
+property line of the land used for another adult use or be located within one thousand (1,000) feet
+of any public or parochial school, licensed day care facility, church, public park, or any dwelling
+(one-family, two-family, or multiple family dwellings) to the nearest entrance of the building in
+which adult uses are to occur, using a route of direct measured horizontal distance.
+(3) All building openings, entries, windows, etc., shall be covered or screened in such a manner as to
+prevent a view of the interior from any public or semi-public area. Advertisements, displays or
+other promotional materials shall not be shown or exhibited so as to be visible to the public from
+the pedestrian sidewalks, walkways, or from other public or semi-public areas.
+b. Minors. No minor as defined by this section shall be permitted in any establishment in which Adult Uses
+are permitted.
+c. Alcohol. No alcohol shall be permitted in any establishment in which adult uses are permitted, unless
+such is specifically allowed pursuant to Iowa Law. This prohibition applies equally to the proprietor and
+the patrons of the establishment involved.
+3. A violation of this section shall result in those penalties applicable to a Municipal Infraction pursuant to the Code of
+Ordinances of the City of Albia, Iowa.
+SECTION 17 ADDITIONAL REQUIREMENTS, EXCEPTIONS, AND MODIFICATIONS.
+The following are additional requirements, exceptions, and modifications to be considered in this zoning ordinance:
+1. The requirements and regulations specified here-to-fore in the ordinance shall be subject to the additional
+requirements, exceptions, modifications and interpretations in the following.
+2. Height Limits. Height limitations stipulated elsewhere in this report shall not apply to the following:
+a. Barns, silos, or other farm buildings or structures on farms, provided these are not less than 50 feet from
+every lot line; to church spires, belfries, cupolas and domes, monuments, water towers, fire and hose
+towers, masts and aerials; to parapet walls extending not more than 4 feet above the limited height of the
+building. However, if, in the opinion of the Building Inspector or his or her equivalent, such structures
+would adversely affect adjoining or adjacent properties, such greater height shall not be authorized except
+by the Board of Adjustment.
+b. Places of public assembly such as churches, schools, and other permitted public and semi-public buildings
+not to exceed five stories or 60 feet, provided that for each foot by which the height of such building
+exceeds the maximum height otherwise permitted in the district its side and rear yards shall be increased
+in width or depth by an additional foot over the side and rear yards required for the highest building
+otherwise permitted in the district.
+c. Bulkheads, conveyors, derricks, elevator penthouses, water tanks, monitors and scenery lofts; to
+monuments, fire towers, hose towers, cooling towers, grain elevators, gas holders or other structures,
+where the manufacturing process requires a greater height. Where a permitted use requires greater heights
+than specified, such may be authorized by the Board of Adjustment.
+3. Front Yard Exceptions and Modifications.
+a. Front Yard Requirements Do Not Apply. To bay windows or balconies occupying in the aggregate not
+more than 1/3 of the front wall; to chimneys, flues, belt courses, leaders, sills, pilasters, uncovered
+porches, plantings, or similar features not over three feet high above the average finished grade and distant
+five feet from every lot line.
+Albia Zoning Ordinance-Page 31
+b. Permitted Variations. In any district where the average depth of two or more existing front yards on lots
+within 100 feet of the lot in question and within the same block front is less or greater than the least front
+yard depth prescribed, front yards may be varied. The depth of the front yard on such lots shall not be less
+than the average of said existing front yards or the average depth on the two lots immediately adjoining,
+or, in the case of a corner lot, the depth of the front yard on the lot immediately adjoining; provided,
+however, that the depth of a front yard on a lot in any "R" District shall be at least 15 feet and need not
+exceed 60 feet.
+4. Side yard Exceptions and Modifications.
+a. Along any district boundary line, any abutting side yard on a lot in the less restricted district shall have at
+least width equal to that required in the more restrictive district. Where a lot in an "I" or "B" District
+abuts a lot in and "R" District, the side yard shall be increased by three feet for each story that the building
+proposed on such lot exceeds the height limit of said "R" District.
+b. Side Yards Shall be Increased. In width by two inches for each foot by which the length of the side wall
+of the building, adjacent to the side yard, exceeds 40 feet in any "R-1" District, or 50 feet in and "R-2"
+District.
+c. Side Yards May be Reduced. By three inches from the otherwise required least width of each side yard
+for each foot by which a lot of record at the time of enactment of the ordinance is narrower than the lot
+width specified for the district in which the lot is located, in the case of buildings not higher than 2 1/2
+stories, and in case the owner of record does not own any adjoining property; provided, however, and
+irrespective of the provision of structures or projections into side yards of Section 16 Additional
+Requirements, Exceptions, and Modifications that no side yard shall be narrower at any point than three
+feet.
+d. Side yards May be Measured to the Center Line of Adjoining Alleys. But in no case shall a building or
+structure for which a side yard is required be erected within five feet of such alley.
+e. On a Corner Lot. The least width of a side yard along the side street lot line shall be equal to the required
+front yard along the side street.
+f. Structures or Projections into Side yards May be Permitted as Follows: Fences, plantings or walls not
+over five feet above the average natural grade. Fire escapes, three feet from side lot line. Bays and
+balconies not more than three feet from the building. The sum of the lengths of such projection shall not
+exceed 1/3 of the length of the wall of the main building.
+(1) Chimneys, flues, belt courses, leaders, sills, pilasters and lintels, ornamental features, cornices,
+eaves, gutters and the like, into or over a required side yard not more than 1 1/2 feet.
+(2) Terraces, steps, uncovered porches, stoops, or similar features, not higher than the elevation of
+the ground story of the building and distant three feet from a side lot line.
+5. Rear Yard Exceptions and Modifications.
+a. Rear yards May be Reduced. By three inches from the required least depth for each foot by which a lot at
+the time of enactment of the ordinance is less than 100 feet deep, in the case of a building not higher than
+2 1/2 stories, and in case the owner of record does not own adjoining property to the rear; provided
+however, that no required rear yard shall be less than 10 feet deep.
+b. Rear Yards May be Measured to the Center Line of Adjoining Alleys. But in no case shall a building or
+structure be erected within five (5) feet of such an alley.
+c. Structures or Projections into Rear Yards May be Permitted as Follows. Fences, plantings or walls not
+over five feet above the average natural grade. Fire escapes hanging no lower than six feet above the
+natural grade, unless they are permanently affixed to the ground. Bays and balconies, not more than three
+feet above the natural grade. The sum of the lengths of such projections shall not exceed 1/2 of the width
+of the rear wall. Chimneys, flues, belt course, leaders, sills, pilasters, lintels, ornamental features,
+cornices, eaves, gutters, and the like, into or over a required rear yard not more than 1 1/2 feet.
+SECTION 18 ZONING ADMINISTRATION.
+Albia Zoning Ordinance-Page 32
+1. Administration. It shall be the duty of the person designated by the mayor and City Council as administrative officer
+to administer and enforce the regulations contained herein. This person is designated the Zoning Administrator.
+2. Appointment of Zoning Administrator. The Zoning Administrator shall be appointed by the City Council. It shall
+be the duty of the Zoning Administrator to enforce this ordinance. All departments, officials, and public employees
+of the City of Albia, Iowa vested with the duty or authority to issue permits or licenses, shall conform to the
+provisions of this ordinance and shall issue no permit or license for any use, building or purpose in conflict with the
+provisions of this ordinance. Any permit or license, issued in conflict with the provisions of the ordinance, shall be
+null and void.
+3. Powers and Duties of the Zoning Administrator. The Zoning Administrator shall enforce the ordinance, and in
+addition thereto and the furtherance of said authority shall:
+a. Receive all applications for permits required by this ordinance and take action on the application.
+b. Investigate all appropriate facts and conditions of the application and upon positive analysis shall issue all
+zoning certificates and maintain records thereof.
+c. Issue all occupancy permits and make and maintain records thereof.
+d. Ensure inspection of buildings, structures, and use of land to determine compliance with the terms of the
+ordinance.
+e. Maintain permanent and current records of the ordinance, including, but not limited to, all maps,
+amendments, uses on review, variances, etc.
+f. Provide and maintain a public information service relative to all matters arising out of the ordinance.
+g. Forward to the City Council and the Zoning Commission all applications for amendments to the
+ordinance.
+h. Transmit to the Board of Adjustment applications for appeals, variances, uses on review, or other matters
+on which the Board of Adjustment is required to pass under the ordinance.
+i. Initiate, direct, and review from time to time a study of the provisions of the ordinance and make reports
+of his or her recommendations to the Zoning Commission, Board of Adjustment, or City Council.
+j. Issue home occupation permits as provided herein.
+4. Filing Plans. Every application of a Construction Permit shall be filed with the Zoning Administrator, accompanied
+by plans in duplicate, drawn to scale on the form, showing the actual shape and dimensions of the lot to be built upon
+or to be changed in its use, in whole or in part; the exact locations, size and height of any building or structure to be
+erected or altered; in the case of a proposed new building or structure or proposed alteration of an existing building or
+structure as would substantially alter its appearance, drawings or sketches showing the front, side, and rear elevations
+of the proposed building or structure, or of the structure as it will appear after the work for which a permit is sought
+shall have been completed; the existing and intended use of each building or structure or part thereof; the number of
+families or housekeeping units the building is designed to accommodate; and when no buildings are involved, the
+locations of the present use and proposed use to be made of the lot; and such other information with regard to the lot
+and neighboring lots as may be necessary to determine and provide for the enforcement of this ordinance.
+One (1) copy of such application and plans shall be returned to the applicant when such plans shall have been
+approved by the Zoning Administrator, together with such Construction Permit as may be granted. All dimensions
+shown on these plans related to the location and size of the lot to be built upon, shall be based on actual survey. The
+lot and the location of the building hereon, shall be staked out on the ground before construction is started.
+5. Certificate of Approval. In every case where the lot is not provided with the disposal of sanitary wastes by means of
+public sewers, the application shall be accompanied by Certificate of Approval by the Zoning Administrator of the
+proposed method of disposal of sanitary wastes and proof of conformance to state and federal public health and water
+pollution codes.
+Albia Zoning Ordinance-Page 33
+6. Construction Permit. It shall be unlawful for any owner, leasee, or tenant to use or permit the use of any structure,
+building, or land, or part thereof, hereafter created, erected, changed, converted, or enlarged, wholly or partly until a
+Construction Permit shall show that such building or premises or a part thereof, and the proposed use thereof, and the
+proposed methods of water supply and disposal of sanitary wastes, conform with all the requirements of this
+ordinance.
+7. Building Plan Required - Fee. All applications for Construction Permits shall be accompanied by a plat drawn to
+scale, showing the actual dimensions of the lots to be built upon, the size and location of the building to be erected
+and such other information as may be necessary to provide for the enforcement of these regulations. No Construction
+Permit shall be issued until a fee of one percent (1%) of the total project, not to exceed one hundred dollars ($100),
+shall have been paid.
+8. Posting of Permits. All permits shall be clearly posted readily visible from the public street abutting the front lot
+line.
+9. Certificate of Occupancy. It shall be unlawful for any owner, leasee, or tenant to occupy any structure, building or
+land, or part thereof, hereafter erected, created, changed, converted, or enlarged, until a certificate of occupancy shall
+have been issued by the Zoning Administrator after inspection. Such Certificate of Occupancy shall show and certify
+that such building, structure, or premises has been constructed, altered or improved in compliance with the provisions
+of the ordinance, and all other applicable codes or ordinances and all conditions and requirements, if any, stipulated
+by the Board of Adjustment or other proper authority.
+10. Administrator to Act Within 30 Days. The Zoning Administrator shall act upon all such applications on which he is
+authorized to act by the provisions of the ordinance within thirty (30) days after they are filed in full compliance with
+all the applicable requirements. He shall either issue a Building Permit within said thirty (30) days or shall notify the
+applicant in writing of the refusal to issue such Certificate and the reasons therefore. Failure to notify the applicant in
+case of such a refusal within said thirty (30) days shall entitle the applicant to a Construction Permit unless the
+applicant consents to an extension of time.
+11. Records of the Zoning Administrator. The Zoning Administrator shall keep accurate records pertaining to actions
+necessary to carry out the duties in this ordinance. These records shall be on file for public inspection.
+Albia Zoning Ordinance-Page 34
+SECTION 19 PLANNING AND ZONING COMMISSION.
+There shall be a City planning and zoning commission, herein after referred to as the commission, consisting of seven (7)
+members, who shall be citizens of the City and qualified by knowledge or experience to act in matters pertaining to the
+development of a City plan and who shall not hold any elective office in the City government, appointed by the Council.
+1. Planning and Zoning Commission Appointments. In order to avail itself of the powers conferred by this ordinance,
+the City Council shall appoint a commission, to be known as the Zoning Commission, to recommend the boundaries
+of the various original districts, and appropriate regulations and restrictions to be enforced therein. Where a City
+Planning Commission already exists, it may be appointed as the Zoning Commission.
+2. Term of Office. The term of office of the members of the commission shall be five (5) years. The terms of not more
+than one-third of the members will expire in any one year.
+3. Vacancies. If any vacancy shall exist on the commission caused by resignation, or otherwise, a successor for the
+residue of said term shall be appointed in the same manner as the original appointee.
+4. Compensation. All members of the commission shall serve without compensation, except their actual expenses,
+which shall be subject to the approval of the Council.
+5. Powers and Duties. The commission shall have and exercise the following powers and duties:
+a. Selection of officers. The commission shall choose annually at its first regular meeting one of its
+members to act as chairman and another as vice-chairman, who shall perform all the duties of the
+chairman during the chairman's absence or disability.
+b. Adopt Rules and Regulations. The commission shall adopt such rules and regulations governing its
+organization and procedure as it may deem necessary.
+c. Annual Report. The commission shall each year make a report to the Mayor and Council of its
+proceedings, with a full statement of its receipts, disbursements and the progress of its work during the
+preceding fiscal year.
+d. Appointment of Assistants. Subject to the limitations contained in this section as to the expenditure of
+funds, the commission may appoint such assistants as it may deem necessary and prescribe and define
+their respective duties and fix and regulate the compensation to be paid to the several persons employed
+by it.
+e. Comprehensive Plan. The commission shall have full power and authority to make or cause to be made
+such surveys, studies, maps, plans, or charts of the whole or any portion of the City or of any land outside
+thereof, which in the opinion of the commission bears relation to the comprehensive plan and shall bring
+to the attention of the Council and may publish its studies and recommendations.
+f. Comprehensive Plan: Preparation. For the purpose of making a comprehensive plan for the physical
+development of the City, the commission shall make careful and comprehensive studies of present
+conditions and future growth of the City and with due regard to its relation to neighboring territory. The
+plan shall be made with the general purpose of guiding and accomplishing a coordinated, adjusted and
+harmonious development of the City and its environs which will, in accordance with the present and
+future needs, best promote health, safety, morals, order, convenience, prosperity, and general welfare, as
+well as efficiency and economy in the process of development.
+g. Comprehensive Plan: Public Hearing. Before adopting a comprehensive plan as referred to in the
+preceding paragraph, or any part of it, or any substantial amendment thereof, the commission shall hold at
+least one public hearing thereon, notice of the time of which shall be given by one publication in a
+newspaper of general circulation in the City not less than seven (7) or more than twenty (20) days before
+the date of hearing. However, in no case shall the public hearing be held earlier than the next regularly
+scheduled Council meeting following the published notice. The adoption of the plan or part or
+amendment thereof shall be by resolution of the Commission carried by the affirmative vote of not less
+than two-thirds (2/3) of the members of the Commission. After adoption of said plan by the Commission
+an attested copy thereof shall be certified to the Council and the Council may approve the same. When
+said plan or any modification or amendment thereof shall receive the approval of the Council, the said
+plan until subsequently modified or amended as herein authorized shall constitute the official City plan.
+Albia Zoning Ordinance-Page 35
+h. Comprehensive Plan: Amendments. When the comprehensive plan has been adopted, no substantial
+amendment or modification thereof shall be made without such proposed change first being referred to the
+commission for its recommendations. If the commission disapproves the proposed change it may be
+adopted by the Council only by the affirmative vote of at least three-fourths (3/4) of the members of the
+Council.
+i. Recommendations of improvements. No statuary, memorial or work of art in a public place, and no
+public building, bridge, viaduct, street fixtures, public structure or appurtenances, shall be located or
+erected, or site therefor obtained, nor shall any permit be issued by any department of the City for the
+erection or location thereof until and unless the design and proposed location of any such improvement
+shall have been submitted to the commission and its recommendations thereon obtained, except such
+requirements and recommendations shall not act as a stay upon action for any such improvement when the
+commission after thirty (30) days' written notice requesting such recommendations, shall have failed to
+file same.
+j. Review and Comment on Plats. All plans, plats, or re-plats of subdivision or re-subdivisions of land
+embraced in the City or adjacent thereto, laid out in lots or plats with the streets, alleys, or other portions
+of the same intended to be dedicated to the public in the City, shall first be submitted to the commission
+and its recommendations obtained before approval by the Council.
+k. Review and Comment of Street and Park Improvements. No plan for any street, park, parkway, boulevard,
+traffic-way, riverfront, or other public improvement affecting the City Plan shall be finally approved by
+the City or the character or location thereof determined, unless such proposal shall first have been
+submitted to the commission and the commission shall have had thirty (30) days within which to file its
+recommendations thereon.
+l. Zoning. The commission shall have and exercise all the powers, and duties and privileges in preparing
+and amending the City zoning code as provided by Chapter 414 of the Code of Iowa.
+m. Fiscal Responsibilities. The commission shall have full, complete and exclusive authority to expend for
+and on behalf of the City all sums of money appropriated to it, and to use and expend all gifts, donations
+or payments whatsoever which are received by the City for City planning and zoning purposes.
+n. Limitation on Entering Contracts. The commission shall have no power to contract debts beyond the
+amount of its income for the present year.
+Albia Zoning Ordinance-Page 36
+SECTION 20 BOARD OF ADJUSTMENT.
+1. Creation, Membership and Procedure. A Board of Adjustment consisting of five or seven members which are
+appointed by the City Council as provided by Chapter 414.8 of the 1981 Code of Iowa is hereby created. Members
+of a five-member board shall be appointed for a term of five years, except that when the board shall first be created
+one member shall be appointed for a term of five years, one for a term of four years, one for a term of three years,
+one for a term of two years, and one for a term of one year. Members of a seven-member board shall be appointed
+for a term of five years, except when the board shall first be created two members shall be appointed for a term of
+five years, two members for a term of four years, one for a term of three years, one for a term of two years, and one
+for a one-year term. A majority of members of the Board of Adjustment shall be persons representing the public at
+large and shall not be involved in the business of purchasing or selling real estate. Vacancies shall be filled for the
+unexpired term of any member whose term becomes vacant. The appropriate appointing authority may remove any
+member of the Board of Adjustment for cause and after public hearing.
+a. Organization. The board shall elect its own officers and shall have the power to adopt rules and
+regulations for its own governments, not inconsistent with law or with the provisions of the ordinance or
+any other ordinances of the city. Meetings shall be held at the call of the Chairperson and at such other
+times as the board may determine. In the absence of the Chairperson, the acting Chairperson may
+administer oaths and compel attendance of witnesses.
+b. Meetings. Meetings of the board shall be open to the public, minutes shall be kept of the proceedings,
+showing the action of the board and the vote of each member upon each question, or if absent or failing to
+vote, indicating that fact, and records shall be made of the board's examination and other official action,
+all of which shall be filed immediately in the office of the board as a public record.
+c. Quorums. Three members of a five-member board shall constitute a quorum, and four members of a
+seven-member board shall constitute a quorum. The board shall act by resolution, and the concurring
+votes of three members of a five-member board, and four members of a seven-member board shall be
+necessary to reverse any order, requirements, decision or determination of the Building Inspector, or to
+decide in favor of an applicant any matter upon which it is required to pass under the ordinance or to
+effect variation in the requirements of the ordinance.
+d. Assisting Board. The board may call on the city departments for assistance in the performance of its
+duties, and it shall be the duty of such departments to render such assistance to the board as may
+reasonably be required.
+2. Applications and Appeals.
+a. Applications. An application to the board, in cases in which it has original jurisdiction under the
+provision of the ordinance, may be taken by any property owner, including a tenant, or by any
+governmental officer, department, board or bureau. Such application shall be filed with the Zoning
+Administrator, together with a fee of one percent (1%) of the total project, not exceeding one hundred
+dollars ($100), who shall transmit the same, together with all the plans, specifications and other papers
+pertaining to the application to the board. Should the applications be withdrawn prior to publication of
+legal notice thereon, such fee will be returned upon written request of the applicant.
+b. Appeals. An appeal to the board may be taken by any property owner, including a tenant, or by any
+governmental officer, department, board or bureau affected by any ruling of the Zoning Administrator
+such appeal shall be taken within a reasonable time, as prescribed by the rules of the board, by filing with
+the Zoning Administrator a notice or appeal specifying the grounds thereof. The Zoning Administrator
+shall forthwith transmit to the board such notice of appeal, together with all the plans and papers
+constituting the record upon which the action appealed from was taken. A fee of twenty-five dollars ($25)
+shall also accompany the appeal. Should the appeal be withdrawn prior to publication of legal notice
+thereon, such fee will be returned upon written request of the applicant.
+c. Hearings. The board shall fix a reasonable time for the hearing of an application or of an appeal. It shall
+give at least four days and not to exceed twenty days notice of the time and place of such hearing by
+insertion in a newspaper published in the community, and shall also give notice delivered by first class
+mail at least five days before the time fixed for such hearing to the applicant or appellant and to the
+Zoning Administrator, and to the respective owners of record of property adjoining or adjacent to the
+premises in question. Any party may appear at such hearing in person or by agent or by attorney. The
+board shall decide the application or appeal within a reasonable time.
+Albia Zoning Ordinance-Page 37
+d. Stay of Proceedings. An appeal shall stay all proceedings in furtherance of the action appealed from,
+unless the Zoning Administrator certifies to the board that by reason of facts stated in the certificate, a
+stay would in his or her opinion cause imminent peril to life or property. In such case, proceedings shall
+not be stayed otherwise than by order which may, on due cause shown, be granted by the board on
+application, after notice to the Zoning Administrator or by court of record.
+3. Powers of the Board. The board shall have jurisdiction in matters and shall have the specific and general powers
+provided in this ordinance and by the Code of Iowa.
+a. Special Exceptions and Interpretation of Map. The board shall have the power to hear and decide, in
+accordance with the provisions of the regulation, requests or applications for special questions upon which
+the board is authorized to pass.
+b. Special Exceptions. In addition to permitting the special exceptions heretofore specified in this ordinance,
+the board shall have authority to permit the following:
+(1) Non-Conforming Uses. The substitution for a non-conforming use, another non-conforming use,
+if no structural alterations except those required by law are made; provided, however, that any
+use so substituted shall be of the same or a more restricted classification.
+(2) Temporary Uses and Permits.
+a) The temporary use of a building or premises in any district for a purpose of use that does
+not conform to the standards prescribed by the regulations, provided that such use be of a
+true temporary nature and does not involve the erection of substantial buildings. Such
+permit shall be granted in the form of a temporary and revocable permit for not more than
+a 12-month period, subject to such conditions as will safeguard the public health, safety,
+convenience, and general welfare.
+b) The temporary use of a building or premises in undeveloped sections for a purpose that
+does not conform to the standards prescribed by the regulations, provided that such
+structure or use is of a true temporary nature, is promotive of or incidental to the
+development of such undeveloped sections, and does not involve the erection of
+substantial buildings. Such permit shall be granted in the form specified under subsection
+2a. above.
+(3) Interpretation of Map. Where the street or lot layout actually on the ground or as recorded,
+differs from the street and lot lines indicated on the zoning map, the board, after notice to the
+owners of the property and after public hearing, shall interpret the map in such a way as to carry
+out the intent and purposes of the regulations for the particular section or district in question.
+(4) Certain Industries in "I-1" Districts. In determining whether certain uses shall be located in and
+"I-1" District, the board shall give due regard to the nature and condition of all adjacent uses and
+structures, and the consistency therewith of the proposed use and development. Before
+authorizing a use as a special exception, the board shall determine whether the proposed
+exception or use would be hazardous, harmful, noxious, offensive, or a nuisance to the
+surrounding neighborhood by reason of noise, smoke, odor, vibration, dust and dirt, cinders,
+noxious gases, glare and heat fire and safety hazards, sewage wastes and pollution, transportation
+and traffic, aesthetic and physiological effect. The board may utilize and give recognition to
+those performance standards which are available in model codes or ordinances, or have been
+developed by planning, manufacturing, health, architectural and engineering research
+organizations, and can be applied to the proposed use to assist in reaching a fair and objective
+decision. Upon authorizing a special use and/or exception, the board may impose such
+requirements and conditions in addition to those expressly stipulated in this report for the
+particular special use and/or exception as the board may deem necessary for the protection of
+adjacent properties and public interest.
+c. Administrative Review and Variances. The Board of Adjustment also shall have the power to do the
+following:
+(1) Administrative Review. To hear and decide appeals where it is alleged by the appellant that
+there is error in any order, requirement, decision, grant or refusal made by the Zoning
+Administrator in the enforcement of the regulation.
+(2) Variances. To authorize an appeal in specific cases, such variance from the terms of the
+regulations as will not be contrary to the public interest, where, owing to special conditions, a
+literal enforcement of the provisions of the regulations will result in unnecessary hardship, and so
+Albia Zoning Ordinance-Page 38
+that the spirit and purpose of the regulations shall be observed and substantial justice done as
+follows:
+a) Where by reason of exceptional narrowness, shallowness, or shape of a specific piece of
+property at the time of enactment of the regulations, or by reason of exceptional
+topographic conditions, or other extraordinary and exceptional situation or condition of
+such piece of property, or of the use or development of property in question, the literal
+enforcement of the provisions of the regulations would result in peculiar and exceptional
+practical difficulties or exceptional and undue hardships, and so that the spirit and purpose
+of the regulations shall be observed and substantial justice done. In authorizing a
+variance, the board may attach thereto such conditions regarding the location, character
+and other features of the proposed building, structure or uses as it may deem advisable in
+the interest of the furtherance of the purposes of the regulations.
+b) No such variance in the provision or requirements of the regulations shall be authorized by
+the board unless the board finds beyond reasonable doubt that all of the following
+conditions exist:
+i) That there are exceptional or extraordinary circumstances or conditions applying to
+the property in question or to the intended use of the property that do not apply to
+other properties or class of uses in the same zoning district.
+ii) That such variance is necessary for the preservation and enjoyment of a substantial
+property right possessed by other properties in the same zoning district and in the
+vicinity.
+iii) That the authorizing of such variance will not be of substantial detriment to
+adjacent property and will not materially impair the purposes of the regulations or
+the public interest.
+c) No grant or variance shall be authorized unless the board specifically finds the condition
+or situation of the specific piece of property for which the variance is sought is not of so
+typical or recurrent a nature as to make reasonably practicable the formulation of a general
+regulation, under an amendment of the regulations, for such conditions or situations.
+d) The board shall have no power to authorize a variance for the establishment of a nonconforming
+use where none previously existed.
+e) In considering a request for a variance from the regulations concerning signs, the board
+shall give consideration and arrive at a finding on the following:
+i) Shape and area of lot in question.
+ii) Bulk and floor area of the main building or structure.
+iii) Set-back of proposed sign from all property lines.
+iv) Zoning and use of surrounding parcels.
+v) Unusual or exceptional topography.
+vi) Compatibility with general intent of the zoning regulations to encourage
+development without detracting from the use and enjoyment of surround property.
+d. Action of Board. In exercising its powers, the board may, in conformity with the provisions of the Code
+of Iowa, and of the regulations, reverse or affirm, wholly or partly, or may modify the order, requirement,
+decision, or determinations as, in the board's opinion, ought to be made, and to that end has all the powers
+of the officer from whom the appeal is taken.
+4. Judicial Review. All final administrative decisions of the Board of Adjustment shall be subject to judicial review
+pursuant to the provision of Chapter 414, Code of Iowa, 1981, and all amendments and modifications thereof, and the
+rules adopted pursuant thereto.
+Albia Zoning Ordinance-Page 39
+SECTION 21 DISTRICT CHANGES AND ORDINANCE AMENDMENTS.
+1. Zoning Commission Approval. In accordance with the provisions of Chapter 414, Code of Iowa, the City Council
+may from time to time amend or change by ordinance the number, shape, or area of districts established on the
+Zoning Map or the regulations set forth in the ordinance; but no such amendment or change shall become effective
+unless the ordinance proposing such amendment or change shall first be submitted to the Zoning Commission for
+approval, disapproval or suggestions, and said Commission shall have been allowed a reasonable time, not less than
+30 days, for consideration and report.
+2. Hearings on Changes, Notice. Before submitting its recommendations and report to the Council, the Zoning
+Commission shall hold a public hearing on the proposed amendment, supplement or change. It shall give not less
+than 15 nor more than 30 days notice of the time and place of such hearing by publication in a newspaper published
+in the community and by mailing notices to all property owners directly involved, contiguous to or directly across a
+street or alley from the area proposed to be altered.
+3. Amendment Petition. Any person desiring a change in zoning or property may make application therefor, and in so
+doing shall accompany the petition for such change in zoning, or the ordinance introduced for the purpose of
+changing such zoning, with a fee in the amount of fifty dollars ($50) towards the cost of processing the application.
+Should the application be withdrawn prior to publication of legal notice thereon, such fee will be returned upon
+written request of the applicant.
+4. Public Filing Vote. During the 15 days prior to the public hearing the text or copy of the text of such ordinance or
+petition, together with the maps or plans or copies thereof shall be on file, for public examination, in the office of the
+Secretary of the Zoning Commission. No ordinance which differs from the recommendations made by the Zoning
+Commission shall become effective unless passed by not less than 3/4 of all members of the Council.
+5. Protest. In case of a written protest against a proposed change in the boundaries of a district signed and
+acknowledged by the owners of 20% or more of either the frontage proposed to be altered, or of the frontage
+immediately adjoining or across an alley therefrom, or directly opposite the frontage proposed to be altered, is filed
+with the City Clerk, such amendment shall not be passed or become effective except by the favorable vote of 3/4's of
+all member of the Council.
+6. Procedural Omissions. The failure to notify, as provided by this Section, shall not invalidate an ordinance, provided
+such failure was not intentional, and the omission of the name of any owner or occupant of property who may, in the
+opinion of the Zoning Commission, be affected by such amendment, supplement or change, unless such omission is
+intentional, shall not invalidate any ordinance passed hereunder, it being the intention of the Section to provide so far
+as may be for notice to the persons substantially interested in the proposed change that an ordinance is pending
+before the Council, proposing to make a change in zoning.
+SECTION 22 PENALTY.
+1. In case any building or structure is erected, constructed, reconstructed, altered, repaired, converted, or maintained, or
+any building, structure, or land used in violation of the provisions of the regulations, the City Attorney, in addition to
+other remedies under the Code of Iowa, is hereby authorized to institute in action to enjoin, or any other appropriate
+action or proceeding to prevent such erection, construction, reconstruction, alteration, repair, conversion,
+maintenance, or use.
+2. Any person, firm or corporation who violated, disobeys, omits, neglects, or refuses to comply with any of the
+provisions of the regulations shall be subjected to those penalties applicable to a Municipal Infraction pursuant to the
+Code of Ordinances of the City of Albia, Iowa.
+SECTION 23 SEVERABILITY.
+This ordinance and the various parts, sections, and paragraphs thereof are hereby declared to be severable. If any article, section,
+subsection, paragraph, sentence, or phrase of this ordinance is adjudged unconstitutional or invalid by any court or competent
+jurisdictions, the remainder of the ordinance shall not be affected thereby.
