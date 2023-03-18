@@ -1,0 +1,1912 @@
+
+
+JOINT ZONING BYLAW
+
+
+For
+
+
+TOWN OF BARTON
+
+
+BARTON VILLAGE
+
+
+ORLEANS VILLAGE
+
+
+ 
+
+Amended: 2018
+
+
+Planning Commission Hearings: 4/26/16, 4/27/16, 8/17/16
+
+Select Board Hearings: 11/14/16, 10/26/17, 08/16/18
+
+Adopted by the Barton Town Selectboard: August 21, 2018
+
+
+
+Table of Contents
+
+
+ART 1: ENACTMENT AND INTENT					
+Sec 101:  Enactment					                          			
+Sec 102:  Intent								              	
+ART 2: ESTABLISHMENT OF DISTRICTS AND REGULATIONS
+Sec 201:  Zoning Maps and Districts							
+Sec 202:  Copies of Zoning Maps							
+Sec 203:  District Boundaries								
+Sec 204:  District Objectives and Land Use Controls					
+Sec 205:  Application of Regulations							
+Sec 205.01: Land and Building Regulations						
+Sec 205.02: Limitations of the Bylaw							
+Sec 205.03: Uses Not Requiring Permits____						
+Tab 205.1:  Resource District								
+Tab 205.2:  Low Density									
+Tab 205.3:  Medium Density								
+Tab 205.4:  High Density								
+Tab 205.5:  Mixed Use (includes Commercial)						
+Tab 205.6:  Industrial									
+Tab 205.7:  Shoreland Area Overlay							
+	      Special Provisions for Shoreline Buffer Zones for Shoreline Buffer Zones_____
+Sec 206:  Permitted Uses								
+Sec 207:  Conditional Uses								
+ART 3: GENERAL PROVISIONS   
+Sec 300:  Subdivisions									
+Sec 301:  Pre-existing Subdivisions							
+Sec 302:  Existing Small Lots								
+Sec 303:  Frontage on, or Access to, Public Roads or Waters				
+Sec 304:  Protection of Home Occupations						
+Sec 305:  Lots in Two Zoning Districts							
+Sec 306:  Reduction of Lot Area								
+Sec 307:  Required Area or Yards							
+Sec 308:  Projections into Yards								
+Sec 309:  Yards on Corner Lots								
+Sec 310:  Location of Driveways								
+Sec 311:  Temporary Uses and Structures						
+Sec 312:  Unsafe Structures and Sites; Burned Buildings					
+Sec 313:  Obstruction of Vision								
+Sec 314:  Height Regulations								
+Sec 315:  Private Swimming Pools							
+Sec 316:  Off Street Parking and Loading Space Requirements				
+Sec 317:  Signs, Number and Surface Area						
+Sec 319:  Telecommunications Facilities							
+Sec 320:  Screened Service Area Requirements						
+Sec 321:  Storage of Flammable Liquids							
+Sec 322:  Livestock and Pets								
+Sec 323:  Reqd. Info for Zoning, Site Plan, Cond. Use, Subdivision, and PUD applications  	
+Sec 324:  Site Plan and Subdivision Review Procedures					
+
+TABLE OF CONTENTS (Continued)
+Sec 325:  Planned Unit Development (PUD)						
+Sec 326:  Travel Trailers									
+Sec 327:  Flood Hazard Area Requirements						
+Sec 328:  Streambanks									   
+Sec 330: Junky Yards									
+Sec 331:  Wind Energy Facilities								
+Sec 332:  Commercial Storage of Abandoned or Wrecked Motor Vehicles			
+Sec 333: Equal Treatment of Housing							
+Sec 334:  Mobile Homes, Modular Housing and Prefabricated Housing 			
+Sec 335:  Mobile Home Parks 								
+Sec 336:  Multifamily Dwellings 								
+Sec 337:  Accessory Dwelling Units 							
+Sec 338:  Residential Care and Group Homes 						
+Sec 339:  Family Child Care Home or Facility 						
+Sec 340:  Performance Standards	 						
+ART 4: NONCONFORMITIES
+Sec 401:  Permits Issued Prior to Amendment of Regulations				
+Sec 402:  Nonconforming Uses								
+Sec 403:  Nonconforming Structures							
+ART 5: DEFINITIONS
+Sec 501:  Word Definitions								
+Sec 502:  Term Definitions								
+ART 6: ADMINISTRATION AND ENFORCEMENT   
+Sec 601:  Administrative Officer								   
+Sec 602:  Zoning Permits								
+Sec 603:  Certificates of Compliance							
+Sec 604:  Appeals									
+Sec 605:  Variances									
+Sec 606:  Waivers									
+Sec 607:  Interested Persons								
+Sec 608:  Appeals to Environmental Court						                                        
+Sec 609:  Violations and Penalties							                                                  
+Sec 610:  Planning Commission and Development Review Board				         
+Sec 611:  Public Notice									                                                                 
+ART 7: AMENDMENTS, INTERPRETATION, EFFECTIVE DATE
+Sec 701:  Amendments									
+Sec 702:  Interpretation									
+Sec 703:  Effective Date									
+Sec 704:  Separability									
+Sec 705:  Repeal of Former Zoning Bylaw						
+
+ZONING MAPS:   
+Town of Barton
+Village of Barton
+Village of Orleans
+
+
+*This document and the associated zoning maps were updated with the assistance of a Municipal Planning Grant award from the Vermont Agency of Commerce and Community Development. 
+ART 1: ENACTMENT AND INTENT
+
+Sec 101:  Enactment
+
+In accordance with the Vermont Planning and Development Act, 24 V.S.A., Chapter 117 (as revised through 2013), hereinafter referred to as the "Act", there is hereby established, pursuant to 24 VSA, Section 4401 of the Act, a zoning bylaw for the Town of Barton, and the incorporated Villages of Barton and Orleans, which is set forth in the text and maps that constitutes this bylaw.  This bylaw shall be known and cited as the “Joint Zoning Bylaw for the Town of Barton, Barton Village and Orleans Village”.
+      
+Sec 102:  Intent
+                                          
+It is the intent of this zoning bylaw to provide for orderly community growth and to further the purposes and goals established in 24 VSA, Section 4302 of the Act and the Barton Town Plan.
+                 
+ART 2: ESTABLISHMENT OF DISTRICTS AND REGULATIONS 
+                                                 
+Sec 201:  Zoning Maps and Districts - 
+                                          
+The zoning maps, officially "Zoning Maps for the Town of Barton, Barton Village, and Orleans Village", are hereby adopted as part of this bylaw.  The zoning maps correspond to the future land use maps of the Town Plan.  The zoning maps show a division of the town and villages into the following districts:
+                        
+Resource District (RD)
+Low Density (LD)
+Medium Density (MD)
+High Density (HD)
+Mixed Use (MU)
+Industrial (I)
+
+Sec 202:  Copies of Zoning Maps - 
+
+Regardless of the existence of other printed copies of the zoning map(s), which from time to time may be made or published, the official zoning maps, which shall be located in the office of the Town Clerk, shall be the final authority as to the current zoning status of the land and water areas, buildings, and other structures in the town.
+
+Sec 203: District Boundaries
+
+The administrative officer shall interpret the location of district boundaries.  The administrative officer shall interpret the location of district boundaries.
+
+Where uncertainty exists as to the boundaries of any district shown on the official zoning map, the following shall apply:
+I.	Where district boundaries appear to approximately follow the center line of highways, roads, alleys, railroads, streams, other bodies of water, civil division lines, land lot lines, property lines or contour lines, such lines or center lines shall be construed to be such boundaries as they existed at the time of the first adoption of the subject boundary; and
+
+II.	Where district boundaries are indicated as being measured from or being parallel to the center line of highways, roads, alleys, railroads, civil division lines, land lot lines, or property lines, such boundaries shall be construed as being measured from or being parallel thereto and at a distance therefrom as indicated or as determined by the scale shown on the zoning map.
+
+III.	Should a discrepancy exist between the administrative officer and the landowner as to the location of the district boundaries, the Development Review Board shall make a final determination as to where the district boundary is, using the scale shown on the zoning map.
+
+When the Administrative Officer cannot definitely determine the location of a district boundary by such center lines, by the scale or dimensions stated on the zoning maps, or by the fact that it clearly coincides with a property line, he or she shall refuse action, and the Development Review Board shall interpret the location of the district boundary with reference to the scale of the zoning maps and the purposes set forth in all relevant provisions of this bylaw.
+
+Sec 204:  District Objectives and Land Use Controls
+                                
+The tables herein, designated 205.01 through 205.07 inclusive, establish the objectives of each of the districts hereby established and the provisions of this bylaw that apply respectively in each district. Any use designated as a "Permitted Use" in the table relating to a particular district may be commenced in such district pursuant to Section 206 of this bylaw. Any use designated as a "Conditional Use" in the table relating to a particular district may be commenced in such district pursuant to Section 207 of this bylaw.
+
+Sec 205:  Application of Regulations
+
+Sec 205.01:  Land and Building Regulations
+No land shall hereafter be occupied and, no building or part thereof shall hereafter be occupied, erected, moved or altered unless in conformity with the regulations herein specified for the district in which it is located.
+  
+No building shall be erected or altered to have narrower or smaller rear yards, front yards, or side yards; than is specified herein for the district in which such building is located. No part of a yard or other open space about any building required for the purpose of complying with the provisions of this bylaw shall be included as a yard or other open space similarly required for another building.
+
+Sec 205.02 Limitations of this Bylaw –
+In accordance with 24 VSA § 4413. Limitations on municipal bylaws:
+(a) The following uses may be regulated only with respect to location, size, height, building bulk (length x width x height), yards, courts, setbacks, density of buildings, off-street parking, loading facilities, traffic, noise, lighting, landscaping, and screening requirements, and only to the extent that regulations do not have the effect of interfering with the intended functional use:
+(1) State- or community-owned and operated institutions and facilities.
+(2) Public and private schools and other educational institutions certified by the state department of education.
+(3) Churches and other places of worship, convents, and parish houses.
+(4) Public and private hospitals.
+(5) Regional solid waste management facilities certified under 10 V.S.A. chapter 159.
+(6) Hazardous waste management facilities for which a notice of intent to construct has been received under 10 V.S.A. § 6606a.
+(b) This bylaw shall not regulate public utility power generating plants and transmission facilities regulated under 30 V.S.A. § 248.
+(c) Except as otherwise provided by this section and by 10 V.S.A. § 1976, if this bylaw is enacted with respect to any land development that is subject to regulation under state statutes, the more stringent or restrictive regulation applicable shall apply.
+(d) This bylaw shall not regulate accepted agricultural and silviculture (forestry) practices, including the construction of farm structures, as those practices are defined by the secretary of agriculture, food and markets or the commissioner of forests, parks and recreation, respectively, under subsections 1021(f) and 1259(f) of Title 10 and section 4810 of Title 6.
+(1) For purposes of this section, "farm structure" means a building, enclosure, or fence for housing livestock, raising horticultural or agronomic plants, or carrying out other practices associated with accepted agricultural or farming practices, including a silo, as "farming" is defined in subdivision 6001(22) of Title 10, but excludes a dwelling for human habitation.
+(2) A person shall notify a municipality of the intent to build a farm structure and shall abide by setbacks approved by the secretary of agriculture, food and markets. No municipal permit for a farm structure shall be required.  The notification shall be in writing and shall contain a sketch of the proposed structure including the setbacks from adjoining property lines and road rights-of-way.
+
+e) Notwithstanding any provision of law to the contrary, a bylaw adopted under this chapter shall not:
+
+(1) Regulate the installation, operation, and maintenance, on a flat roof of an otherwise complying structure, of a solar energy device that heats water or space or generates electricity. For the purpose of this subdivision, "flat roof" means a roof having a slope less than or equal to five degrees.
+
+(2) Prohibit or have the effect of prohibiting the installation of solar collectors not exempted from regulation under subdivision (1) of this subsection, clotheslines, or other energy devices based on renewable resources.
+
+f) Except as necessary to ensure compliance with the National Flood Insurance Program, this bylaw shall not regulate any of the following:
+
+(1) An ancillary improvement that does not exceed a footprint of 300 square feet and a height of 10 feet.
+
+(2) The following improvements associated with the construction or installation of a communications line:
+
+(a)	The attachment of a new or replacement cable or wire to an existing electrical distribution or communications distribution pole.
+
+(b) The replacement of an existing electrical distribution or communications distribution pole with a new pole, so long as the new pole is not more than 10 feet taller than the pole it replaces.
+
+g) Communications antennae and facilities. 
+(1) In accordance with 24 V.S.A., Section 4412 (8)(A), except to the extent bylaws protect historic landmarks and structures listed on the State or National Register of Historic Places, no permit shall be required for placement of an antenna used to transmit, receive, or transmit and receive communications signals on that property owner's premises if the area of the largest face of the antenna is not more than 15 square feet, and if the antenna and any mast support do not extend more than 12 feet above the roof of that portion of the building to which the mast is attached.
+(2) If an antenna structure is less than 20 feet in height and its primary function is to transmit or receive communication signals for commercial, industrial, institutional, nonprofit, or public purposes, it shall not be regulated under this chapter if it is located on a structure located within the boundaries of a downhill ski area and permitted under this chapter. For the purposes of this subdivision, "downhill ski area" means an area with trails for downhill skiing served by one or more ski lifts and any other areas within the boundaries of the ski area and open to the public for winter sports.
+(3) The regulation of a telecommunications facility, as defined in 30 V.S.A. § 248a, shall be exempt from municipal approval under this chapter when and to the extent jurisdiction is assumed by the Public Service Board according to the provisions of that section.
+(4) A municipality may regulate communications towers, antennae, and related facilities in its bylaws provided that such regulations do not have the purpose or effect of being inconsistent with subdivisions (1) through (3) of this subdivision (g).
+
+Sec 205.03 Uses Not Requiring Permits
+The following uses do not require a zoning application or permit:
+
+Fences 8 ft. high or lower
+Mailboxes
+Pet enclosures (64 sq. ft. or less)
+Retaining walls
+Residential handicap access ramps
+Storage or utility sheds (120 sq. ft. or less) – one unpermitted shed per parcel
+Tree houses (64 sq. ft. or less)
+Yard sales (No more than 30 consecutive days)
+
+Table 205.01:  Resource District
+
+Purpose:           
+This category includes land generally characterized by poor or limited road access, lack of public infrastructure, thin or poor soils, steep topographic conditions and remoteness from existing concentrated settlement. The development of lands in this category could cause undue damage to the environment by the extension of roads and public utilities necessary to serve the area.  Further, the burden of road or public utility maintenance could become an undue expense to the owner, future owner, public utilities, and the town. For this reason, the minimum lot size of 10 acres will be larger than any other district.  The remote district also includes a large majority of the towns’ wildlife habitat, forestry and agricultural resources, source protection areas (i.e. wellheads), including headwaters of high quality streams and brooks.  All of these natural resources are best preserved by minimal or limited development.
+
+The suitability of these areas for development must be demonstrated by the landowner through meeting reasonable performance development standards for this district as reviewed through conditional use review.
+
+The “resource district” category includes most of the southern half of the Town around Crystal Lake, Wheeler Mountain, May Pond, and Barton Mountain.  There are also resource district designations around Baker Pond and the Barton and Willoughby Rivers.   
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+Note:  Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:
+1.	Accessory use, structure	2.	Agriculture (sec. 205.02)
+3.	Dwelling, single family	4.	Forestry (sec. 205.02)
+5.	*Home occupation	6.	Recreational Vehicle (Seasonal Use)
+7.	*Essential Services (See definition)	8.	Recreation, Outdoors
+            
+Conditional Uses: 
+1.	Earth resources extraction	2.	Renewable Energy Facility (also See Sec. 331).
+3.	Telecommunications Facilities (See Sec. 319)	
+
+Minimum Area and Dimensional Requirements
+                               
+Lot width, feet:                                          400
+Lot depth, feet:                                         400
+** Front yard, feet:                                      50
+**Side yard, feet:                                        20 
+**Rear yard, feet:                                        20
+Lot area: 10 acres
+Maximum building height, feet:                   35
+
+* Requires Site Plan Review
+** In no case less than 25 ft. to the front property line or Right of Way.
+
+Table 205.02: Low Density
+
+Purpose:
+
+The “low density” district is designed for agriculture and forestry enterprises, low-density residential development, limited commercial development along Class 2 highways only, and other non-intensive uses of the land.  Low density areas are designated where dwelling units will be placed on lots of at least two (2) acres and will not be provided with municipal sewer or water in the foreseeable future. Development in this district will be buffered by existing trees and topography, so as to promote the current rural setting while at the same time providing an atmosphere of privacy within a reasonable distance to the central more populated areas of the Town.
+
+The “Low Density” district is the largest category of land use in the Town.  It includes most of the northern half of the Town between the villages.
+
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+
+Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:
+1.	Accessory use, structure	2.	Accessory dwelling (See sec. 337)
+3.	Agriculture (See sec. 205.02)	4.	Dwelling, single family
+5.	Dwelling, two family	6.	*Family Child Care (See Sec. 339)
+7.	Forestry (See sec. 205.02)	8.	*Home Occupation
+*Essential Services (See Sec. 340)
+*Lodge or Club
+*Subdivisions
+*Wildlife refuge
+Planned Unit Development including (See Sec.325)
+a) Mobile Home Park
+       b) Travel Trailer Park
+       c) Secondary Structure
+       *Reservoirs
+       Low Income Housing
+       Livestock and Pets
+9.	*Self-Storage Facility	
+			  
+Conditional Uses:
+1.	Bed & Breakfast	2.	Cemetery
+3.	Contractor Yard	4.	Earth Resource Extraction
+5.	Essential Services (See definition)	6.	Eating Food Establishment
+7.	Fuel Storage	8.	Kennel
+9.	Lodge or Club	10.	Planned Unit Development, including: (See Sec. 325)
+a.	Campground
+b.	Recreational Vehicle Park
+11.	Recreation, Indoor or Outdoor	12.	Renewable Energy Facilities (also See Sec. 331)
+13.	Residential Care or Group Home (See Sec. 338)	14.	Sawmill
+Animal Hospitals
+Auto service station services
+Commercial & fraternal accommodations
+Health care facility (sec. 340)
+Heavy equipment sales/service
+Commercial junkyard
+Landfill
+Solid Waste Transfer Station
+Lounge
+Manufacturing
+Warehouse
+Wholesale Business
+Parking Lot
+Personal and Professional Services
+Public facility (see Sec. 340)
+Recycle and Redemption facility
+Religious Institution
+Retail Businesses
+School (see Sec.340)
+Secondary Structure
+Service and Repair
+Theaters
+Multifamily Dwellings (See Sec.336)
+Wind Energy Facility (See Sec. 331)
+Commercial Storage of Abandoned/Wrecked Motor Vehicles (see Sec. 332)
+15.	Telecommunication Facilities (See Sec. 319)	
+* Requires site plan review and approval by the Development Review Board. 
+
+Minimum Area and Dimensional Requirements:
+Maximum building height, feet:                           35
+ 	
+Lot depth, feet:                                        	        150 
+Front yard, feet:                                        	          50
+Side yard, feet:                                         	          20
+Rear yard, feet:     			          20         
+Lot area: 2 acres                  
+Lot width, feet:             			        150      	 
+
+ 
+Table 205.03:  Medium Density
+Purpose:
+
+The designation of the “Medium Density” district hinges primarily upon current availability and the designation of feasible (future) extensions of sewer and water utilities and proximity to the existing villages of Barton and Orleans. The existing settlement patterns and the transportation networks support denser development in these areas.
+
+The “Medium Density” district will contribute towards the growth of built up areas which have already been developed.  
+
+The areas proposed for this category are those in which Municipal sewer and water facilities are most feasible. Compact development is by far the most economical and efficient method for providing these municipal type services. 
+
+Lands in the “Medium Density” district are primarily limited to lands adjacent to the incorporated limits of Orleans Village and Barton Village as these areas are served by exiting municipal sewer and water, or the ability to extend services is reasonable.  The district extends from each of the village centers, making access by walking or bicycling reasonable.  
+
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+
+Note:  Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:
+1.	Dwelling, single family                     	2.	Dwelling, two-family
+3.	Accessory use, structure	4.	Accessory dwelling (See sec. 337)
+5.	Agriculture (See Sec. 205.02)	6.	*Essential Services (See definition)
+7.	Forestry (See Sec. 205.02)	8.	*Family Child Care (See Sec. 339)
+9.	Home Occupation	10.	Planned Unit Development (See Sec. 325)
+a.	Mobile Home Park
+b.	Recreational Vehicle Park
+c.	Campground
+11.	*Religious Institution
+*Subdivision
+Low Income Housing
+*Parking Lot	12.	*Self-Storage Facility
+		        
+Conditional Uses:
+1.	Animal Hospital	2.	Auto Service Station
+3.	Bed and Breakfast	4.	Car Wash
+5.	Contractor Yard	6.	Food Establishment
+7.	Health Care Facility 	8.	Heavy Equipment Sales and Service
+9.	Industry, Light	10.	Kennel
+11.	Lodging Facility	12.	Motor Vehicle Sales and Service
+13.	Multi-family Dwelling	14.	Personal/Professional Service
+15.	Recreation, Indoor or Outdoor	16.	Residential Care or Group Home 
+17.	Retail Store	18.	Renewable Energy Facilities (also See Sec.331)
+19.	School [See Sec. 205.02(a)(2)] 	20.	Telecommunications Facility 
+21.	Warehouse
+Cemetery
+Commercial & Fraternal Accommodations
+Lounge
+Service & repair
+Livestock & Pets
+Lodge or Club
+Manufacturing
+Wind Energy Facility (See Sec.331)	22.	Wholesale Business
+Public facility (See Sec.340)
+Reservoirs
+Redemption & Recycling
+Solid Waste Transfer Station
+Theaters
+Wildlife refuge
+Commercial Storage of Abandoned/Wrecked Motor Vehicles (See Sec.332)
+*Requires site plan review and approval by the Development Review Board
+          
+Minimum Area and Dimensional Requirements:
+
+Lot classification:	A	B	C
+Lot width, feet:		90	100	150
+Lot depth, feet:		80	100	150 
+** Front yard, feet:	50	50	50
+Side yard, feet:		10	15	15
+Rear yard, feet:		10	15	15
+Max. building height, ft:	35	35	35 
+Lot area 0.5 acres	1.0 acres	2.0 acres
+** In no case less than 25' from the front lot line or right-of-way.
+                                         
+ CLASS DESCRIPTIONS:
+       A. Off-lot water supply AND sewage disposal.
+       B. Off-lot water supply OR sewage disposal.
+       C. On-lot water supply AND sewage disposal.
+
+Table 205.04: High Density
+Purpose:
+
+The ‘High Density’ district is designed to be the location for the most intense levels of residential development. Again, this district is primarily limited to the incorporated Village areas in keeping with the State’s goal of compact, dense villages surrounded by less-developed areas and working lands.  It is contemplated that dense residential and limited commercial development will be located in these village areas. Sewer, water, and electric utilities are readily available and the mixed-use business or industrial districts are nearby.
+
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+
+Note:  Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:
+1.	Accessory use, structure 	2.	Accessory dwelling (See sec. 337)
+Dwelling, single family.                     	3.	Dwelling, two-family.
+4.	*Dwelling, Multi-Family.	5.	*Essential Services (See definition).
+6.	*Family Child Care Home or Facility (See Sec. 339)	7.	Home Occupation.
+8.	*Personal and Professional Services.	9.	Planned Unit Development (See Sec. 325) Including:
+a.	Mobile Home Park
+b.	Travel Trailer Park
+c.	Secondary Structure
+10.	Religious Institution
+*Parking Lot
+Low Income Housing
+*Subdivision	11.	Residential Care or Group Home (See Sec. 338)
+
+Conditional Uses:
+1.	Bed and Breakfast	2.	Retail Store
+3.	Industry, Light	4.	Lodge or Club
+5.	Lodging Facility	6.	Renewable Energy Facilities (also See Sec. 331)
+7.	Recreation, Indoor or Outdoor
+Auto Service Station
+Animal Hospital
+Banks
+Car Wash
+Commercial & fraternal accommodations
+Contractor’s Yard
+Eating Establishment
+Health Care Facility
+Lounge
+Manufacturing
+Motor Vehicle Sales & Service
+Museum
+Multifamily Dwellings (See Sec.336)	8.	Self-Storage Facility
+Public Facility (See Sec.340)
+Redemption and Recycling
+Religious Institution
+School (See Sec. 340)
+Service & Repair
+Theaters
+Warehouse
+Wholesale Business
+Livestock & Pets
+Wind Energy Facility (See Sec. 331)
+Commercial Storage of Abandoned/Wrecked Motor Vehicles (See Sec. 332)
+Residential Care/Group Home (See Sec. 338)
+* Requires site plan review and approval by the Development Review Board.
+
+Minimum Area and Dimensional Requirements:
+		
+	
+Lot width, feet:		70	
+Lot depth, feet:		80	
+** Front yard, feet:	45	
+Side yard, feet:		5	
+Rear yard, feet:		5
+Lot area per dwelling unit: 7,000 sf	
+Max. building height, ft:	35	 
+
+** Unless the lot is an existing small lot or the building is within an “infill” of existing building setback lines.
+
+Table 205.05: “Mixed Use” 
+
+Designated ‘Mixed Use’ areas are intended to provide for a reasonable level of commerce, employment, access to goods and services, and housing in the Town and Villages.  Mixed Use areas are located within both villages, an area along Route 5 south of Barton Village, and along Route 16 from the I-91 interchange to the Glover town line.  
+
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+
+Note:  Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:     
+1.	Accessory use or structure	2.	*Animal Hospital
+3.	*Auto Service Station	4.	
+5.	*Bank	6.	*Car Wash
+7.	*Commercial and Fraternal Accommodations	8.	Dwelling, Single Family
+9.	Dwelling, Two Family.	10.	Dwelling, Multi-Family
+11.	*Essential Services (See definition).	12.	Family Child Care (See Sec. 339)
+13.	*Food Establishment.	14.	*Freight Terminal.
+15.	*Health Care Facility.	16.	*Heavy Equipment Sales and Service.
+17.	Home Occupation.	18.	*Kennel.
+19.	*Light Industry and Manufacturing.	20.	*Museum
+21.	*Motor Vehicle Sales and Service.	22.	*Parking Lot.
+23.	*Personal and Professional Services.	24.	*Recreation, Indoor or Outdoor.
+25.	*Recycling Facility and redemption.	26.	*Religious Institution.
+27.	*Retail Business/Store.	28.	*Residential Care or Group Home (See Sec. 338).
+29.	*School.	30.	*Service and Repair
+31.	*Theater	32.	*Warehouse.
+33.	*Wholesale Business.	
+                 
+ Conditional Uses: 
+1.	Lounge	2.	Bed and Breakfast
+3.	Contractor Yard.	4.	Commercial Storage of Abandoned/Wrecked Motor Vehicles (See Sec. 332).
+5.	Fuel Storage	6.    Mobile Home Park
+7.	Renewable Energy Facilities (see also Sec.331)	8.	Self-Storage Facility
+		
+* Requires site plan review and approval by the Development Review Board.
+
+Minimum Area and Dimensional Requirements:
+
+Lot area, acres:		0.162
+Lot width, feet:		50
+Lot depth, feet:		80
+** Front yard, feet:	40
+Side yard, feet:		5
+Rear yard, feet:		5
+Max. building height, ft:	35 
+** Unless the lot is an existing small lot or the building is within an “infill” of existing building setback lines.
+                                         
+Table 205.06: Industrial 
+
+Purpose:
+
+Industrial areas are designated in the Town based on existing settlement patterns, facilities and services.  It is important that industry be located so as to take advantage of investments that have been made over time and take advantage of readily available infrastructure, while minimizing potential negative impacts upon other land uses (e.g. residential or commercial uses).  In permitting industrial uses, the benefit to the project area must be weighed against the effects industrial development can have upon the economic balance and character of the community.
+	
+There are existing industrial areas in and near Orleans Village. A continuation of the Industrial district is located south of Orleans Village along Route 5.   Recently, there has been a new freight rail siding installed in this area for an agricultural and other enterprises, and the Town’s recycling center is located here as well.
+	
+The Orleans Industrial Park, located south and west of Route 5 is designated as an industrial area.  The park is approximately 28 acres in size.  At present, only three established businesses have set up operations within the park.  The majority of acreage available within the park (22.8 acres) remains vacant.  It is generally believed that the park has good commercial and industrial potential since it borders upon, and has easy access to Interstate 91, has good access to public infrastructure, and is within close proximity of an established state-owned rail line which runs through Orleans Village.  Since the park is located west of the center of the village, it is not contiguous with any residential concentrations within the village.  Local officials and development organizations should increase their efforts to encourage the development of this asset.  In March 2013, the Orleans industrial park was designated as a Magnet Site for the region’s official Foreign Trade Zone (FTZ) designation.  Importing and manufacturing businesses that locate within the site may be eligible for reductions in customs fees, duties, and tariffs under FTZ regulations.  Warehousing and distribution operations may receive FTZ benefits immediately upon setting up.
+
+Commercial Development on parcels greater than 1 acre and residential subdivisions of more than 5 lots are regulated by Vermont Land Use Permits which require significant agricultural soil conservation, wetland setbacks, stream and river setbacks and stormwater treatment when impervious is greater than 1 acre.
+
+Note:  Permitted and Conditional Uses listed in other districts but not listed below shall be prohibited for this district.
+
+Permitted Uses:
+1.	*Accessory use, structure 	2.	*Contractor yard
+3.	*Essential Services (See Definition)	4.	*Freight Terminal
+5.	*Fuel Storage.	6.	*Heavy Equipment Sales, Service, and Repair.
+7.	*Manufacturing	8.	* Industry, Light.
+9.	*Industry, Major.	10.	*Telecommunication Facilities.
+11.	Renewable Energy Facilities.
+*Animal Hospital including
+Low Income Housing
+*Eating Establishment
+*Earth Resources Extraction
+*Health Care Facility (See Sec.340)
+Home Occupation
+*Industrial Use
+*Kennel
+*Lodge or Club
+*Lounge
+*Museum
+*Family Child Care (See Sec. 339)
+Planned Use Development (See Sec. 325)
+a.	Mobile Home Park
+b.	Travel Trailer Park
+c.	Secondary Structure	12.	*Warehouse.
+*Public Facility (See Sec.340)
+*Religious Institution
+*Sawmill
+*School (See Sec.340)
+*Service & Repair
+*Subdivision
+*Solid Waste Transfer Station
+*Theaters
+*Recycle and Redemption
+*Wholesale Business
+*Commercial Storage of Abandoned / Wrecked Motor Vehicles (See sec. 332)
+			
+Conditional Uses:
+Auto Service Station
+Banks
+Car Wash Services
+Commercial & Fraternal accommodations
+Essential Services
+Motor Vehicle sales & Repair
+Wind Energy Facility (See Sec. 331)	Parking Lot
+Personal or Professional
+Recreation, indoor
+Recreation, outdoor
+Retail Business
+Reservoirs
+Multifamily dwellings (see sec 336)
+Residential Care/Group Home (See Sec. 338)
+
+* Requires site plan approval by the Development Review Board.
+	Minimum Area and Dimensional Requirements:
+	Lot area, acres:				1
+	Lot frontage, feet:				100
+	Lot depth, feet:				100
+	Front yard, feet:				 30
+	Side yard, feet:				 15
+	Rear yard, feet:				 10
+	Maximum building height, feet:		 40
+
+Table 205.07:   Shore Land Area Overlay 
+
+Purpose:                                                             
+                                       
+This overlay district provides for the development, promotion, and protection of shoreland surrounding Crystal Lake, May Pond, Baker Pond, and Wheeler Pond. The uses, dimensional requirements and permitted densities of this district are determined by the underlying zoning district and by the availability of utilities and supporting infrastructure to allow development and other uses to occur in a manner which does not adversely affect the character of the underlying district yet protects the important water resource.   
+
+The designated Shore Land Area includes all lands within 250 feet of lakes and ponds greater than 10 acres in size.  As of July 1, 2014, jurisdiction for developments proposed in these areas was assumed by the State of Vermont*.  Review by the Vermont Agency of Natural Resources is required before a state permit can be issued.  The Zoning Administrator and DRB shall be provided a copy of the state permit, or evidence indicating that no state permit is required. *Note – If a public road or highway exists within the designated 250-foot shore land area, a state permit may not be required.
+           
+The State of Vermont Agency of Natural Resources Environmental Protection Rules, Chapter 1, Wastewater System and Potable Water Supply Rules, Effective September 29, 2007 govern all on-site water and wastewater systems in Vermont.  All applicants shall submit the appropriate state permits along with any application for development.  Plans shall include a certification from the designer, stating design compliance with said rules.           
+
+All development within 250 ft. of shorelines will require Development Review Board review for compliance with the "Special Provisions for Development of Shoreline Buffer Zones" incorporated within the bylaw, which provide for the protection of water quality.                                
+
+“Special Provisions for Development of Shoreline Buffer Zones”:  
+
+1.  Applications for non-residential development shall include and receive DRB approval of detailed plans providing for treatment and/or settlement of stormwater runoff from parking and hard surface areas. Parking areas shall be located no closer than 25 ft. from the shoreline. Plans shall also include provisions for screening of buildings, parking areas, fences, and stored materials. Such plans shall also incorporate the preservation of existing trees whenever possible and appropriate.   
+
+2. Uses which, by their nature, are sources of undue adverse noise so as to unreasonably interfere with recreational uses of the adjacent water body shall not be permitted. 
+
+3. Exterior lighting shall be designed and located in such a manner so as to not cause undue glare onto the adjacent water body. 
+
+4.	For all new non-residential uses within the buffer zone, the DRB may incorporate appropriate conditions necessary to reasonably protect the water quality of the adjacent water body. 
+
+Sec 206:  Permitted Uses    
+                                                                             
+Permitted uses are those uses that are allowed, providing the standards established by this bylaw are met. Subsequent to securing any required site plan approval, unless a variance, waiver, or other action by the Development Review Board is required, the necessary permit may be issued by the Administrative Officer.
+
+Sec 207:  Conditional Uses
+   
+207.01 Permitted upon issuance of a conditional use permit are those uses that may be allowed by the Development Review Board as provided for in 24 VSA Section 4414(3) of the Act after public notice and hearing.  In order for the permit to be granted the proposed use shall not have an undue adverse effect on:
+                  
+     	A. The capacity of existing or planned community facilities; 
+     B. The character of the area affected as defined by the purpose or purposes of the zoning district within which the project is located, and specifically stated policies and standards of the municipal plan.;
+     C. Traffic on roads and highways in the vicinity;
+     D. Bylaws then in effect, and;
+     E. The utilization of renewable energy resources.
+
+207.02 In permitting a conditional use, the Development Review Board may impose, in addition to the regulations and standards expressly specified by this bylaw, other conditions found necessary to protect the best interests of the surrounding property, the neighborhood, or the municipality as a whole.  These conditions may include the following:
+                        
+A. Increasing the required lot size or yard dimensions in order to protect adjacent properties.
+B. Limiting the coverage or height of buildings because of obstruction to view and reduction of light and air to adjacent property.
+C. Controlling the location and number of vehicular access points to the property.
+     	D. Increasing the street width.
+     	E. Increasing the number of off-street parking or loading spaces required.
+     	F. Limiting the number, location and size of signs.
+G. Requiring suitable landscaping where necessary to reduce noise and glare and to maintain the property in a character in keeping with the surrounding area.
+H. Specifying a specific time limit for construction, alteration, or enlargement to begin for a structure to house a conditional use.
+I. Requiring that any future enlargement or alteration of the use be reviewed by the Development Review Board to permit the specifying of new conditions.
+
+207.03 As a condition of the grant of a conditional use, the Development Review Board may attach such additional reasonable conditions and safeguards as it may deem necessary to implement the purposes of the Act and this zoning bylaw.
+                                   
+207.04 A change in use, expansion, reduction, or alteration of structures or uses which are designated as conditional uses within the district in which they are located and are existing therein, prior to the effective date of this bylaw, shall conform to all regulations herein pertaining to conditional uses.
+
+ART 3: GENERAL PROVISIONS
+                                      
+300: SUBDIVISIONS:            
+                                                                
+Subdivisions are a permitted use in all zoning districts.  No subdivision, as defined under these bylaws, which results in the creation of one or more building or non-building lot(s) shall be created without first receiving a subdivision permit under the provisions of this bylaw.  Applications for subdivision shall comply with the application requirements under Section 324 of this bylaw.  Subdivisions shall be reviewed through the Site Plan review process described under Section 324.02 of this bylaw. 
+       
+301: Pre-existing Subdivisions:                              
+In the event that a single record deed is the sole or primary evidence of subdivision, such deed shall be assumed to have conveyed a single lot subject to compliance with section 302 of this bylaw.  Existing small lots located in the “Shore Land Overlay” district must provide evidence and plans for proper water supply and wastewater disposal facilities to serve the subdivision. Proper evidence shall include all necessary designs prepared by qualified individuals in addition to any other supporting evidence as required by the Development Review Board.
+
+No lot of a pre-existing subdivision shall be reduced from its' original area, shape or location unless combined with additional contiguous land to form a(an):
+                                         
+1. Conforming lot or lots; or,                                          
+2. Enlarged, non-conforming lot or lots, provided that each new resulting lot must incorporate all the land area of at least one pre-existing substandard lot.                                         
+      
+Sec 302:  Existing Small Lots
+
+Any lot that is legally subdivided, is in individual and separate and nonaffiliated ownership from surrounding properties, and is in existence on the date of enactment of this bylaw, may be developed for the purposes permitted in the district in which it is located, even though the lot does not conform to minimum lot size requirements of the district in which the lot is located, provided such lot is not less than one eighth acre in size or has a minimum width or depth dimension of at least 40 feet.
+
+Sec 303: Frontage on, or Access to, Public Roads or Waters 
+
+No land development may be permitted which does not have adequate means of access, either frontage on a maintained public road (Class 1, 2, 3) or, with the approval of the Development Review Board granted in accordance with Section 324 of the bylaw, access by means of a permanent easement or right of way to such a public road or public waters. Access easements or rights-of-way shall not be less than 20 feet in width. If serving more than two lots or uses, the Development Review Board may require a right-of-way up to 50 feet in width to ensure public safety and orderly development. Access onto a Town Road requires a permit from the Town Select Board.  Access onto a state highway requires a permit from the Vermont Agency of Transportation.  A copy of the Letter of Intent to apply for a state permit shall be provided to the Administrative Officer.
+                                                                                       
+
+Sec 304:  Protection of Home Occupations*
+
+No regulations may infringe upon the right of any resident to use a minor portion (50% or less) of a dwelling or an accessory structure for an occupation which (*see definition for Home Occupation):
+
+1.	Is consistent with uses normally seen in residential areas. 
+2.	Does not employ more than two persons in addition to the owner and the owner’s immediate family. 
+3.	Does not change the character of the residential area in which it the dwelling is located.
+4.	Activity is conducted wholly within and occupies a minor portion of the dwelling or accessory structure; no outside storage shall be permitted.
+5.	No objectionable noise, vibration, odor, smoke, dust, electrical disturbance, heat, light, or glare shall be produced by the home occupation.
+
+Where it is determined by the Zoning Administrator that the proposal does not meet the definitions or standards of home occupations above, the applicant may apply for a permit under the broader use regulations as determined by the district in which the parcel is located.
+
+Sec 305:  Lots in Two Zoning Districts 
+                                      
+If a district boundary divides a lot of record on the effective date of these bylaws, no land development may take place on a portion of the lot other than in conformity with the requirements of the district in which such portion is located.  As a result of the scale of the map, the interpretation may vary up to 50 feet into the other district.  Refer to Section 203 District Boundaries for further interpretation of a determination.
+             
+Sec 306: Reduction of Lot Area
+                                       
+No lot shall be so reduced in area that the area, yards, lot width, frontage, or other requirements of this bylaw shall be smaller than herein prescribed for each district. The provisions of this section shall not apply when part of a lot is condemned or conveyed for a public purpose.
+
+Sec 307:  Required Area or Yards
+          
+Space required under this bylaw to satisfy yard, area, or other open space requirements in relation to one building shall not be used to satisfy the same requirements for any other building.
+
+Sec 308: Projections into Yards 
+
+308.1 All structures, whether attached to the principle structure or not, and whether open or enclosed, including porches, carports, balconies, or platforms above normal grade level, shall not project into any minimum front, side, or rear yard setback.
+                                           
+308.2 The following structures are exempt from the permitting and setback requirements of this zoning bylaw: Fences 8 ft. high or lower; Mailboxes; Pet enclosures (64 sq. ft. or less); Retaining walls; Residential handicap access ramps; Storage or utility sheds (120 sq. ft. or less); and, Tree houses.  However, their location shall be subject to the review and approval of the Development Review Board (DRB) if part of a larger project under site plan or conditional use review.  Under this Section, with the exception of mailboxes and Essential Service structures approved by the DRB, said structures shall not be located within the Town or Village road or highway right-of-way:  
+ 
+                         
+Sec 309: Yards on Corner Lots 
+                                
+For any lot located at the intersection of two streets with frontage on each of them, only one front yard shall be designated by the property owner in order to comply with the front yard setback requirement of any district.  All other yards shall be considered side yards and must meet the minimum side yard setback requirement for the district in which it is located.  
+
+Sec 310: Location of Driveways
+
+310.01 Driveways for non-residential uses are to be located at least seventy-five feet from a street line intersection.*
+
+310.02 Driveways for one and two family residential uses are to be located at least fifty feet from a street line intersection.*
+* The DRB acknowledges that in the denser village areas there are situations where this may not be possible, due to smaller lot sizes and existing conditions. In those cases, driveways are to be located as far from the street line intersection as is practical.  
+
+Sec 311: Temporary Uses and Structures
+
+Temporary permits may be issued by the Administrative Officer for a period not exceeding one year, for non-conforming uses incidental to construction projects, or for temporary housing of agricultural employees, provided such permits are conditioned to remove the structure or use upon expiration of the permit. Such permits may be renewed upon application for an additional period not exceeding one year.
+ 
+Sec 312: Unsafe Structures and Sites; Burned Buildings 
+                                      
+Construction sites on which work has temporarily or permanently ceased shall be securely fenced off and/or all open excavations shall be filled. 
+
+Structures which have become unsafe or uninhabitable due to abandonment, fire damage, or demolition shall be repaired or removed from site within three (3) months of receiving written notice from the Administrative Officer. Foundation excavations remaining shall be either fenced off or filled to normal grade. The Development Review Board may grant time extensions for reasonable cause after public notice and hearing.
+                              
+Sec 313:  Obstruction of Vision
+  
+On a corner lot regardless of the district, within the triangular area formed by the intersection of two street property lines and a third line joining them at points twenty-five (25) feet away from their intersection, there shall be no continuous obstruction of vision between the height of three (3) feet and ten (10) feet above the average grade of each street.
+
+Sec 314:  Height Regulations
+
+Except for agricultural purposes, in all districts structures shall not exceed the height regulations of such district measured from the average grade of the property at the structure.  
+
+The following structures are exempt from the district height regulations.
+                                
+     1. Silos                                      5. Utility poles or electric transmission towers
+     2. Church steeples                    6. Other structures as approved by the 
+     3. Industrial Smoke Stacks            DRB through the waiver process.     
+     4. Necessary HVAC equipment    
+
+In accordance with 24 VSA, section 4412(6), the height of wind turbines with blades less than 20 feet in diameter, or rooftop solar collectors less than 10 feet high, any of which are mounted on complying structures, shall not be regulated unless these bylaws provide specific standards for regulation. In addition, the regulation of antennae that are part of a telecommunications facility, as defined in 30 V.S.A. § 248a, may be exempt from review under this chapter according to the provisions of that section.
+
+Sec 315:  Private Swimming Pools
+Private swimming pools installed below ground level shall be enclosed by a fence or other acceptable means as determined by the Administrative Officer.  All swimming pools shall meet the set-back requirements for the district in which it is located. 
+
+Sec 316: Off Street Parking and Loading Space Requirements:
+
+Off-street parking shall be provided as follows: (2) Two spaces per single dwelling unit; (1) one space per accessory dwelling unit; and (1.5) one-and-one-half spaces per unit of a multiunit dwelling.  Off-street parking for all other Permitted uses will be subject to approval under Site Plan Review; and off-street parking for all other Conditional Uses will be subject to approval. 
+
+316.01 All proposed new driveways shall be at least twenty (20) feet in width, except for one and two family uses, and shall be designed and maintained to permit access to all required off-street spaces without moving any other vehicle. An off-street parking space shall be a minimum of nine (9) feet wide by eighteen (18) feet long. An off-street loading space shall be scaled to the delivery vehicles expected to be used and accessible to such vehicles when the required off-street parking spaces are filled.
+
+316.02 The Development Review Board (DRB) may require an increase or allow a decrease in the number of off-street parking and loading spaces for any use if they find that the normally required number of spaces is not consistent with the proposed use. When the use of developed lots with non-conforming parking is expanded or changed the DRB may take into account existing on street parking.
+                                   
+316.03 With the approval of the DRB, parking spaces may be provided by the applicant on other property, provided such land lies within three hundred feet of an entrance to the principal building of the applicant.
+
+316.04 Parking spaces for any number of separate uses may be combined in one parking lot, but the required space assigned to one use may not be assigned to another at the same time, except upon approval of the DRB.
+                                                        
+Sec 317: Signs, number and surface area:  
+                                                             
+The purpose of this section is to limit the use of signs to those purposes which serve the public interest. 
+For the purpose of determining the number of signs, a sign shall be considered to be a single display surface or display device containing elements organized, related, & composed to form a unit. Where matter is displayed in a random manner without organized relationship of elements, or where there is reasonable doubt about the relationship of elements, each element shall be considered to be a single sign. The surface of a sign shall be computed as including the entire area within a regular geometric form or combinations or regular geometric forms comprising all of the sign & including all of the elements of the matter displayed. Frames & structural members not bearing advertising matter shall not be included in computation of surface area.
+
+No signs or billboards shall be permitted in any district except as specifically permitted herein as follows:    
+                                                              
+ON PREMISE SIGNS:
+
+The following signs are permitted when located on the immediate property:
+
+317.01 Signs in Resource, Low, Medium, and High Density Districts:  
+
+     A. One professional or home occupation sign, not exceeding six (6) square feet.
+       B. One Temporary real estate sign, not exceeding six (6) square feet.
+       C. Signs identifying any nonresidential building or use permitted in residential districts, not exceeding a total of thirty-two (32) square feet.
+       D. Directional or informational signs, not exceeding four (4) square feet.
+       E. Signs necessary for public safety or welfare.    
+
+317.02   Signs in Mixed Use/ Industrial districts:
+     
+The following signs are permitted when located on the immediate property: Establishments will be permitted wall signs, a free-standing sign, and a directional sign. 
+
+     A. All signs permitted in Low, Medium, and High districts.
+     B. Business signs as approved by the Development Review Board.
+     C. Free standing signs shall not exceed one-hundred (100) square feet.  
+     D. One directory sign not exceeding four (4) square feet in area.
+
+317.03 Wall and roof signs:
+
+     A. Every wall sign shall:
+          1. Not exceed the highest point of the building's roof.
+          2. Not exceed three-hundred (300) square feet in area.
+          
+     B. Roof signs shall not be permitted in any zoning district. 
+                                                     
+317.04 Computation of Permissible Sign Area:  
+   
+ When computing the total sign area for any use:
+                        
+A.	Existing signs shall be included.
+B.	The total area of all signs shall not exceed the requirements set forth in this bylaw.
+C.	Signs consisting of free standing letters, numerals or other devices shall include any intervening spaces between them.
+D.	Only the larger face area of a double-faced or A-type sign shall be used.
+E.	Back to back signs may be counted as one sign.
+  
+317.06 Traffic Hazard, Safety and Obstruction:
+   
+SIGNS ARE EXEMPT FROM THE SETBACK REQUIREMENTS OF THE DISTRICT, however, every permanent sign shall be designed and located in such a manner as to:
+     
+A. Not impair public safety.
+B. Not restrict clear vision between a sidewalk and street.
+C. Not be confused with any traffic sign or signal.
+D. Not prevent free access to any door, window or fire escape.
+E. Not be placed within the Town or Village right-of-way.
+
+317.07 Illuminated and Flashing Signs:
+
+A. Signs may be illuminated by a steady light provided that such lighting will not illuminate or reflect onto other adjoining properties.
+B. Flashing, oscillating and revolving signs shall not be permitted, unless necessary for public safety or welfare. Interior “OPEN” signs are permissible.
+   
+317.08 Special Signs:
+Temporary signs promoting civic functions may be permitted upon approval of the Administrative Officer in accordance with these bylaws.        
+
+Sec 319.0: Telecommunications Facilities
+Telecommunications facilities shall include all telecommunications service providers and associated equipment and buildings.
+Note:  The regulation of a telecommunications facility, as defined in 30 V.S.A. § 248a, shall be exempt from municipal approval under this chapter when and to the extent jurisdiction is assumed by the VT Public Service Board according to the provisions of that section.
+
+Sec 319.01: The purpose of this Section is to protect the public health, safety and general welfare of the Town of Barton and the Villages of Barton and Orleans while accommodating the communication needs of residents and businesses.  This Section shall be applied to:
+
+A.	Preserve the character and appearance of the Town of Barton and its Villages while allowing telecommunications services to be developed.
+B.	Protect the scenic, historic, environmental, and natural resources of the Town of Barton and its Villages.
+C.	Provide standards and requirements for the operation, siting, design, appearance, construction, monitoring, modification, and removal of telecommunications facilities and towers.
+D.	Minimize tower and antenna proliferation by requiring the sharing of existing communications facilities, towers and sites where possible and appropriate.
+E.	Facilitate the provision of telecommunications services to the residences and businesses of the Town of Barton and its Villages.
+F.	Minimize the adverse visual effects of towers through careful design and siting standards.
+G.	Encourage, through performance standards and incentives, the location of towers and antennas in non-residential areas and away from other sensitive areas such as schools, hospitals and childcare facilities.
+
+Sec 319.02 Authority: Pursuant to 24 V.S.A. § 4414(12) et seq. the Development Review Board (DRB) is authorized to review, approve, conditionally approve, or deny applications for telecommunications facilities, including sketch, preliminary and final plans, and installation.  
+
+Sec 319.03 Consistency with Federal Law:  In addition to other findings required by this bylaw, the DRB shall find that its decision regarding an application is intended to be consistent with federal law, particularly the Telecommunications Act of 1996.  This bylaw does not: 
+
+A.	Prohibit or have the effect of prohibiting the provision of personal wireless services; 
+B.	Unreasonably discriminate among providers of functionally equivalent services; or
+C.	Regulate personal wireless services on the basis of the environmental effects of radio frequency emissions to the extent that the regulated services and facilities comply with the Federal Communications Commission (FCC) regulations concerning such emissions.
+
+Sec 319.04 Independent Consultants:  Upon submission of an application for a Telecommunications Facility permit, the DRB may retain independent consultants whose services shall be paid for by the applicant.  These consultants shall be qualified professionals in telecommunications engineering, structural engineering, monitoring of electromagnetic fields and such other fields as determined by the DRB .  The consultants shall work at the DRB ’s direction and shall provide the DRB such reports and assistance, as the DRB deems necessary to review an application.
+
+Sec 319.05 Permit Application Requirements:  Telecommunications towers or facilities may be permitted as conditional uses upon compliance with the provisions of this bylaw in all zoning districts of the Town of Barton.
+
+An applicant for a telecommunications tower or facility permit must be a telecommunications provider or must provide a copy of its executed contract to provide land or facilities to an existing telecommunications provider to the Administrative Officer at the time that an application is submitted.  A permit shall not be granted for a tower or facility to be built on speculation.
+
+No construction, alteration, modification (including the installation of antennas for new uses) or installation of any telecommunications tower or facility shall commence without a conditional use permit first being obtained from the DRB.
+
+Sec 319.06 Site Plan Requirements:  In addition to site plan requirements found elsewhere in this bylaw (Sec 324), site plans for telecommunications facilities shall include the following supplemental information:
+
+A.	Location Map: a copy of a portion of the most recent USGS Quadrangle map showing the area within at least a two-mile radius of the proposed tower site.
+B.	Vicinity Map showing the entire vicinity within a 2500-foot radius of the tower site, including the telecommunications facility or tower, topography, public and private roads and driveways, buildings and structures, water bodies, wetlands, landscape features, historic sites and habitats for endangered species.  It shall indicate the property lines of the proposed tower site parcel and all easements or rights of way needed for access from a public way to the tower.
+C.	Proposed site plans of the entire development indicating all improvements including landscaping, utility lines, guy wires, screening and roads.
+D.	Elevations showing all facades and indicating all exterior materials and color of towers, buildings and associated facilities.
+E.	In the case of a proposed site that is forested, the approximate average height of the existing vegetation within 200 feet of the tower base.
+
+Plans shall be drawn at a minimum at the scale of one (1) inch equals fifty (50) feet.
+
+Sec. 319.07 Collocation Requirements:  
+
+Collocation of telecommunications facilities is strongly encouraged. Applications for new telecommunications towers or facilities must demonstrate an awareness of the location of existing telecommunications facilities within a one-mile radius of the project area and explain why collocation of telecommunication facilities is (or is not) feasible or appropriate.  
+
+Towers that are approved by the DRB shall be designed and constructed to allow for the collocation of future telecommunications facilities in accordance with this bylaw.
+
+Sec. 319.08 Design Requirements:  Proposed facilities shall not unreasonably interfere with the view from any public park, natural scenic vista, historic building or district, or major view corridor.  Height and mass of facilities shall not exceed that which is essential for its intended use and public safety.
+
+A.	Towers, antennas and any necessary support structures shall be designed to blend into the surrounding environment through the use of color camouflaging and architectural treatment. 
+B.	In order to protect public safety and to preserve the scenic character and appearance of the area, the height limit for towers, antennas and tower-related fixtures shall be not more than 20 feet above the average height of the tree line measured within 100 feet of the highest vertical element of the telecommunications facility.  Notwithstanding the above, additional height may be approved upon a finding by the Development Review Board that the additional height is necessary in order to provide adequate coverage in the Town of Barton and/or Villages of Barton and Orleans or to accomplish collocation of facilities and that the additional height will not cause an undue visual impact on the scenic character or appearance of the area.  Telecommunications towers or facilities of a height that would require day or night-time lighting to comply with federal aviation rules shall not be permitted. 
+C.	All buildings and structures accessory to a tower (except for electric power poles where specifically exempted by the Board) shall meet the minimum setback requirements of the underlying zoning district or setback requirements specified in this bylaw.  If the minimum setbacks of the underlying zoning district are less than the height of the tower, including antennas or other vertical appurtenances, the minimum distance from the tower to any property line shall be no less than the height of the tower, including antennas and other vertical appurtenances.
+D.	Ground mounted equipment or antennas as well as buildings and structures accessory to a tower shall be screened from view by suitable vegetation, except where a design of non-vegetative screening better complements the architectural character of the surrounding neighborhood.  A planted or vegetative screen shall be a minimum of ten feet in depth with a minimum height of six feet and shall have the potential to grow to a height of at least 15 feet at maturity.  Existing on-site vegetation outside the immediate site for the wireless facility shall be preserved or improved.  Disturbance to existing topography shall be minimized unless the disturbance is demonstrated to result in less visual impact on the facility from surrounding properties and other vantage points.
+
+Sec 319.09 Amendments to Existing Permits:  An alteration or addition to a previously approved telecommunications facility shall require a permit amendment when any of the following are proposed:
+
+A.	Change in the number of buildings or facilities permitted on the site;
+B.	Material change in technology used by the telecommunications facility; or
+C.	Addition or change of any equipment resulting in greater visibility or structural wind loading, or additional height of the tower, including profile of additional antennas, not specified in the original application.
+
+Sec. 319.11 Placement on Existing Structures:  The placement of telecommunications antennas on or within existing buildings, structures, roofs, or walls shall be reviewed by the Development Review Board as a conditional use, provided the antennas meet the requirements of this bylaw, and upon submission of:
+
+A.	A final site and building plan.
+B.	A report prepared by a qualified engineer, licensed to practice in the State of Vermont, indicating the structure’s suitability for the telecommunications facility, and that the proposed method of affixing the antenna to the structure complies with standard engineering practices.  Complete details of all fixtures and couplings and the exact point(s) of attachment shall be indicated.
+
+Sec. 319.12 Temporary Telecommunications Facilities:  Any telecommunications facility designed for temporary use is subject to the following:
+
+A.	Use of a temporary facility is permitted only if the owner has received a temporary use permit from the Administrative Officer.
+B.	Temporary telecommunications facilities are permitted for no longer than five days use during a special event.
+C.	The maximum height of a temporary facility is 50 feet from grade.
+D.	Temporary facilities must comply with all applicable portions of these regulations.
+
+Sec. 319.13 Interference with Public Safety Telecommunications: No new telecommunications facility shall be placed or constructed in such a way as to interfere with public safety telecommunications.  All applications for new telecommunications facilities shall be accompanied by an intermodulation study that predicts no likely interference problems and certification that the study has been provided to the appropriate public safety agencies.  Before testing or operating new service or changes in existing service, telecommunications providers shall notify the municipality at least ten calendar days in advance of such changes and allow the municipality to monitor interference levels during that testing process.
+
+Sec. 319.14  Abandoned, Unused, Obsolete, Damaged or Dangerous Towers or Portions of Towers:  Abandoned or unused towers or portions of towers and their facilities shall be removed as follows:
+
+A.	Abandoned or unused towers and associated facilities shall be removed within one year of cessation of operations at the site unless a time extension is approved by the Development Review Board .  In the event the tower is not removed within one year of the cessation of operations at a site, the municipality shall notify the owner and may remove the tower and all associated facilities.  Costs of removal shall be assessed against the property or tower owner.
+B.	Unused portions of towers shall be removed within one year of the time that such portion is no longer used for antennas.  The replacement of portions of a tower previously removed requires the issuance of a new telecommunications facility permit.
+
+Sec. 319.15 Fees:  Fees for filing an application to build or alter a telecommunications facility shall be shall be set by the Selectboard.   In addition to this standard fee, fees may also be imposed to include and cover any reasonable costs the Town may incur in obtaining an independent technical assessment of the application. 
+
+Sec. 319.16 Severability:  If any portion of this Section is held unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Section shall not be affected.
+
+Sec. 319.17 Communications antennae and facilities: No permit shall be required for placement of antennae used to transmit, receive, or transmit and receive communications signals on that property owner's premises if the aggregate area of the largest faces of the antennae is not more than eight square feet, and if the antennae and any mast support does not extend more than 12 feet above the roof of that portion of the building to which the mast is attached.
+Sec. 319.18: De minimis telecommunications impacts. The Administrative Officer shall review telecommunications facilities applications, and upon determining that a particular application will impose no impact or de minimis impact upon any criteria established in the bylaws, shall approve the application. 
+
+
+Sec 320:  Screened Service Area Requirements
+    
+In any district, the Development Review Board may require the screening of all areas designated, used or intended to be used as service areas for any building or land use, other than one family and two-family dwelling units, where the adjacent land is in a residential district or residential use.  Such areas shall be screened, if required, with a wall, a solid fence or a fence of evergreens at a height of at least five feet above grade level on all sides.
+
+Sec. 321:  Storage of Flammable Liquids
+
+The storage of any flammable liquid in above ground tanks with unit capacity of five-hundred  gallons and up to one-thousand  gallons shall be prohibited, unless such tanks are placed not less than ten (10) feet from all property lines and twenty (20) feet from any on-site structures.  All above ground storage tanks greater than one-thousand gallons in capacity and up to and including ten-thousand gallon capacity are to be placed not less than thirty (30) feet from all property lines and on-site structures.  All such tanks of more than ten-thousand gallon capacity are to be placed no less than fifty (50) feet from all property lines and on-site structures. All tanks having a capacity of ten-thousand gallons or greater shall be properly retained with dikes, if required by State of Vermont regulations, having a capacity not less than one-and-one-half times the capacity of the tanks surrounded.        
+
+Sec 322:  Livestock and Pets 
+
+The raising or harboring of livestock or domestic animals for personal non-agricultural purposes, that is, not being part of an on-going farming operation or enterprise for profit whereby the majority of goods or food raised or produced are sold on the open market; including but not limited to horses, cattle, hogs, fowl, or fur bearing animals, shall be subject to Conditional Use review within Barton and Orleans Villages only.  Such activities shall be permitted uses within the  Natural Area, Low Density, and Medium Density zoning districts and prohibited in the High Density, Mixed Use, Industrial, and Shore Land districts.  Household pets are exempted from these provisions provided that there are not more than six cats and/or dogs over six months old per dwelling unit. The minimum lot size under this Section for this use shall be at least ½ of an acre or more in size. The following limitations shall apply:
+
+A.	Cattle:			No more than three per ½ acre.
+B.	Horses:			No more than three per ½ acre.
+C.	Hogs:			No more than four per ½ acre.
+D.	Goats:			No more than four per ½ acre.
+E.	Sheep:			No more than four per ½ acre.
+F.	Lamas or Alpacas:		No more than three per ½ acre.
+G.	Poultry or Fowl:		No more than twelve per ½ acre.
+H.	Ostriches or Emus:		No more than three per ½ acre.
+I.	Deer:			No more than three per ½ acre.
+J.	Combination of Species:  	Except for fowl, no more than a total of three animals                                                     
+per ½ acre.  
+K.	Rabbits: 			No more than ten per ½ acre.
+
+Under all circumstances, there shall be adequate provision for the shelter and care of the animals.  At all times, proper fencing shall be maintained so as to prevent the straying of animals onto adjacent properties, roads and highways. Excessive amounts of manure and animal waste which cannot be completely utilized by the property owner shall not be allowed to accumulate on the property so as to have an adverse impact on the use of adjacent properties and must be disposed of off-site. These regulations shall continue to apply as animals are sold, culled, slaughtered or otherwise disposed of, regardless of when the property owner first started to acquire such animals. 
+
+Sec 323:  Required information for Zoning permits, Site Plan 
+Review, Conditional Use permits, Subdivision permits, and PUD Applications 
+
+The applicant shall submit three (3) sets of site plan maps, supporting data, and applications to the Administrative Officer, which shall include the following information in drawn form and accompanied by written text: 
+                                                              
+I. APPLICATION INFORMATION: (MINIMUM REQUIRED INFORMATION)
+
+Name and address of the owner of record of the land in question and of adjoining lands.                               
+Zoning District
+Proposed Use
+Lot Size(s)                                               
+Location of proposed use                   
+Curb cut approval from the Selectboard and/or Trustees
+Upon request, written evidence from Village officials (Board of Trustees or Supervisor) indicating the Village’s ability to provide water, wastewater, and/or electric service.
+
+II. PLAN INFORMATION: (MINIMUM REQUIRED INFORMATION)
+
+Name and address of person or firm preparing map.   
+Scale of map, 
+North point,                             
+Date prepared, 
+Property lines,                             
+Lot areas proposed,
+Location and names of roads and streets abutting the immediate development
+Location of water bodies on or abutting the property, including lakes, ponds, rivers, and streams 
+
+III. ADDITIONAL INFORMATION WHICH MAY BE REQUESTED
+                  
+The applicant may attend a regularly scheduled Development Review Board meeting to receive an informal pre-application advisory regarding the likely needs for additional supporting data including but not limited to the following:    
+                                 
+     1. Existing and proposed contours.
+     2. Utilities Location. 
+     3. Public Right-of-Ways and Easements.
+     4. Land Use deed restrictions.
+     5. Landscaping and existing large trees.
+     6. Location of curb cut.
+     7. Drainage Structures.
+     8. Stormwater Flow patterns.    
+     9. Construction Sequence Schedules.
+    10. Pedestrian Walkways.
+    11. Traffic Circulation and Parking Layouts.
+    12. Building Elevations and Site Plan Locations.
+    13. Existing and proposed structures.
+    14. Other information as requested.      
+                                    
+Sec. 324: Site Plan Review Procedure (also used for Subdivision Review)
+
+A. The Development Review Board (DRB) shall conform to the requirements of 24 VSA, Section 4416 of the Act before acting upon any application.
+
+B. In considering its action the DRB shall consider and may impose appropriate conditions and safeguards with respect to the adequacy of traffic access, circulation and parking, landscaping and screening, and to the protection of the utilization of renewable energy resources.  
+  
+  C. The DRB shall review the site plan map and supporting data before approval, approval with stated conditions, or disapproval is given, and taking into consideration the following objectives:
+          1. Harmonious relationship between proposed uses and existing adjacent uses.
+          2. Maximum safety of vehicular circulation between the site and the street network.
+          3. Adequacy of circulation, parking, and loading facilities with particular attention to safety.
+          4. Adequacy of landscaping, screening, and setbacks with regard to achieving maximum compatibility and protection to adjacent property.
+          5. The protection of the utilization of renewable energy resources.
+
+D. In addition, (only after vote of the DRB  to do so) the DRB  may further consider and impose    appropriate conditions necessary to make positive findings with regard to the following criteria.
+               a. The character of the area in the district affected.
+               b. Traffic on roads and highways in the vicinity.        
+
+C.	The impact of the project on municipal (village) infrastructure, such as water, wastewater, and electric utilities.  
+
+D.	Whenever a proposed site plan involves access to a State highway, the application for site plan approval shall include a letter of intent from the Agency of Transportation confirming that the Agency has reviewed the proposed site plan and is prepared to issue an access permit under 19 V.S.A. §1111, and setting out any conditions that the Agency proposes to attach to the section 1111 permit.
+                
+Sec 325:  Planned Unit Development (PUD)
+ 
+The Development Review Board (DRB) is hereby empowered to vary certain zoning regulations under the criteria and procedures established in 24 VSA, Section 4417 of the Act. If requested in the project application, the DRB may simultaneously review a subdivision plat.
+
+325.01 Site plan submittal requirement shall conform to the requirements of Section 324. 
+
+325.02 The purpose (conditions) of planned unit development shall be: 
+a) To encourage compact, pedestrian-oriented development and redevelopment, and to promote a mix of residential uses or nonresidential uses, or both, especially in village centers and associated neighborhoods.
+(b) To implement the policies of the municipal plan
+(c) To provide for flexibility in site and lot layout, building design, placement and clustering of buildings, use of open areas, provision of circulation facilities, including pedestrian facilities and parking, and related site and design considerations that will best achieve the goals for the area as articulated in the municipal plan and bylaws within the particular character of the site and its surroundings.
+(d) To provide for the conservation of open space features recognized as worthy of conservation in the municipal plan and bylaws, such as the preservation of agricultural land, forest land, trails, and other recreational resources, critical and sensitive natural areas, scenic resources, and protection from natural hazards.
+(e) To provide for efficient use of public facilities and infrastructure.
+(f) To encourage and preserve opportunities for energy-efficient development and redevelopment.
+
+325.02 Density may vary within the development as approved by the DRB, but only the same number of lots that would normally be permitted in the zoning district in which the PUD is located.
+
+325.03 The predominant use of the land shall not differ substantially from the uses permitted in the district in which the plan is located.  In a planned unit development, dwelling units may be multi-family. In a planned unit development, residential , commercial, educational, and public facilities may be allowed which are designed to serve the development and the area around the development.
+
+325.04 Lot size, width, front yard depth, and side yard requirements may be waived; however, these will be evaluated by the DRB on their individual merit.
+                                                
+325.05 A planned unit development (PUD) shall comply, or may be conditioned to comply, with the following standards:
+                                                             
+1. The project should complement and/or reinforce the general character of the area in which it is located, and should not unreasonably conflict with the intended land use designation of the district.
+                                         
+2. The granting of setback or density waivers (if any) will not cause undue and adverse effect upon the use of, or create undue or unsafe conditions upon abutting properties.
+
+3. The project will not cause undue and adverse air pollution.
+                                                       
+4. The project will not cause undue and adverse ground or surface water pollution so that an unhealthy or unstable condition results from improper stormwater run-off treatment and handling.
+
+5. The project will not cause undue adverse and unhealthy conditions with regard to wastewater collection, treatment, and disposal. 
+                                                
+6. The project shall have adequate water to meet the reasonable needs of the project and that the development of water supplies will not create undue adverse effect on adjacent existing water supplies.
+                                                           
+7. The project will not cause an undue and adverse effect with respect traffic flow or congestion within or in the immediate service area of the project. 
+
+8. The project will not cause undue adverse impact on identified or critical wildlife habitat including Class I and II wetland areas. 
+   
+9. There shall be adequate municipal and/or private utility services to meet the reasonable needs of the project including power, water, solid waste, fire protection and emergency services.                   
+
+10 The project will not cause undue and adverse impact on identified flood plains.
+
+11. Consideration of Mitigating Factors:   If the DRB is unable to make positive (written) findings on all criterion, it may require the applicant to designate certain areas within the project to remain undeveloped or designated for other approved purposes in support of the project.
+
+                                                  
+Sec 326: Travel Trailers  
+
+It shall be unlawful for a travel trailer, recreational vehicle (RV), pickup, camper, or motor home to be utilized as a residence unless in conformance with the requirements of the district in which it is located, such as in an approved travel trailer park, or on one's own private property.   
+                                                                  
+
+Sec 327: Flood Hazard Area Requirements  
+
+327.01 Lands to Which These Regulations Apply. 
+
+These regulations shall apply for development in all areas in the Town of Barton identified as areas of special flood hazard on the current National Flood Insurance Program maps which are hereby adopted by reference and declared to be part of these regulations.
+
+327.02 Conditional Use Permit Required
+      
+A. All development including fill, excavation, grading, erection or placement of structures, substantial improvement of existing structures and storage of equipment and material prescribed by the Town of Barton Zoning Bylaw are permitted within an area of special flood hazard only upon the granting of a conditional use permit by the Development Review Board (DRB).
+
+B. Prior to issuing a permit for the construction of new buildings, the improvement of existing buildings, or for development in the floodway, a copy of the application shall be submitted to the Vermont Department of Environmental Conservation, Watershed Management Division, Floodplain Manager, (Formerly Vermont Department of Water Resources and Environmental Engineering) in accordance with 24VSA 4424(D).  A permit may be issued only following receipt of comments from the Department of or the expiration of 30 days from the date the application was mailed to the Department, whichever is sooner.
+
+C. Adjacent communities and the Vermont Department of Environmental Conservation, Watershed Management Division, River Engineer (Formerly Water Resources and Environmental Engineering) shall be notified at least 15 days prior to issuing any permit for the alteration or relocation of a watercourse and copies of such notification shall be submitted to the Administrator of the Federal Insurance Administration.
+
+D. Proposed development shall be reviewed to assure that all necessary permits have been received from those governmental agencies from which approval is required by Federal or State law.
+
+327.03 Base Flood Elevations and Floodway Limits
+
+A. Where available, i.e.; Zones A1-A30, AE, and AH, the base flood elevations and floodway limits provided by the National Flood Insurance Program in the Flood Insurance Study and accompanying maps shall be used to administer the provisions of these regulations.
+
+B. in areas where base flood elevations and floodway limits have not been provided by the National Flood Insurance Program, i.e.; Zone a, base flood elevation and floodway information available from State or Federal agencies or other sources, shall be obtained and reasonably utilized to administer the provisions of these regulations.
+
+327.04 Conditional Use Review Procedures
+
+A. Upon receiving an application for a conditional use permit under these regulations, the Development Review Board shall, prior to rendering a decision thereon:
+
+          1. Obtain from the applicant;
+
+a. The elevation (in relation to mean sea level) of the lowest floor, including basement, of new buildings or buildings to be substantially improved;
+             
+ b. Where flood proofing is proposed, the elevation (in relation to mean sea level) to which the building will be flood-proofed;        
+
+c. Plans drawn to scale showing the existing and proposed land contours, buildings, structures, streams, roads and other pertinent physical features;
+
+d. Base flood elevation data for subdivisions and other proposed development which contain at least 50 lots or 5 acres (whichever is the smaller).
+
+e. Such other information deemed necessary by the Development Review Board for determining the suitability of the site for the proposed development.
+
+2. Obtain from the Vermont Department of Environmental Conservation, Watershed Management Division, or other state or federal agencies any available base flood elevation data.
+
+3. A Project Review Sheet should be obtained from the VT Department of Environmental Conservation Regional Permit Specialist and attached to the application.
+                            
+B. In reviewing each application, the Development Review Board shall consider:
+
+1. The evaluation of the Environmental Conservation, Watershed Management Division .
+2. The availability of alternative locations not subject to flooding for the proposed use.
+         3. The susceptibility of the proposed improvement to flood damages.
+4. The safety of access to the property in times of flood of ordinary and emergency vehicles.
+         5. The potential for damage to the property caused by erosion.
+6. The danger that materials may be swept onto other lands and cause damage to others.
+         7. Such other factors as are relevant to the purposes of this bylaw.
+
+C. The Development Review Board may grant a conditional use permit for development provided:
+
+1. All necessary permits are obtained from those governmental agencies from which approval is required by Federal or State law.
+          2. The development standards of 327.05 are met or exceeded.
+
+327.05 Development Standards within Areas of Special Flood Hazard
+
+A. All development and structures shall be:
+
+1. Designed to minimize flood damage to the proposed development and to public facilities and utilities, and;
+2. Designed to provide adequate drainage to reduce exposure to flood hazards.
+3. Designed (or modified) and adequately anchored to prevent flotation, collapse, or lateral movement of the structure during the occurrence of the base flood;
+         4. Constructed with materials resistant to flood damage;
+5. Constructed by methods and practices that minimize flood damage, and;
+6. Constructed with electrical, heating, ventilation, plumbing, and air conditioning equipment and other service facilities that are designed and/or located so as to prevent water from entering or accumulating within the components during conditions of flooding.
+
+B. The flood carrying capacity within any altered or relocated portion of a watercourse shall be maintained.
+
+C. New and replacement water supply and sanitary sewage systems shall be designed to minimize or eliminate infiltration of flood waters into the systems and discharges from the systems into flood waters.
+     
+D. On-site waste disposal systems shall be located to avoid impairment to them or contamination from them during flooding.
+
+E. New and replacement manufactured homes shall be elevated on properly compacted fill such that the top of the fill (the pad) under the entire manufactured home is above the base flood elevation.
+
+F. Development within the floodway is prohibited unless a registered professional engineer certifies that the proposed development will not result in any increase in flood levels during the occurrence of the base flood.
+     
+G. The lowest floor, including basement, of all new buildings shall be at or above the base flood elevation.
+
+H. Existing buildings to be substantially improved for:
+            
+1. Residential purposes shall be modified or elevated to meet the requirements of 327.05(G).
+2. Nonresidential purposes shall either:
+
+a.	Meet the requirements of 327.05(G), or;
+b.	Be designed to be watertight below the base flood elevation with walls substantially impermeable and with structural components having the capability of resisting hydrostatic and hydrodynamic loads and effects of buoyancy. A permit for a building proposed to be flood-proofed shall not be issued until a registered professional engineer or architect has reviewed the structural design, specifications and plans, and has certified that the design and proposed methods of construction are in accordance with accepted standards of practice for meeting the provisions of this subsection.
+
+3. Junkyards and storage facilities for floatables, materials, chemicals, explosives, flammable liquids, or other hazardous or toxic materials, are prohibited within   the floodway. These facilities may be permitted outside of the floodway, provided the area is filled to at least one foot above the base flood elevation.
+ 
+I. Fully enclosed areas below grade on all sides (including below grade crawlspaces and basements) are prohibited.
+J. Fully enclosed areas that are above grade, below the lowest floor, below base flood elevation and subject to flooding, shall:
+1.	Be solely used for parking of vehicles, storage, or building access, and such a condition shall clearly be stated on any permits; and,
+2.	Be designed to automatically equalize hydrostatic flood forces on exterior walls by allowing for the entry and exit of floodwaters. Such designs must be certified by a registered professional engineer or architect, or meet or exceed the following minimum criteria
+a.	A minimum of two openings on two walls having a total net area of not less than one square inch for every square foot of enclosed area subject to flooding shall be provided. The bottom of all openings shall be no higher than one foot above grade.
+b.	Openings may be equipped with screens, louvers, valves, or other coverings or devices provided that they permit the automatic entry and exit of floodwaters.
+K. Recreational vehicles must be fully licensed and ready for highway use.
+
+327.06 Duties and Responsibilities of the Administrative Officer
+
+The Administrative Officer shall maintain a record of:
+     	
+A. All permits issued for development in areas of special flood hazard.
+     
+B. The elevation, in relation to mean sea level, of the lowest floor, including basement, of all new or substantially improved buildings.
+     
+C. The elevation, in relation to mean sea level, to which buildings have been flood-proofed.
+     
+D. All flood-proofing certifications required under this regulation.
+     
+E. All variance actions, including justification for their issuance.
+
+327.07 Variances
+
+Variances shall be granted by the Development Review Board only:
+     	1. In accordance with the provisions of 24 VSA section 4469(a);
+2. Upon a determination that during the base flood discharge the variance will not result in increased flood levels.
+3. Upon a determination that the structure or other development is protected by methods that minimize flood damages during the base flood and create no additional threats to public safety.
+
+327.08 Warning of Disclaimer of Liability  
+
+These regulations do not imply that land outside the areas of special flood hazard or land uses permitted within such districts will be free from flooding or flood damages.  
+
+These regulations shall not create liability on the part of the Town of Barton or any official or employee thereof for any flood damages that result from reliance on this bylaw or any administrative decision lawfully made thereunder.
+
+Sec 328:  Stream banks
+                         
+No development shall occur within 50 feet of the seasonal high water mark of any perennial stream or river shown on the official zoning maps. If such stream or river is within a designated flood plain area, Sec 327, Flood Hazard Area Requirements, shall be the controlling provision.
+
+Sec 330: Junky Yards  
+
+Non-commercial junky yards and junk vehicles are regulated by Town Ordinance adopted by the Select Board and Village Ordinances adopted by the Village Trustees.
+
+Sec 331:  Renewable Energy Facilities  
+
+24 VSA, Ch. 117, 4412(6) Heights of renewable energy resource structures. The height of wind turbines with blades less than 20 feet in diameter, or rooftop solar collectors less than 10 feet high, any of which are mounted on complying structures, shall not be regulated unless the bylaws provide specific standards for regulation. In addition, the regulation of antennae that are part of a telecommunications facility, as defined in 30 V.S.A. § 248a, may be exempt from review under this chapter according to the provisions of that section.
+24 VSA, Ch. 117, 4413(b) A bylaw under this chapter shall not regulate public utility power generating plants and transmission facilities regulated under 30 V.S.A. § 248.
+
+Wind Energy Facilities (WEF), including but not limited to support towers, guy wires, rotor blades, generators, accessory structures and utility lines and poles, shall be considered a conditional use in all zoning districts.  All appropriate regulations within each zoning district must be complied with in addition to the following regulations.  This Section shall apply to all WEFs with blades greater than or equal to twenty (20) feet in diameter. Windmills or systems that are ornamental or artistic in nature rather than functional shall be exempted from this section if total height is less than twenty five (25) feet.
+
+A.	Applicants proposing to construct or install a wind energy facility for personal use shall, in addition to other application requirements outlined in the Town of Barton Joint Zoning Bylaw, submit:
+	1.	A site plan, indicating the parcel boundary lines, the location of all buildings, structures and improvements on the property, proposed or existing utility poles, guy wires or anchors and the relationship of the system to each of these features;
+	2.	Design and systems specifications of the WEF;
+	3.	Mounting and installation design and specifications of the WEF.
+	4.	Any additional information needed to determine compliance with the provisions of this bylaw.
+B.	All building and structures accessory to a wind energy facility shall meet the minimum setback requirements of the underlying zoning district or setback requirements specified in this bylaw.  If the minimum setbacks of the underlying zoning district are less than the height of the windmill, including blade, rotor or other vertical appurtenances, the minimum distance from the tower to any property line shall be no less than the height of the tower, including blades and other vertical appurtenances.
+C.	All WEFs shall:
+	1.	Incorporate an automatic braking system device or over-speed control capable of halting operation in winds forty (40) miles per hour (m.p.h.);
+	2.	Be constructed, maintained and operated in a condition which will not cause unreasonable vibrations or noise emission levels (exceeding 55 decibels as measured at the property line of the property) which may have an adverse negative impact upon the use of adjacent properties;
+	3.	Be guarded against unauthorized climbing.  The first twelve (12) feet of the tower shall be unclimbable by design or be enclosed by a six (6) foot high, unclimbable fence with secured access;
+4.	Adhere to all applicable state and local government, as well as electric utility rules, regulations and standards.
+5.	Not include any exterior lighting.  
+D.	WEFs shall be constructed and maintained according to a safe and appropriate design and shall not be abandoned or left unused.
+	1.	Abandoned, unused or improperly maintained WEFs shall be removed within one (1) year of cessation of operations or use, or when the tower structure becomes structurally unsound, unless the Development Review Board approves a time extension.
+2.	If the system is not removed or dismantled within the one (1) year of the cessation of operations at a site, the municipality shall notify the owner and may remove the facility.  Cost of removal shall be assessed against the property or WEF owner.
+
+Sec 332:  Commercial Storage of Abandoned or Wrecked Motor Vehicles
+
+Any business engaged in the pickup, towing, storage, or impounding of abandoned, discarded, wrecked, or broken down motor vehicles, including junk motor vehicles, which are stored or warehoused by the business after pickup, shall be considered a conditional use in all zoning districts but shall not be permitted in the Shoreland overlay district.  All appropriate and applicable regulations within the zoning district must be complied with including any conditions that may be required by the Development Review Board (DRB). In addition, all businesses which are approved under this category must comply with the following:
+
+a.)	Time Limitation:  Vehicles stored by a business under this section may not be held by the business for a period of time greater than 120 days, after which said vehicles must be removed from the property and lawfully disposed of. 
+
+b.)	Screening Required:  The holding area for said vehicles shall be surrounded by a fence or vegetation of sufficient height and design to shield the vehicles from public view.
+
+c.)	Number of Vehicles:  The number of vehicles allowed for this use shall be limited to one vehicle per every 500 sq. ft. of floor area of the business at its primary location.  The DRB may require an increase or allow a decrease in the number vehicles specified under this sub-section if the DRB finds that the normally required number of vehicles are not consistent with the proposed use.
+
+Sec 333:  Equal treatment of housing and affordable housing
+
+(A) This bylaw shall not exclude housing that meets the needs of the population as determined in the housing element of the municipal plan and as required under subdivision 4382(a)(10) of 24 VSA, Ch. 117.
+
+(B) This bylaw shall not exclude mobile homes, modular housing, or prefabricated housing from the municipality, except upon the same terms and conditions as conventional housing is excluded. 
+
+Sec 334:  Mobile Homes, Modular Housing, & Pre-fabricated Housing
+
+A mobile home shall be considered a single-family dwelling and shall meet the same zoning requirements applicable to single-family dwellings, except when unoccupied and displayed in a mobile home sales establishment; or as part of a Planned Unit Development; or as allowed as a temporary structure under this bylaw.  
+
+Sec 335:  Mobile Home Parks
+
+Mobile homes are permitted in approved mobile home parks subject to the requirements of this section and state law. Mobile home parks are permitted as a permitted use in all zoning districts and are subject to review under Section 325 (Planned Unit Development or PUD) of these bylaws. New mobile home parks and any addition or alteration to an existing mobile home park, requires PUD approval by the Development Review Board.
+
+Sec 336:  Multifamily Dwellings
+
+A multifamily dwelling shall be considered a conditional use in all zoning districts.  Multifamily dwellings shall be subject to the following conditions in addition to those which may be required by the Development Review Board:
+
+a.)  The number of families in residence shall not exceed the number of dwelling units provided.
+
+Sec 337:  Accessory Dwelling Units
+
+An accessory dwelling unit is a permitted use in the Resource, Low, Medium, High, Mixed Use, Industrial, and Shoreland  zoning districts. An accessory dwelling unit shall not be permitted in any designated flood hazard area or river corridor. An accessory dwelling unit shall be defined as an efficiency or one-bedroom apartment, located within or appurtenant to an owner-occupied single-family dwelling, that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all the following:
+
+•	The property has sufficient wastewater capacity.
+•	The unit does not exceed 65 percent of the total habitable floor area of the single-family dwelling.
+•     Applicable setback, coverage, and parking requirements specified in the bylaws are met.
+
+Notwithstanding the provisions above, the creation of an accessory dwelling unit will
+require conditional use approval when one or more of the following is involved:
+
+	•	A new accessory structure, constructed after the enactment of these bylaws,
+	•	An increase in the height or floor area of the existing dwelling, or
+      •	An increase in the dimensions of the parking areas.
+
+Sec 338:  Residential Care and Group Homes
+
+A residential care home or group home to be operated under state licensing or registration, serving not more than eight persons who have a handicap or disability as defined in 9 V.S.A. § 4501, shall be considered by right to constitute a permitted single-family residential use of property, except that no such home shall be so considered if it is located within 1,000 feet of another existing or permitted such home.
+
+A residential care home or group home, to be operated under state licensing or registration, serving nine or more persons who have a handicap or disability as defined in 9 V.S.A. § 4501, shall be reviewed as a multi-family dwelling and shall be subject to conditional use review.
+
+Sec 339:  Family Child Care Home or Facility
+
+A “family child care home or facility” (a.k.a. Daycare Facilities) as used in this Section, means a home or facility where the owner or operator is to be licensed or registered by the state for child care. 
+a)	A family child care home serving six or fewer children shall be considered to constitute a permitted single family residential use of property in all zoning districts with the exception of the Remote Land district. 
+b)	A family child care home serving no more than six full-time children and four part-time children, as defined in 33 V.S.A. § 4902(3)(A), shall be considered to constitute a permitted use of property but requires site plan approval by the DRB based on local zoning requirements. 
+c)	A family child care facility serving more than six full-time and four part time children shall be considered a conditional use in all districts and shall be subject to all applicable municipal bylaws.
+
+Sec. 340 Agriculture and Forestry  
+
+(A) Agricultural operations shall at minimum observe Recommended/Accepted Agricultural Practices (RAP/AAPs) as defined and administered by the Vermont Department of Agriculture.
+
+(B) Forestry operations shall at minimum observe Acceptable Management Practices (AMPs) as defined and administered by the Vermont Department of Forests, Parks and Recreation. Such
+AMPs include Acceptable Management Practices for Maintaining Water Quality on Logging Jobs in Vermont.
+
+ART 400: NONCONFORMITIES
+
+Sec 401:  Permits Issued Prior to Amendment of Regulations
+
+Nothing contained in this bylaw shall require any change in plans or construction of a non-conforming structure for which a zoning permit has been issued.             
+
+Sec 402:  Nonconforming Uses
+                             
+Any use, which does not conform to uses allowed in the district in which it is located or is otherwise not in compliance with the provisions of these bylaws, shall be deemed a nonconforming use.  Nonconforming uses are those that exist legally as a result of existing prior to the adoption of these bylaws, or permitted under an earlier set of less restrictive bylaws.  Any nonconforming use may be continued indefinitely, but shall be subject to the following provisions under this section:
+
+402.01 Shall not be expanded without approval of the Development Review Board (DRB), nor shall any external evidence of such use be increased by any means whatsoever.
+                                                         
+402.02 Shall not be changed to another nonconforming use without approval of the DRB, and then only to a use which, in the opinion of the DRB is of the same or of a more restricted nature.
+
+402.03 Shall not be re-established if such use has been discontinued or terminated for a period of two years, or has been changed to, or replaced by, a conforming use. Intent to resume a non-conforming use shall not confer the right to do so.                    
+
+402.04  The DRB  may, after public notice and hearing, allow expansions of any nonconforming use provided such expansion conforms to any other applicable requirements of this bylaw.
+                                                                 
+Sec 403: Nonconforming Structures* 
+
+Any legal structure or part thereof, which is not in compliance with the provisions of these bylaws concerning setback, height, size, or other structural requirements (including such things as parking, lighting, or vegetation), shall be deemed a nonconforming structure.  Legal nonconforming structures exist as a result of construction prior to the adoption of these bylaws, or construction permitted under an earlier set of less restrictive bylaws.  Any nonconforming structure may be allowed to exist indefinitely, but shall be subject to the following provisions under this section*:
+                                                                
+403.01 Shall not be moved, enlarged, extended, or restored except in compliance with the requirements of this bylaw.
+
+403.02 Shall not be reconstructed, if such structure has been voluntarily removed by the owner, except in compliance with section 403.05 of this section.
+
+403.03 Shall not be restored or reconstructed on the original foundation following damage from fire, flood or other non-voluntary cause, unless such restoration or reconstruction is completed within two years of such damage. New or reconstructed structures located within a designated floodplain shall comply with section 327 of the bylaw.
+
+403.04 Nothing in this section shall be deemed to prevent normal maintenance and repair of a nonconforming building provided that it does not increase the degree of nonconformity.
+
+403.05 Nonconforming structures which have become structurally obsolete, unsound or dangerous, cost prohibitive to maintain or repair, or have exceeded reasonable functional usefulness, may upon approval of the Development Review Board (DRB), be removed and replaced with a similar structure of new construction in the same or alternative location on the lot*. 
+       
+To comply with this Section, the DRB must find that the new construction:
+
+A.	Does not increase the degree of nonconformity presently existing with the current structure;
+B.	Does not cause an undue adverse effect on the character of the neighborhood; 
+C.	Does not cause or re-establish an undue negative impact on traffic on roads and highways.
+
+This sub-section only applies to those non-conforming structures which have been voluntarily removed by the owner within two years of their subsequent replacement*.  Any nonconforming structures which have been razed or removed, shall not be re-established under the provisions of this Section after two years of said demolition, and if re-established, must meet the requirements of this Section and the district in which it is located.
+     
+*This section does not apply for nonconforming structures in a designated floodplain.  In some cases, non-conforming structures will have to be brought into compliance with your flood hazard regulations.
+
+403.06 The DRB may, after public notice and hearing, allow expansions of any nonconforming structure provided such expansion conforms to the minimum dimensional requirements of the zoning district in which it is located.
+
+ART 5: DEFINITIONS_                   
+
+501.0 Definitions- Inclusions
+
+Except where specifically defined herein, all words used in this
+bylaw shall carry their accepted meanings.
+
+501.01 The word PERSON includes a firm, association, organization,
+partnership, trust, company or corporation as well as an
+individual.
+
+501.02 The present tense includes the future tense, the singular
+number includes the plural & the plural number includes the
+singular.                   
+                              
+501.03 The word SHALL is mandatory, the word MAY is permissive.
+
+501.04 The words USED or OCCUPIED include the words INTENDED, DESIGNED, or ARRANGED TO BE USED or OCCUPIED.
+
+501.05 The word LOT includes the words PLOT or PARCEL.
+
+Sec 502:  Term Definitions
+                              
+For the purpose of this bylaw, hereinafter defined terms or words
+shall be interpreted as follows:
+
+ACCESSORY DWELLING UNIT: An efficiency or one-bedroom apartment, located within or appurtenant to an owner-occupied single-family dwelling, that is clearly subordinate to a single-family dwelling, and has facilities and provisions for independent living, including sleeping, food preparation, and sanitation, provided there is compliance with all the following:
+
+•	The property has sufficient wastewater capacity.
+•	The unit does not exceed 65 percent of the total habitable floor area of the single-family dwelling.
+•     Applicable setback, coverage, and parking requirements specified in   the bylaws are met. 
+      24 V.S.A. § 4412(1)(E). 
+
+ACCESSORY USE OR STRUCTURE: A use or structure on the same lot with, & of a nature customarily incidental & subordinate to, the principal use or structure.  Accessory structures that are larger than the principal structure on the lot shall be reviewed conditionally.
+
+ADEQUATE COVERAGE (Telecommunications):  Coverage is “adequate” within that area surrounding a base station where the predicted or measured median field strength of the transmitted signal is such that the majority of the time, transceivers properly installed and operated will be able to communicate with the base station without objectionable noise (or excessive bit-error-rate for digital) and without calls being dropped.  In the case of cellular communications in a rural environment, this would be a signal strength of at least –90 dBm.  It is acceptable for there to be holes within the area of adequate coverage as long as the signal regains its strength further away from the base station.  The outer boundary of the area of adequate coverage, however, is that location past which the signal does not regain.
+
+AGRICULTURE: The use of land for farming and agricultural purposes excluding agricultural buildings.                                          
+                                                                 
+AGRICULTURAL STRUCTURE: Buildings and Structures utilized for agricultural production in connection with: a.) the raising, feeding, and management of cattle, horses, pigs, goats, sheep, chickens, turkeys, geese, ducks, fallow or red deer, pheasant, partridge, ostriches, emus, rabbits or trout, b.) the sale of $1,000 or more of agricultural products in a normal year, or c.) a business or farm management plan as approved by the State of Vermont Commissioner of Agriculture.
+
+ALTERNATIVE DESIGN TOWER STRUCTURE (Telecommunications):  Artificial trees, clock towers, bell steeples, light poles, silos and similar alternative-design mounting structures that camouflage or conceal the presence of antennas or towers (see also Stealth Facility).
+
+ANIMAL HOSPITAL: A place where animals or pets are given medical or surgical treatment & the boarding of animals is limited to short term care incidental to the hospital use.
+
+ANTENNA:  A device for transmitting and/or receiving electromagnetic waves, which is attached to a tower or other structure.
+
+ANTENNA HEIGHT:  The vertical distance measured from the base of the antenna support structure at grade to the highest point of the structure.  If the support structure is on a sloped grade, then the average between the highest and lowest grades shall be used in calculating the antenna height.
+
+ANTENNA SUPPORT STRUCTURE:  Any pole, telescoping mast, tower tripod, or any other structure which supports a device used in the transmitting and/or receiving of electromagnetic waves.
+
+APPLICANT: Any person or party that has legal title to and control of the disposition of the property in question, or an owner in equity acting with the consent of the holder of legal title. Joint owners of property must provide evidence of mutual agreement to or co-sign an application for a Zoning permit.
+
+AREA OF SHALLOW FLOODING (Flood Hazard Regulations): Means a designated AO or AH zone on a community's Flood Insurance Rate Map (FIRM) with a one percent or greater annual chance of flooding to an average depth of one to three feet where a clearly defined channel does not exist, where the path of flooding is unpredictable, & where velocity flow may be evident. Such flooding is characterized by ponding or sheet flow.
+
+AREA OF SPECIAL FLOOD HAZARD (Flood Hazard Regulations): Is the land in the flood plain within a community subject to a one percent or greater chance of flooding in a given year. The area may be designated as Zone A on the FHBM. After detailed rate making has been completed in preparation for publication of the FIRM, Zone A usually is refined into Zones A,AO, AH, A1-A30, AE, or A99.
+                                                          
+AUTO SERVICE STATION: Any area of land, including structures thereon, that is used or designed to be used for the supply of gasoline, oil or other fuel for the propulsion of motor vehicles & which may include facilities for polishing, greasing, washing, spraying, dry cleaning or otherwise cleaning or servicing such motor vehicles. An auto service station is not a sales, or major repair agency for autos, trucks or trailers.
+
+AVAILABLE SPACE (Telecommunications):  The space on a tower or structure to which antennas of a telecommunications provider are both structurally able and electromagnetically able to be attached.
+ 
+BANKS: An establishment, created under the laws of the State of Vermont, for the custody, loan, exchange, or issue of money, for the extension of credit, & for facilitating the transmission of funds.
+
+BASE FLOOD (Flood Hazard Regulations): Means the flood having a one percent chance of being equaled or exceeded in any given year.                          
+
+BASE STATION (Telecommunications):  The primary sending and receiving site in a telecommunications facility network.  More than one base station and/or more than one variety of telecommunications providers can be located on a single tower or structure.
+
+BASEMENT: Means any area of the building having its floor subgrade below ground level on all sides.
+
+BED & BREAKFAST: Overnight accommodations and meals in a dwelling unit provided to transients for compensation.
+
+BUILDING: Any structure for the shelter, support or enclosure of persons, animals, chattels or property of any kind.
+
+BUILDING BULK: A building’s length x width x height. 
+
+BUILDING HEIGHT: The average of 3 vertical distances measured from the ground level to the peak or highest point of the roof, taken at the two most exposed adjacent building corners and at a point midway between the two subject corners. In the Commercial and Industrial Districts, the Development Review Board may increase height limits after consideration of; evidence of compelling need; character of the neighborhood; and receipt of written waivers from abutting property owners.
+
+                                                  
+CAMPGROUND:  A plot of ground on which two or more campsites are located, established, or maintained for occupancy by camping units as temporary living quarters for recreation, education, or vacation purposes.
+
+CAMPING UNIT:  Any tent, trailer, cabin, lean-to, recreational vehicle or similar structure serving as temporary living quarters for recreation, education, or vacation purposes.
+
+CAR WASH: A structure containing facilities for washing automobiles that may include a chain conveyer or other method of moving cars along, & automatic or semiautomatic application of cleaner, brushes, rinse water & heat for drying.
+
+CELL SITE (Telecommunications):  A tract or parcel of land that contains a cellular communication antenna, its support structure, accessory building(s), and parking, and may include others uses associated with and ancillary to cellular communications transmission.
+
+CELLULAR SERVICE (Telecommunications):  A telecommunications service that permits customers to use wireless, mobile telephones to connect, via low-power radio transmission sites called cell sites, either to the public switched network or to other mobile cellular phones.
+
+CELLULAR TELECOMMUNICATIONS FACILITY:  Consists of the equipment and structures at a particular site involved in receiving telecommunication or radio signals from mobile radio communications sources and transmitting those signals to a central switching computer which connects the mobile unit with the land-based telephone lines.
+
+CEMETERY: Property used for the burial &/or disposition of remains of the human or animal dead.
+
+CHANNEL (Telecommunications):  The segment of the radiation spectrum to or from an antenna which carries one signal.  An antenna may radiate on many channels simultaneously.
+
+COLLOCATION (Telecommunications):  Locating wireless communications equipment from more than one provider on a single site.
+
+COMMERCIAL USE: Activity involving the sale of goods or services carried out for profit. 
+
+COMMERCIAL STORAGE OF ABANDONED OR WRECKED MOTOR VEHICLES: Any storage of a damaged, broken down, wrecked, discarded or abandoned vehicle, or junk motor vehicle(s), by a business engaged in the pickup, impounding, or towing of such vehicles (either exclusively or connection with another business) for the purposes of storing such vehicles until claimed by the vehicle’s owner, or until title passes to the business in the event that the vehicle remains unclaimed under applicable state law, or until such time as the vehicle can be lawfully disposed of or sold to a junk or scrap yard. Any business engaged in these activities must comply with the requirements of Section 331 of this Bylaw.
+
+COMMON CARRIER (Telecommunications):  An entity licensed by the FCC or a state agency to supply local and/or long distance telecommunications services to the general public at established and stated rates.
+
+COMMUNICATION TOWER:  A guyed, monopole, or self-supporting tower, constructed as a free standing structure or in association with a building, other permanent structure or equipment, containing one or more antennas intended for transmitting and/or receiving television, AM/FM radio, digital, microwave, cellular, telephone, or similar forms of electronic communication.
+
+COMMUNICATIONS FACILITY:  A land facility supporting antennas and/or microwave dishes that sends and/or receives radio frequency signals.  Communications facilities may include structures, towers, equipment, or accessory buildings.
+
+CONTRACTOR YARD: A lot or a portion of a lot or parcel used to store and maintain construction equipment and other materials and facilities customarily required in the building trade by a construction contractor.
+
+CORNER LOT:  A plot or parcel of land located at the interior angle of the intersection of two streets.
+
+DEVELOPMENT: Means the division of a parcel into two or more parcels, the construction, reconstruction, conversion, structural alteration, relocation, or enlargement of any building or other structure, or of any mining, excavation or landfill, & any change in the use of any building or other structure, or land, or extension of use of land.
+                                                          
+DWELLING, MULTI-FAMILY: A building containing three or more dwelling units, including units that are located one over another.  The number of families in residence shall not exceed the number of dwelling units provided.
+
+DWELLING, SINGLE FAMILY: A building containing one dwelling unit and that is not attached to any other dwelling by any means and is surrounded by open space and yards.
+
+DWELLING, TWO-FAMILY: A building on a single lot containing two dwelling units, each of which is totally separated from the other by an un-pierced wall extending from ground to roof or an un-pierced ceiling or floor and extending from exterior wall to exterior wall, except for a common stairwell exterior to both dwelling units. 
+                                     
+DWELLING UNIT: A room, or rooms connected together, constituting a separate, independent housekeeping establishment for owner occupancy, rental or lease, & physically separated from any other rooms or dwelling units which may be in the same structure, & containing independent cooking & sleeping facilities. It shall include prefabricated & modular units which shall meet the standards of building codes, but shall not include hotels & motels.
+
+EARTH RESOURCES EXTRACTION: The removal or mining of sand, gravel, stone or other geological material involving a total or cumulative land extraction area larger than 1,000 (horizontal) square feet.         
+                                           
+ELECTROMAGNETICALLY ABLE (Telecommunications):  The determination that the signal from and to a proposed telecommunications antenna will not significantly interfere with the existing signals from and to other facilities or antennas located on the same tower or structure as determined by a qualified professional telecommunications engineer.  The use of available technologies to alleviate such interference shall be considered when making this determination.
+
+ESSENTIAL SERVICES: The erection, construction, alteration, or maintenance by public utilities or municipal or other governmental agencies of underground or overhead gas, electrical, steam, water, or other distribution systems, including wires, mains, drains, sewers, pipes, conduit cables, fire alarm boxes, police call boxes, traffic signals, hydrants, street signs & similar equipment & accessories in connection therewith, & including buildings, reasonably necessary for furnishing adequate service by such public utilities or municipal or other governmental agencies for the public health, safety or general welfare.
+
+FAMILY:  A group of individuals not necessarily related by blood, marriage, adoption or guardianship living together in a dwelling unit as a single housekeeping unit.  ‘Family’ does not include and society club, fraternity, sorority, association, lodge, federation, or like organizations; or any group of individuals who are in a group living arrangement as a result of criminal offenses.
+
+FAMILY CHILD CARE HOME OR FACILITY:  A family day care home is a day care facility which provides for care on a regular basis in the caregiver’s own residence for not more than ten children at any one time. Of this number, up to six children may be provided care on a full-time basis and the remainder on a part-time basis. For the purpose of this subdivision, care of a child on a part-time basis shall mean care of a school-age child for not more than four hours a day. These limits shall not include children who reside in the residence of the caregiver; except:
+
+	(A) these part-time school-age children may be cared for on a full-day basis during school closing days, snow days and vacation days which occur during the school year; and
+
+(B) during the school summer vacation, up to 12 children may be cared for provided 
+that at least six of these children are school age and a second staff person is present 
+and on duty when the number of children in attendance exceeds six. These limits 
+shall not include children who are required by law to attend school (age 7 and older) 
+and who reside in the residence of the caregiver. 33 V.S.A. § 4902((3).
+
+FARMING:  As defined in 10 VSA 6001(22): The cultivation or other use of land for growing food, fiber, Christmas trees, maple sap, or horticultural and orchard crops; or the raising, feeding or management of livestock, poultry, equines, fish or bees; or the operation of greenhouses; or the production of maple syrup; or the on-site storage, preparation and sale of agricultural products principally produced on the farm; or the on-site production of fuel or power from agricultural products or waste produced on the farm.
+
+FCC:  Federal Communications Commission.  The FCC is the government agency responsible for regulating telecommunications in the United States.
+
+
+FLOOD HAZARD BOUNDARY MAP (FHBM): Means an official map of a community, issued by the Administrator, where the boundaries of the flood, mudslide (i.e., mudflow) related erosion areas having special hazards have been designated as Zones A, M, &/or E.
+
+FLOOD INSURANCE RATE MAP (FIRM): Means an official map of a community, on which the Administrator has delineated both the special hazard areas & the risk premium applicable to the community.  
+
+FLOOD INSURANCE STUDY: Means an examination, evaluation, & determination of flood hazards &, if appropriate, corresponding water surface elevations.                            
+
+FLOOD PROOFING: Means any combination of structural & non-structural additions, changes, or adjustments to structures which reduce or eliminate flood damage to real estate or improved real property, water & sanitary facilities, structures & their contents.
+
+FLOODWAY: Means the channel of a river or other watercourse & the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height.
+
+FOOD ESTABLISHMENT: Retail establishments selling food & drink for immediate consumption on or off the premises, including restaurants, diners, lunch counters, refreshment stands, and mobile food facilities.
+
+FREIGHT TERMINAL: A place where transfer between modes of transportation take place or a terminating point where goods are transferred from a truck to a storage area or to other trucks, or picked up by other forms of transportation.
+
+FRONTAGE: Length of the lot boundary measured along the public road right-of-way or mean high watermark of a public waterway.
+
+FRONT LOT LINE: The line between the road right-of-way or property line and the lot in question. Where the right-of-way width has not been established &/or recorded, the Front Lot Line shall be considered to be 25 feet from the center line of the traveled portion of such road or street. Lots at the end of roads or drives need not have a Front Lot Line.
+
+FRONT YARD: Shortest distance between the centerline of a highway right-of-way or road and the nearest point on the regulated structure.  In the Shore Land Area the front yard is measured from the high water mark of the shoreline to the nearest point on the regulated structure.
+
+FUEL STORAGE: The commercial, bulk storage of gasoline, diesel fuel &/or other flammable liquids used for the purpose of powering motor vehicles &/or heating homes & other structures in either above ground or in ground tanks.
+
+
+HEALTH CARE FACILITY: A facility or institution, whether public or private, principally engaged in providing services for health maintenance, diagnosis or treatment of human disease, pain, injury, deformity or physical condition, including, but not limited to, a general hospital, special hospital, mental hospital, public health center, diagnostic center, treatment center, rehabilitation center, extended care facility, skilled nursing home, nursing home, intermediate care facility, tuberculosis hospital, chronic disease hospital, maternity hospital, outpatient clinic, dispensary, home
+health care agency, boarding home or other home for sheltered care,
+& biomedical laboratory or central services facility serving one or more such institutions, but excluding institutions that provide healing solely by prayer.
+
+HEAVY EQUIPMENT SALES AND SERVICE: The sale & repair of vehicles, implements, & inventory involved in farming, construction, logging, & serving of railroads & ski areas.
+
+HOME OCCUPATION: The accessory use of a dwelling and accessory structures carried out solely by the resident(s) for gain, provided: such use utilizes an area of or involves a use expansion less than 50% of the total existing principal building area and; does not cause an undue adverse change in the character of the area.  (Refer to Section 304 for additional qualifying conditions.)  
+       
+Industry, Light:  Any facility for the assembly, manufacture, compounding, processing, packing, treatment, or testing of materials, goods, or products, provided these activities are conducted in such a manner so as not to generate noise, smoke, vibration, dust, glare, odors, electrical interference or heat that is detectable at the boundaries of the lot.
+
+Industry, Major: Any facility for the assembly, manufacture, compounding, processing, packing, treatment, or testing of materials, goods, or products, where these activities are carried out in such a manner that they may require the use of public water and sewer and may generate noise, smoke, vibration, dust, glare, odors, electrical interference or heat that is detectable at the boundaries of the lot.
+
+JUNK: Old or scrap copper, brass, iron, steel and other old or scrap or nonferrous material, including but not limited to rope, rags, batteries, glass, rubber, debris, appliances, waste, trash; or any discarded, dismantled, wrecked, scrapped or ruined motor vehicles or parts thereof.  Any of the above items used in a bona fide agricultural operation are excluded from this definition.
+
+JUNK MOTOR VEHICLE:  A discarded, dismantled, wrecked, scrapped or ruined motor vehicle or parts thereof, an unregistered motor home not connected to water and/or sewer, or a vehicle other than an on-premise utility vehicle which is allowed to remain unregistered for a period of ninety days from the date of discovery.
+                                                               
+KENNEL: An establishment in which more than 4 dogs or domesticated animals are housed, groomed, bred, boarded, trained or sold, all for a fee or compensation.
+
+
+LOADING SPACE, TRUCK: Off-street space used for the temporary location of 1 licensed motor vehicle, not including access driveway, & having direct access to street or alley.
+
+LOCATION (Telecommunications):  References to site location shall be the exact longitude and latitude, to the nearest tenth of a second.  Bearing or orientation should be referenced to true North.
+
+LODGE OR CLUB: The place where members of a local chapter of an association hold their meetings; & the local chapter itself. 
+
+LODGING FACILITY: A place where sleeping accommodations are provided for rent, and in which meals also may be supplied, including Bed & Breakfasts, hostels, hotels, inns, and motels.
+
+LOT (BUILDING): A plot or parcel of land occupied or capable of being occupied by at least one principal building and the accessory buildings or uses customarily incidental to it, including such open spaces as are required by this Bylaw.
+
+LOT (NON-BUILDING): A non-building lot is a parcel of land created by subdivision under these bylaws whose purpose is limited to uses other than building construction or is permitted for building construction when combined with an adjacent developed or undeveloped BUILDING LOT under common ownership. These parcels have no specific dimensional requirements.
+
+LOT DEPTH: Lot depth shall be the distance between the midpoints of straight lines connecting the foremost points of the side lot lines in front & the rearmost points of the side lot lines in the rear. In no case shall the lot measurement fall outside the limits of the lot being measured.                                    
+
+LOT WIDTH: Lot Width shall be the length of a line measured parallel to the FRONT LOT LINE at an offset distance equal to the required FRONT YARD setback. In no case shall the lot width measurement line fall outside the limits of the lot being measured.
+
+LOT OF RECORD: A lot which is part of a subdivision recorded in the office of the Town Clerk, or a lot or parcel described by metes and bounds, the description of which has been so recorded.
+
+LOUNGE: A structure or part of a structure used primarily for the sale or dispensing of beer, wine, or liquor by the drink. A bar.
+
+LOW INCOME HOUSING: Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy for households with a gross household income that does not exceed 50 percent of the median gross household income for households of the same size within the housing region in which the housing is located.
+
+LOWEST FLOOR: Means the lowest floor of the lowest enclosed area (including basement). An unfinished or flood resistant enclosure, usable solely for parking of vehicles, building access or storage in an area other than a basement area is not considered a building's lowest floor; provided that such enclosure is not built so as to render the structure in violation of the applicable non-elevation design requirements of Sec 60.3.
+
+MANUFACTURED HOME: Means a structure, transportable in one or more sections, which is built on a permanent chassis & is designed for use with or without a permanent foundation when connected to the required utilities. For flood plain management purposes the term "manufactured home" also includes park trailers, travel trailers, & other similar vehicles placed on a site for greater than 180 consecutive days. 
+                                                               
+MANUFACTURING: Any process whereby the nature, size, or shape of articles or raw materials is changed, or where articles are assembled or packaged.
+
+MEAN SEA LEVEL: Means, for purposes of the National Flood Insurance Program, the National Geodetic Vertical Datum (NGVD) of 1929 or other datum, to which base flood elevations shown on a community’s Flood Insurance Rate Map are referenced.
+
+MOBILE HOME: A structure or type of manufactured home that is built on a permanent chassis and is designed to be used as a dwelling with or without a permanent foundation, includes plumbing, heating, cooling, and electrical systems, and is:
+
+•	Transportable in one or more sections; and
+•	At least eight feet wide or 40 feet long or when erected has at least 320 square feet or if the structure was constructed prior to June 15, 1976, at least eight feet wide or 32 feet long; or
+•	Any structure that meets all the requirements of this subdivision except for size and for which the manufacturer voluntarily files a certification required by the U.S. Department of Housing and Urban Development and complies with the standards established under Title 42 of the U.S. Code. 10 V.S.A. § 6201(1).
+
+For flood plain management purposes the term "mobile home" also includes park trailers, travel trailers, and other similar vehicles placed on a site for greater than 180 consecutive days.
+
+MOBILE HOME PARK: Any parcel of land under single or common ownership or control which contains, or is designed, laid out or adapted to accommodate, more than two mobile homes. Nothing herein shall be construed to apply to premises used solely for storage or display of mobile homes. Mobile Home Park does not mean any parcel of land under the ownership of an agricultural employer who may provide up to four mobile homes used by full-time workers or employees of the agricultural employer as a benefit or condition of employment or any parcel of land used solely on a seasonal basis for vacation or recreational mobile homes. 10 V.S.A. § 6201(2).
+
+MODERATE INCOME HOUSING: Housing that is affordable, according to the U.S. Department of Housing and Urban Development, for either home ownership or rental, and that is occupied, reserved, or marketed for occupancy by households with a gross household income that is greater than 50 percent but does not exceed 80 percent of the median gross household income for households of the same size within the housing region in which the housing is located.
+
+MODIFICATION OF AN EXISTING FACILITY (Telecommunications):  Any change, or proposed change, in power input or output, number of antennas, change in antenna type(s) or model(s), repositioning of antenna(s), or change in number of channels per antenna above the maximum number approved under an existing permit.
+
+MODIFICATION OF AN EXISTING TOWER (Telecommunications):  Any change, or proposed change, in dimensions of an existing and permitted tower or other structure designed to support telecommunications transmission, receiving and/or relaying antennas and/or equipment.
+
+MODULAR (OR PREFABRICATED) HOUSING: A dwelling unit constructed on-site and composed of components substantially assembled in a manufacturing plant and transported to the building site for final assembly on a permanent foundation.
+
+MONOPOLE:  A single self-supporting vertical pole with no guy wire anchors, usually consisting of a galvanized or other unpainted metal or a wooden pole with below grade foundations.
+
+MOTOR VEHICLE SALES & SERVICE: Enclosed establishment for the display, sale & repair of new & used motor vehicles, trailers, mobile homes, & boats. It shall not include the retail sale of gasoline, or retail sale of oil except as incidental to the repair facility.
+
+MULTIFAMILY DWELLING: A residential building designed for or occupied by three or more families, with the number of families in residence not exceeding the number of dwelling units provided.
+
+Museum: Land use or place for exhibit of artistic, historic, or educational items or displays.
+         
+NEW CONSTRUCTION: Structures commenced on or after the effective date of this bylaw.                                            
+
+NONCONFORMING LOTS OR PARCELS: Lots or parcels that do not conform to the present bylaws covering dimensional requirements but were in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a lot or parcel improperly authorized as a result of error by the Administrative Officer. 24 V.S.A. § 4303(13).
+
+NONCONFORMING STRUCTURE: A structure or part of a structure that does not conform to the present bylaws but was in conformance with all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a structure improperly authorized as a result of error by the Administrative Officer. 24 V.S.A. § 4303(14).
+
+NONCONFORMING USE: Use of land that does not conform to the present bylaws but did conform to all applicable laws, ordinances, and regulations prior to the enactment of the present bylaws, including a use improperly authorized as a result of error by the Administrative Officer. 24 V.S.A. § 4303(15).
+
+NON-RESIDENTIAL USE: All uses of buildings, structures or land except for single- family, two- family, & multi-family dwellings.
+
+OFF-LOT WATER AND/OR SEWER: A lot which provides no on-site water supply and/or on-site wastewater disposal facilities service of any kind.
+
+ON-LOT WATER AND/OR SEWER: A lot which does not comply with the definition of OFF-LOT WATER AND/OR SEWER.
+
+PARKING LOT: Use of land for vehicle parking where such use is not incidental to a principal building.
+
+PARKING,  OFF-STREET: For the purposes of this bylaw, an off street parking space shall consist of a space adequate for parking a motor vehicle with room for opening doors on both sides, together with properly related access to a public street or alley & maneuvering space.
+
+PERSONAL & PROFESSIONAL SERVICES: Establishments engaged in providing services for a fee to individuals or other establishment.   
+                               
+PLANNED UNIT DEVELOPMENT: An area of land, controlled by a landowner, to be developed as single entity for number of dwelling units, and commercial and industrial uses if any, the plan for which does not correspond in lot sizes, bulk or type of dwelling, commercial or industrial uses, density, lot coverage and required open space to the regulations established in any one or more districts created, from time to time, under the provisions of a municipal zoning ordinance adopted under the authority of VSA-Title 24, chapter 117. 
+
+PRE-EXISTING TOWERS AND ANTENNAS:  Any tower or antenna for which a permit has been issued prior to the effective date of these regulations.
+
+PRINCIPAL BUILDING: A building or structure in which is conducted the principal use of the lot on which it is located. There shall be only one principal building per lot.
+                                                     
+PUBLIC FACILITY: A building or structure owned and operated by agencies, departments, or units of local, county, state & federal government. 
+
+RADIATED-SIGNAL PROPAGATION STUDIES OR COVERAGE PLOTS:  Computer generated estimates of the signal emanating, and prediction of coverage, from antennas or repeaters sited on a specific tower or structure.  The height above ground, power input and output, frequency output, type of antenna, antenna gain, topography of the site and its surroundings are all taken into account to create these simulations.  They are the primary tools for determining whether the telecommunications equipment will provide adequate coverage for that site.
+
+REAR LOT LINE: Means the lot line opposite & most distant from the front lot line. A corner lot has no rear lot line.
+
+REAR YARD: The shortest distance between the rear lot line and the nearest point of the regulated structure.
+
+RECREATION, INDOOR: Includes bowling alley, theatre, table tennis & pool hall, skating rink, gymnasium, swimming pool, hobby workshop, riding stable & similar places of indoor recreation.
+
+RECREATION, OUTDOOR: The establishment of a facility including; but not limited to golf driving range, golf course, outdoor amusement park, hunting preserve, yacht club, rod and gun club, or archery range, (nonresidential swimming pool, skating rink, riding stable, tennis court) beach, recreation stadium, skiing facility, playground, playfield, park open space and other similar uses as approved by the Development Review Board.
+
+RECREATIONAL VEHICLE (RV): means a vehicle which is: (a) Built on a single chassis;(b) 400 square feet or less when measured at the largest horizontal projection; (c) Designed to be self-propelled or permanently towable by a light duty truck; and (d) Designed primarily not for use as a permanent dwelling but as a temporary living quarters for recreational, camping, travel, or seasonal use. 
+
+RECREATIONAL VEHICLE PARK:  Any lot or parcel of land upon which two or more sites are located, established, or maintained for occupancy by recreation vehicles for a fee as temporary living quarters for recreation or vacation purposes.
+      
+RECYCLING: Land use or facility for the purpose of receiving, sorting, and/or shipping of recyclable materials.
+
+RELIGIOUS INSTITUTION: Includes church, temple, parish house, convent, seminary, chapel, shrine, & retreat house.
+                                                      
+RENEWABLE ENERGY FACILITIES: Facilities that generate energy through collection or conversion from direct sunlight, wind, running water, organically derived fuels including wood, agricultural sources, waste materials, waste heat, & geothermal sources.
+
+REPEATER (Telecommunications):  A small receiver/relay transmitter and antenna of relatively low power output designed to provide service to areas which are not able to receive adequate coverage directly from a base or primary station.
+
+RESERVOIRS: A pond, lake, tank or basin, natural or manmade, used for the storage, regulation & control of water.
+
+RESIDENTIAL CARE OR GROUP HOME: Any residential facility operating under a license or registration granted or recognized by a state agency, that serves not more than eight unrelated persons, who have a handicap or disability as defined in 9 V.S.A. § 4501, and who live together as a single housekeeping unit. In addition to room, board and supervision, residents of a group home may receive other services at the group home meeting their health, developmental or educational needs.
+
+RESIDENTIAL UNIT: 1 or more rooms, designed, occupied or intended for occupancy as separate living quarters, with cooking, sleeping & sanitary facilities provided within the dwelling unit for the exclusive use of the family living therein.
+
+RESIDENTIAL USE: Includes single family dwelling, manufactured home, 2 family dwelling & multi-family dwelling.
+
+Retail Sales: The sale of goods or merchandise to the general public for personal or household consumption and rendering services incidental to the sale of goods, which occurs through general public access and regular hours of operation in a location specifically designated for such activity. For purposes of this bylaw, retail sales does not include occasional transactions that may occur on any premises through direct selling to consumers, away from any fixed retail location.
+
+Retail Store: An establishment engaged in retail sales.
+
+RIGHT OF WAY: Line defining the outer limits of a right-a-way.  
+
+ROOF AND/OR BUILDING MOUNT FACILITY:  A facility in which antennas are mounted to an existing structure on the roof (including rooftop appurtenances) or a building face.
+
+SAWMILL: A facility established for the processing of logs, pulp and other raw wood material into lumber and other products.
+
+SCENIC VIEW:  A scenic view is a wide angle or panoramic field of sight and may include natural and/or manmade structures and activities.  A scenic view may be from a stationary viewpoint or be seen as one travels along a roadway, waterway, or path.  A view may be to a faraway object, such as a mountain, or a nearby object.
+                                                               
+SCHOOL: Includes parochial, private, public, & nursery schools, college, university, & accessory uses; & shall exclude commercially operated schools of beauty, culture, business, dancing, driving, music, & similar establishments.
+
+SEASONAL USE:  A use carried on for only part of the year.
+
+SERVICE AREA: An area of land used for the storage of trash receptacles or equipment.
+
+SELF-STORAGE FACILITY:  Self-Storage Facility refers to buildings that are used for private storage. Typically, a single Self Storage Facility will contain a variety of individual units that are rented out for the purpose of storing personal belongings.
+
+SELF-SUPPORTING TOWER (Telecommunications):  A communications tower that is constructed without guy wires.
+
+SIDE LOT LINE: A lot line that is neither a front lot line nor a rear lot line.
+
+SIDE YARD: The shortest distance between the side lot line and the regulated structure.
+
+SIGN: Any device designed to inform or attract the attention of persons not on the premises on which the sign is located, provided however, that the following shall not be included in the application of the regulation herein:
+
+    A. Flags & insignia of any government except when displayed in with commercial promotion.
+    B. Legal notices, identification, informational, or directional signs created as required by governmental bodies.
+    C. Integral decorative or architectural features of building, except letters, trademarks, moving parts of moving lights.
+                                                           
+SIGN, ON SITE: A sign relating in its subject matter to the premises on which it is located.
+                                                             
+STREET LINE: Right-of-way line of a street as dedicated by a deed of record. Where the width of the street is not established, the street line shall be considered to be 25 feet from the center line of the street pavement.
+
+SOLID WASTE TRANSFER STATION: Land use or facility for receiving and transferring consolidated solid wastes including bulky recyclables.
+
+STEALTH FACILITY (Telecommunications):  Any communications facility which is designed to blend into the surrounding environment.  Examples of stealth facilities may include architecturally screened roof-mounted antennas, building-mounted antennas painted to match the existing structure, antennas integrated into architectural elements, and antenna structures designed to look like light poles or trees. (See also Alternative Design Tower Structure.)
+
+STRUCTURE: Means an assembly of materials for occupancy or use, including, but not limited to, a building, mobile home or trailer, billboard, sign, wall or fence, except a wall or fence on an operating farm. 
+
+STRUCTURALLY ABLE (Telecommunications):  The determination that a tower or structure is capable of carrying the load imposed by the proposed new antenna(s) under all reasonable predictable conditions as determined by professional structural engineering analysis.
+
+SUBDIVISION: The dividing of a parcel of land as a result of a conveyance, court ordered partition, or the filing of a plot plan on the town records where the act of division creates one or more building or non-building lots. The subdivision shall be deemed to have occurred on the date of conveyance of the first lot or, the date of filing of a plot plan depicting one or more lots, or the date of filing of a deed, describing one or more lots, on the town records.
+          
+SUBDIVISION (PRE-EXISTING): A subdivision which occurred, or is recognized by the Development Review Board to have occurred, prior to and in the form it existed on June 19, 1978.
+
+SUBSTANTIAL IMPROVEMENT: Means any repair or reconstruction of a structure, the cost of which equals or exceeds 25% percent of the equivalent fair market value of the structure either, (a) before the improvement or repair is started, or (b) if the structure has been damaged, & is being restored, before the damage occurred. The term does not, however include either (1) any project for improvement of a structure to comply with existing state or local health, sanitary, or safety code specifications which are solely necessary to assure safe living conditions or (2) any alteration of a structure listed on the National Register of Historic Places or a State Inventory of Historic Sites.
+
+SYSTEM (Telecommunications):  The communications transmission system operated by a telecommunications service provider in the municipality or region.
+
+TELECOMMUNICATIONS FACILITY:  All equipment (including repeaters) and locations of equipment with which a telecommunications provider transmits and receives the waves which carry their services.  This facility may be sited on one or more towers or structure(s) owned and permitted by the provider or another owner or entity.
+
+TELECOMMUNICATIONS PROVIDER:  An entity licensed by the FCC to provide telecommunications services to individuals or institutions.
+
+TEMPORARY WIRELESS COMMUNICATION FACILITY:  Any tower, pole, antenna, etc., designed for use while a permanent wireless facility is under construction, or for a special event or conference where a majority of people attending are wireless users.
+
+THEATER: A building or part thereof devoted to showing motion pictures, or for dramatic, musical or live performances.      
+
+TILED COVERAGE PLOTS (Telecommunications):  Tiled plots result from calculating the signal at uniformly-spaced locations on a rectangular grid, or tile, of the area of concern.  Unlike radial plots, tiled plots provide a uniform distribution of points over the area of interest, usually the same grid will be used as different sites are examined, and it is not necessary that the transmitter site be within the grid or area of interest.  As with radial plots, the graphic display or plot can be either signal strength or adequate threshold.  This method requires substantially more topographic data and longer (computer) execution time than radial plots, but is preferable for comparative analysis.
+
+TOWER (Telecommunications):  A vertical structure for antenna(s) that provide telecommunications services.
+
+TRAVEL TRAILERA recreational vehicle that is towed by a car or truck.  See RECREATIONAL VEHICLE.
+
+USE, PERMITTED: Use specifically allowed in the district, excluding illegal uses & non-conforming uses.
+
+USE, CONDITIONAL: Use listed in the district that may be allowed after public notice and hearing and where conditions may be applied.
+
+VARIANCE:  A departure from any provision of this zoning bylaw relating to setbacks, side yards, frontage requirements, and lot size, but not including the actual use of the lot.  Such departure may be approved and issued only by the Development Review Board in accordance with the provisions of 24 VSA 4468.
+
+WAIVER:  A provision offering relief from dimensional requirements of the Zoning Bylaw.  Waivers will only be considered for yard setbacks and building height limits.  Waivers of lot sizes or lot dimensions shall not be permitted.  Waivers may be granted by the Development Review Board through the Conditional Use review process.
+
+WAREHOUSE: A building used primarily for the storage of goods and materials.
+
+WHIP ANTENNA:  A vertical antenna that normally transmits signals in 360 degrees.  Whip antennas are typically cylindrical in shape, narrow (less than 6 inches in diameter) and long (often measure 18 inches in height or more).  
+
+WILDLIFE REFUGE: An area of land set aside for the protection & propagation of 1 or more species of animals.
+
+WIND ENERGY FACILITY:  An electric power turbine or generator mounted on a tower or rooftop and operated by the wind’s rotation of propeller-like blades or vanes for the generation of electricity for off-grid, private consumption and not for re-sale to a publicly regulated utility.  
+
+WHOLESALE BUSINESS: Businesses providing goods and service to other businesses.                             
+    
+YARD SALE (Garage Sale):  The sale or offering for sale to the general public of items of personal property by an owner or tenant of an improved lot, whether within or outside any building.
+     
+ART 6: ADMINISTRATION AND ENFORCEMENT
+
+Sec 601:  Administrative Officer
+
+The Select Board shall appoint an Administrative Officer from nominations submitted by the Planning Commission for a term of three (3) years in accordance with 24 V.S.A. § 4448.  The Select Board may remove an Administrative Officer for cause at any time after consultation with the Planning Commission.  
+
+The Administrative Officer shall literally administer and strictly enforce the provisions of these regulations, and in doing so shall inspect development, maintain records, and perform other related tasks as is necessary and appropriate.
+
+An acting Administrative Officer may be appointed by the Select Board, from nominations submitted by the Planning Commission, who shall have the same duties and responsibilities of the Administrative Officer in the Administrative Officer’s absence.  In the event an acting Administrative Officer is appointed, the Select Board shall establish clear policies regarding the authority of the Administrative Officer relative to the authority of the acting Administrative Officer.
+
+Sec 602:  Zoning Permits In accordance with Section 4449 of the Act:
+
+ (1) No land development, as defined in Section 4303(10) of the Act, may be commenced without a permit issued by the Administrative Officer. No permit may be issued by the administrative officer except in conformance with the bylaws.
+ (2) It shall be unlawful to use or occupy or permit the use or occupancy of any land or structure, or part thereof, created, erected, changed, converted, or wholly or partly altered or enlarged in its use or structure after the effective date of this chapter, within the area affected by those bylaws, until a certificate of compliance is issued therefore by the administrative officer, stating that the proposed use of the structure or land conforms to the requirements of these bylaws or the decision of the Development Review Board.
+(3) No permit issued pursuant to this section shall take effect until the time for appeal in section 4465 of this title has passed, or in the event that a notice of appeal is properly filed, no such permit shall take effect until adjudication of that appeal by the appropriate municipal panel is complete and the time for taking an appeal to the environmental court has passed without an appeal being taken. If an appeal is taken to the environmental court, the permit shall not take effect until the environmental court rules in accordance with 10 V.S.A. § 8504 on whether to issue a stay, or until the expiration of 15 days, whichever comes first.
+(b) Each permit issued under this section shall contain a statement of the period of time within which an appeal may be taken and shall require posting of a notice of permit on a form prescribed by the municipality within view from the public right-of-way most nearly adjacent to the subject property until the time for appeal in section 4465 of this title has passed. Within three days following the issuance of a permit, the administrative officer shall:
+(1) Deliver a copy of the permit to the listers of the municipality; and
+(2) Post a copy of the permit in at least one public place in the municipality until the expiration of 15 days from the date of issuance of the permit.
+(c)(1) Within 30 days after a municipal land use permit has been issued or within 30 days of the issuance of any notice of violation, the administrative officer shall:
+(A) Deliver the original or a legible copy of the municipal land use permit or notice of violation or a notice of municipal land use permit generally in the form set forth in subsection 1154(c) of this title to the town clerk for recording as provided in subsection 1154(a); and
+(B) File a copy of that municipal land use permit in the offices of the municipality in a location where all municipal land use permits shall be kept.
+(2) The applicant may be charged for the cost of the recording fees as required by law.
+
+(3) Zoning permits, once issued, are valid for two years from the effective date.  If the project is not completed within two years, the Administrative Officer may extend the permit for one additional year upon written request.  If the project is not completed after a one year extension is granted then a new permit is required.
+
+602.02 APPLICATION: An application for a zoning permit shall be filed with the Administrative Officer on forms provided by the municipality.  Required application fees, as set by the Select Board, also shall be submitted with each application.  In addition, the following information will be required as applicable:
+
+NOTE - This should be provided to all applicants.
+Permitted Uses.  Applications for a permitted use shall include a sketch plan, no smaller than 8.5” x 11”, drawn to scale, that depicts the following:
+
+(1)	the dimensions of the lot, including existing property boundaries,
+(2)	the location, footprint and height of existing and proposed structures or additions,
+(3)	the location of existing and proposed accesses (curb cuts), driveways and parking areas,
+(4)	the location of existing and proposed easements and rights-of-way (if applicable),
+(5)	existing and required setbacks from property boundaries, road rights-of-way, surface waters and wetlands,
+(6)	the location of existing and proposed water and wastewater systems (if applicable), and
+(7)	other such information as required by the Administrative Officer to determine conformance with these regulations.
+
+Uses Subject to Development Review.  For development requiring one or more approvals from the Development Review Board (DRB) prior to the issuance of a zoning permit, application information and fees as required for such approvals shall be submitted concurrently with the application for a zoning permit and referred to the Chairperson of the DRB.
+
+602.03 Issuance:
+ 
+(1)	Within thirty (30) days of receipt of a complete application, including all application materials and fees, the Administrative Officer shall act to either issue or deny a zoning permit in writing, or to refer the application to the Development Review Board.  In accordance with 24 V.S.A. §4448, if the Administrative Officer fails to act within the 30-day period, a permit shall be deemed issued on the 31st day.
+
+(2)	No zoning permit shall be issued by the Administrative Officer for any use or structure which requires the approval of the Development Review Board, or the Select Board, until such approval has been obtained.  The Administrative Officer should inform any person applying for municipal permits or authorizations that the person should contact the regional permit specialist employed by the agency of natural resources in order to assure timely action on any related state permits; nevertheless, the applicant retains the obligation to identify, apply for, and obtain relevant state permits.
+
+(3)	If public notice has been issued by the Select Board for their first public hearing on a proposed amendment to these regulations, for a period of 150 days following that notice the Administrative Officer shall review any new application filed for compliance with the proposed amendment and applicable existing bylaws.  If the new bylaw or amendment has not been adopted by the conclusion of the 150 day period, or if the proposed bylaw or amendment is rejected, the permit shall be reviewed under all applicable provisions of this bylaw (§4449(d)).
+
+
+602.05 The fee for zoning permits shall be established by the Selectboard. It may be a sliding scale depending upon the cost of the land development.  Said fee shall accompany each application for a permit.
+
+Sec 603:  Certificates of Compliance  
+
+603.01 In conformance with 24 VSA, Section 4449(a)(2): It shall be unlawful to use or permit the use of any land or structure, or part thereof created, erected, changed, converted, or wholly or partly altered or enlarged in its use or structure after the effective date of this bylaw, until a certificate of compliance has been issued by the Administrative Officer stating that the proposed structure or use of land conforms to the requirements of this bylaw.
+
+603.02 Applications for certificates of compliance shall be made to the Administrative Officer on forms provided by him/her for that purpose as soon as the approved project is completed or completed to a point of use.
+
+603.03 Prior to the issuance of any certificate of compliance, the Administrative Officer shall first satisfy himself/herself that the proposed use, structure, or lot conforms to the requirements of this bylaw, as well as any conditions applied by the Development Review Board.
+
+603.04 The fee for a certificate of compliance shall be established by the Selectboard.  Said fee shall accompany each application for a certificate of compliance.
+
+Sec. 604: Appeals                   
+
+Any interested person as defined under the Act [§4465] and section 602.08 of this bylaw may appeal a decision or act of the Administrative Officer within 15 days of the date of the decision or act by filing a notice of appeal with the Secretary of the Development Review Board (DRB), or the Municipal Clerk if no Secretary has been elected, and by filing a copy of the notice with the Administrative Officer.
+
+(1)	The DRB shall hold a public hearing on a notice of appeal within 60 days of its filing, as required under the Act [§4468].  The DRB shall give public notice of the hearing under 24 V.S.A. § 4467, and mail a copy of the hearing notice to the appellant not less than 15 days prior to the hearing date.
+
+(2)	The DRB may reject an appeal or request for reconsideration without hearing, and render a decision which shall include findings of fact within 10 days of the filing of a notice of appeal, if the DRB determines that the issues raised by the appellant have been decided in an earlier appeal or are based on substantially or materially the same facts by or on behalf of the appellant [§4470]. 
+
+(3)	In accordance with the Act [§4468], all appeal hearings shall be open to the public and the rules of evidence applicable at these hearings shall be the same as the rules of evidence applicable in contested cases in hearings before administrative agencies as set forth in state statutes [3 V.S.A. §810].  Any interested person or body may appear and be heard in person or be represented by an agent or attorney at the hearing. The hearing may be adjourned by the DRB from time to time, provided that the date and place of the adjourned hearing shall be announced at the hearing. 
+
+(4)	A decision on appeal shall be rendered within 45 days after the final adjournment of the hearing, as required under the Act [§4464(b)].  The decision shall be sent by certified mail to the appellant within the 45 day period.  Copies of the decision shall be mailed to every person or body appearing and having been heard at the hearing, and filed with the Administrative Officer and the Municipal Clerk as part of the public records of the municipality, in accordance with 24 V.S.A. § 4470(a).  Failure of the DRB to issue a decision within this 45 day period shall be deemed approval and shall be effective on the 46th day.
+
+(5)	A notice of appeal filed under this section shall be in writing and include the following information, in accordance with the Act [§4466]:
+
+a.)	the name and address of the appellant,
+b.)	a brief description of the property with respect to which the appeal is taken,
+c.)	a reference to applicable provisions of these regulations,
+d.)	the relief requested by the appellant, including any request for a variance from one or more provisions of these regulations, and
+e.)	the alleged grounds why such relief is believed proper under the circumstances.
+
+
+Sec. 605:  Variances
+
+In reviewing each application for a variance, the Development Review Board (DRB) shall render a decision in favor of the applicant/appellant only if the DRB can make positive findings on all five (5) criteria under 24 VSA 4469(a):
+
+1.	That there are unique physical circumstances or conditions, including irregularity, narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property, and that unnecessary hardship is due to such conditions, and not the circumstances or conditions generally created by the provisions of the zoning regulation in the neighborhood or district in which the property is located;
+
+2.	That because of such physical circumstances or conditions, there is no possibility that the property can be developed in strict conformity with the provisions of the zoning regulation and that the authorization of a variance is therefore necessary to enable the reasonable use of the property;
+
+3.	That the unnecessary hardship has not been created by the applicant/appellant;
+
+4.	That the variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, substantially or permanently impair the appropriate use or development of adjacent property, reduce access to renewable energy resources, nor be detrimental to the public welfare; and
+
+5.	That the variance, if authorized, will represent the minimum variance that will afford relief and will represent the least deviation possible from the zoning bylaw and from the plan.
+
+Sec. 606:  Waivers.
+(A) The Development Review Board (DRB), through the conditional use review process, may grant waivers from the dimensional requirements of a zoning district upon request by the applicant to allow better utilization of the lot.  Waivers will only be considered for yard setbacks and building height limits.  Waivers of lot sizes or lot dimensions shall not be permitted.  
+(B) Any request for a waiver of dimensional requirements shall be expressly written and all adjoining property owners shall be notified of the request.  The DRB may require the applicant to provide mitigation for any waiver that is granted and may include:
+(i) Allowing mitigation through design, screening, or other remedy;
+(ii) Allowing waivers for structures providing for disability accessibility, fire safety, and other requirements of law; and
+(iii) Providing for energy conservation and renewable energy structures.
+
+Sec. 607:  Interested Persons.
+
+The definition of an interested person under the Act [§4465(b)] includes the following:
+
+(1)	a person owning title to property, or a municipality or solid waste management district empowered to condemn it or an interest in it, affected by a bylaw, who alleges that the bylaw imposes on the property unreasonable or inappropriate restrictions of present or potential use under the particular circumstances of the case;
+
+(2)	the Town of Barton, Village of Barton, Village of Orleans, or any adjoining municipality; 
+
+(3)	a person owning or occupying property in the immediate neighborhood of a property which is the subject of a decision or act taken under these regulations, who can demonstrate a physical or environmental impact on the person’s interest under the criteria reviewed, and who alleges that the decision or act, if confirmed, will not be in accord with the policies, purposes or terms of the plan or bylaw of that municipality;
+
+(4)	any ten (10) voters or property owners within the municipality who, by signed petition to the Development Review Board, allege that any relief requested by a person under this section, if granted, will not be in compliance with the policies, purposes or terms of the plan or regulations of the municipality; and any department or administrative subdivision of the state owning property or any interest therein within the municipality or adjoining municipality, and the Vermont Agency of Commerce and Community Development.
+
+Sec. 608:  Appeals to the Environmental Court.
+
+In accordance with the Act [§4471], an interested person who has participated in a regulatory proceeding of the Development Review Board (DRB) may appeal a decision rendered by the DRB under 24 V.S.A. § 4471(a), within 30 days of such decision, to the Vermont Environmental Court.  Appeals to the Environmental Court shall also meet the following requirements:
+
+(1)	“Participation” in a Development Review Board proceeding shall consist of offering, through oral or written testimony, evidence of a statement of concern related to the subject of the proceeding.
+
+(2)	The notice of appeal shall be filed by certified mailing, with fees, to the Environmental Court and by mailing a copy to the Municipal Clerk, or the Administrative Officer if so designated, who shall supply a list of interested persons (including the applicant if not the appellant), to the appellant within five (5) working days.  Upon receipt of the list of interested persons, the appellant shall, by certified mail, provide a copy of the notice of appeal to every interested person.  If any one or more of those persons are not then parties to the appeal, upon motion they shall be granted leave by the court to intervene.
+
+Sec. 609:  Violations and Penalties
+
+The commencement or continuation of any land development or subdivision that has not been issued any permit required by these regulations or does not meet the requirements of these regulations shall constitute a violation.  All violations shall be pursued in accordance with the Act [§§4451, 4452].  Each day that a violation continues shall constitute a separate offense.  The Administrative Officer shall institute, in the name of the Town of Barton, any appropriate action, injunction or other proceeding to enforce the provisions of these regulations.  All fines imposed and collected shall be paid over to the municipality. The fine imposed for each offense under this Section shall be $100.00  [24 V.S.A. § 4451(a) 
+
+609.01 Notice of Violation:
+
+No action may be brought under this section unless the alleged offender has had at least seven (7) days’ warning notice by certified mail that a violation exists, as required under the Act [§4451].  The notice shall state that a violation exists; that the alleged offender has an opportunity to cure the violation within the seven-day notice period; and, that the alleged offender will not be entitled to an additional warning notice for a violation occurring after the seven days.  Action may be brought without notice and opportunity to cure if the alleged offender repeats the violation of the regulations after the seven-day notice period and within the next succeeding 12 months.  The notice of violation also shall be recorded in the land records of the municipality.
+
+609.02 Limitations on Enforcement:
+
+An action, injunction or other enforcement proceeding relating to the failure to obtain or comply with the terms and conditions of any required or duly recorded municipal land use permit may be instituted against the alleged offender if the action, injunction or other enforcement proceeding is instituted within 15 years from the date the alleged violation first occurred, and not thereafter, in accordance with the Act [§4454]*.  The burden of proving the date the alleged violation first occurred shall be on the person against whom the enforcement action is instituted.
+
+*There is no longer any statute of limitations on violations involving salvage yards. 
+
+Sec. 610:  Planning Commission and Development Review Board
+
+610.01 Planning Commission
+(1) The Planning Commission shall consist of not less than five (5) or more than seven (7) members appointed by the Barton Selectboard in accordance with 24 V.S.A. §§4321-4323. At least a majority of members shall be residents of the municipality. Any member of the Planning Commission may be removed at any time by a unanimous vote of the Legislative Body. 
+
+(2) The Planning Commission shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. §4461(a) and Vermont’s Open Meeting Law. 
+(3) The Planning Commission shall have the following duties regarding this bylaw, in accordance with 24 V.S.A. §4441: 
+A. to prepare proposed amendments to this bylaw, and consider proposed amendments submitted by others, including amendments supported by a petition signed by at least five percent of the voters of the Town of Barton. 
+B. to prepare and approve written reports on any proposed amendment to this bylaw; and 
+C. to hold one or more warned public hearings on proposed amendments to these regulations, prior to submission of a proposed amendment and written report to the Selectboard. 
+
+610.02 Development Review Board 
+(1) The Development Review Board shall consist of not fewer than five (5) nor more than nine (9) members appointed by the Barton Selectboard for specified terms in accordance with 24 V.S.A. [§4460(b) and (c)]. The Selectboard also may appoint alternates, for specified terms, to serve on the Development Review Board in situations when one or more members of the Board are disqualified or are otherwise unable to serve. Any member of the Development Review Board may be removed for cause by the Selectboard upon written charges and after public hearing. 
+(2) The Development Review Board shall adopt rules of procedure and rules of ethics with respect to conflicts of interest to guide its official conduct, as required under 24 V.S.A. §4461(a) and Vermont’s Open Meeting Law. 
+(3) The Development Review Board shall have all powers and duties as set forth in 24 V.S.A. Chapter 117 to administer the provisions of these regulations, including but not limited to the power to hear and act upon: 
+
+A. Appeals from any decision, act or failure to act by the Zoning Administrator, as described in §508 of this bylaw, and any associated variance requests, as described in §509 of this bylaw; and 
+B. Applications for conditional use approval, as described in §507 of this bylaw. 
+C. Site plan approval, as described in §505 of this bylaw; and 
+D. Rights-of-way or easements for development of non-frontage lots, as described in §303 of this bylaw; and 
+E. Major subdivisions of land, as described in §506 of this bylaw; and 
+F. Planned residential developments, as described in §317 of this bylaw. 
+
+Sec. 611:  Public Notice
+
+In accordance with the Act [§4464], a warned public hearing shall be required for conditional use review [24 V.S.A. § 4447(a)], waiver requests, and appeals of decisions of the Administrative Officer and variance requests [24 V.S.A. § 4467].  Any public notice for a warned public hearing shall be given not less than 15 days prior to the date of the public hearing by all of the following:
+
+Public notice for hearings on all other types of development review, including site plan review, shall be given not less than seven days prior to the date of the public hearing, and shall include at a minimum all the following:
+
+(1)	publication of the date, place and purpose of the hearing in a newspaper of general circulation in the municipality by the Administrative Officer;
+
+(2)	posting of the same information in three (3) or more public places within the municipality by the Administrative Officer, and the posting of a notice within view from the public right-of-way nearest to the property for which the application is being made, said right-of-way notice to be posted by the property owner or applicant;
+
+(3)	written notification by the Administrative Officer to the applicant and to owners of all properties adjoining the property subject to development, without regard to public rights-of-way, which includes a description of the proposed project, information that clearly informs the recipient where additional information may be obtained, and that participation in the local proceeding is a prerequisite to the right to take any subsequent appeal.
+
+The applicant shall be required to bear the cost of public warning and the cost and responsibility of notifying adjoining landowners as required above, as determined from the current municipal grand list.
+
+No defect in the form or substance of any required public notice under this section shall invalidate the action of the Development Review Board (DRB) where reasonable efforts have been made to provide adequate posting and notice.  However, the action shall be invalid when the defective posting or notice was materially misleading in content.  If an action is ruled to be invalid by the  DRB or the Environmental Court, the action shall be remanded to the DRB to provide new posting and notice, hold a new hearing, and take a new action.
+
+
+
+ART 7: AMENDMENTS, INTERPRETATION, EFFECTIVE DATE
+
+Sec 701:  Amendments
+
+This bylaw may be amended according to the requirements and procedures established in Sections 4403 and 4404 of the Act.           
+
+Sec 702:  Interpretation
+                           
+702.01 In their interpretation and application, the provisions of this bylaw shall be held to be minimum requirements adopted for the promotion of the public health, safety, convenience, comfort, and general welfare of the Town of Barton, Village of Barton, and Village of Orleans.
+
+702.02 Except as provided by Section 4413 of the Act, and where,
+in this bylaw, specifically provided to the contrary it is not intended by this bylaw to repeal, annul, or in any way to impair any regulations or permits previously adopted or issued; provided however, that where this bylaw imposes a greater restriction upon use of a structure or land than are required by any other statute, ordinance, rule, regulation, permit, easement, or agreement, the provisions of this bylaw shall control.
+
+Sec 703:  Effective Date                                                  
+
+This bylaw shall take effect in accordance with the procedures contained in Section 4442 of the Act.
+
+Sec 704: Separability.
+
+The invalidity of any article or section of this bylaw shall not invalidate any other article or section thereof.                 
+
+Sec 705:  Repeal of Former Zoning Bylaw 
+
+The former joint Town of Barton Zoning Bylaw, adopted March 27, 2006 is hereby repealed.
+
