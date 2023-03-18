@@ -1,0 +1,972 @@
+
+HOUSING AND ZONING ORDINANCE
+
+SCIOTA TOWNSHIP, MINNESOTA
+
+Approved: October 9, 2001
+
+Adopted: October 9, 2001
+
+
+
+TOWNSHIP BOARD
+
+Cecille Rasmussen, Chairman
+Liz Jahnz 
+Arnold Ness
+Ruth Ohmann
+Bonnie Wells
+
+
+
+PLANNING COMMISSION
+
+Randy Volkert, Chairman
+Duane Ness
+Cecille Rasmussen
+Patty Errington
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+TABLE OF CONTENTS
+
+		PAGE
+
+Article I	ESTABLISMENT OF ZONING DISTRICT	5
+Section 101	ESTABLISHING OF ZONING DISTRICT	5
+Section 102	ZONING MAP	5
+Section 103	INTERPRETATION OF ZONING MAP	5
+
+ZONING MAP		7
+
+Article II	ZONING DISTRICTS	8
+Section 201	DISTRICT CH – CLUSTER HOUSING	8
+Section 201.01	Cluster Housing Purpose	8
+Section 201.02	Cluster Housing General Regulation	8
+Section 202	DISTRICT RR – RURAL RESIDENTIAL	8
+Section 202.01	Rural Residential Purpose	8
+Section 202.02	Rural Residential General Regulation	8
+Section 203	DISTRICT A – AGRICULTURE	9
+Section 203.01	Agriculture Purpose	9
+Section 203.02	Agriculture Permitted Uses	9
+Section 203.03	Agriculture Accessory Uses	9
+Section 203.04	Agriculture Conditional Uses	9
+Section 203.05	Agriculture Prohibited Uses and Structures	10
+Section 203.06	Agriculture General Regulations	10
+Section 204	DISTRICT FP – FLOODPLAIN OVERLAY DISTRICT	10
+Section 204.01	Floodplain Overlay Purpose	10
+Section 204.02	Floodplain Overlay Township Regulations	10
+Section 204.03	Floodplain Overlay County Regulations	10
+Section 204.04	Floodplain Overlay General Regulations	10
+Section 204.05	Floodplain Overlay Disclaimer of Liability	11
+Section 205	DISTRICT SL – SHORELAND OVERLAY DISTRICT	11
+Section 205.01	Shoreland Overlay District Purpose	11
+Section 205.02	Shoreland Overlay District Township Regulations	11
+Section 205.03	Shoreland Overlay District County Regulations	11
+Section 205.04	Shoreland Overlay District General Regulations	11
+
+ARTICLE III	HEIGHT AND PLACEMENT REGULATIONS	12
+Section 301	HEIGHT AND PLACEMENT REGULATIONS	12
+Table	Placement and Heights of Structures	12
+Section 302	Land Use Density and Intensity Regulation	13
+Table	Maximum Density Single-Family Residential	13
+Section 303	Setbacks from Road Centerline	13
+Table	Minimum Front Setback	13
+Section 304	SOLAR ACCESS PROVISIONS	14
+ 
+TABLE OF CONTENTS
+
+Section 304.01	Solar Access Provisions	14
+Section 304.02	Solar Access Provisions	14
+Section 304.03	Solar Access Provisions	15
+Section 304.04	Solar Access Provisions	15
+
+ARTICLE IV	NON-CONFORMING USE AND SUBSTANDARD 
+	LOT PROVISIONS	16
+Section 401	INTENT	16
+Section 402	NON-CONFORMING USE, BUILDING	16
+Section 403 	NON-CONFORMING USE, EXTENSION	16
+Section 404	NON-CONFORMING USE, DAMAGES	16
+Section 405 	NON-CONFORMING USE, LAND USE WITH NO
+	BUILDINGS	16
+Section 406	NON-CONFORMING USE CHANGE	17
+Section 407	NON-CONFORMING USE, DISCONTINUANCE	17
+Section 408	NON-CONFORMING USE, ZONE CHANGE	17
+Section 409	SUBSTANDARD LOT PROVISIONS	17
+Section 410	NON-CONFORMING HOME OCCUPATIONS	17
+
+ARTICLE V	PERFORMANCE STANDARDS	18
+Section 501	INTENT	18
+Section 502	BUILDING PERMITS	18
+Section 503	DETERMINATION OF CONFORMITY	19
+Section 504	RESIDENTIAL STRUCTURES	19
+Section 504.01	Dwelling Units	19
+Section 504.02	Residential Accessory Buildings	20
+Section 504.03	Earth Sheltered Homes	20
+Section 505	TRAFFIC CONTROL	21
+Section 505.01	Private Roads	21
+Section 505.02	Driveways	21
+Section 505.03	Private Parking	22
+Section 506	HOME OCCUPATIONS	22
+Section 507	MOBILE HOMES	23
+Section 507.01	Mobile Home for Full Time Farm Employment	23
+Section 507.02	Mobile Home for an Infirmed Family Member	24
+Section 507.03	Mobile Home while Building a Home	25
+Section 508	DWELLING UNITS	25
+Section 508.01	Dwelling Units Prohibited	25
+Section 509	RELOCATING STRUCTURES	25
+Section 510	SEWAGE TREATMENT STANDARDS	26
+Section 510.01	Sewage Treatment General Regulations	26
+Section 510.02	Sewage Treatment Specific Standards	27
+Section 511	WATER WELLS	27
+
+TABLE OF CONTENTS
+
+Section 511.01	Water Well General Provisions	27
+Section 511.02	Water Well Specific Standards	27
+Section 512	DRAINAGE	28
+Section 513	SOIL EROSION AND SEDIMENTATION CONTROL	28
+Section 513.01	Soil Erosion and Sedimentation control General
+	Standards	28
+Section 513.02	Soil Erosion and Sedimentation Control Exposed 
+	Slope	28
+Section 514	PRESERVATION OF NATUAL DRAINAGEWAYS	29
+Section 514.01	Soil Erosion and Sedimentation Control Waterways	29
+Section 514.02	Soil Erosion and Sedimentation Control Waterway 
+	Velocity	29
+Section 514.03	Soil Erosion and Sedimentation Control Sediment
+	Control	29
+Section 514.04 	Soil Erosion and Sedimentation Control Maintenance
+	Of Erosion Control System	30
+Section 515	TREE AND WOODLAND REGULATIONS	30
+Section 515.01	Tree and Woodland Regulations Landscaping	31
+Section 516	UTILITY CONSTRUCTION AND MAINTENANCE	31
+Section 516.01	Utility Construction Maintenance–Underground Lines	32
+Section 517	SIGN REGULATIONS	32	
+Section 517.01	Sign Regulations – Public Right of Way	32
+Section 517.02	Sign Regulations – On Site Advertising Signs	33
+Section 517.03	Sign Regulations – Off Site Advertising Signs	33
+Section 517.04	Sign Regulations – Change in Advertising Message	33
+Section 517.05	Sign Regulations – Poorly Maintained Signs	33
+Section 517.06	Sign Regulations – Symbolic Signs	33
+Section 517.07	Sign Regulations – Announcement Signs	33
+Section 517.08	Sign Regulations – Lighting	33
+Section 517.09	Sign Regulations – Non conforming signs	34
+Section 518	REFUSE/DISPOSAL/RECYCLING OPERATION	34
+Section 518.01	Refuse/Disposal/Recycling – Containment	34
+Section 518.02	Refuse/Disposal/Recycling – Vacant Land	34
+Section 518.03	Refuse/Disposal/Recycling – Enactment	34
+Section 518.04	Refuse/Disposal/Recycling – Establishment	34
+Section 518.05	Refuse/Disposal/Recycling – Distance	35
+
+
+
+ARTICLE VI	SUBDIVISION REGULATION	36
+
+ARTICLE VII	ADMINSTRATION AND ENFORCEMENT	37
+
+Article I
+
+Establishment of Zoning District
+
+
+Section 101: Establishment of Zoning Districts
+
+The following zoning districts are provided In order to promote and encourage the efficient economic development of land, buildings, and all usable structures.  The urban Township of Sciota is hereby divided into the following districts, which shall be known by the following respective symbols and names:
+
+CH 	Cluster Housing
+RR	Rural Residential
+A   	Agriculture District
+FP  	Floodplain Overlay District
+SL 	Shoreland Overlay District
+
+
+Section 102: Zoning Map
+
+The areas comprising these zoning districts and the boundaries of said districts as shown upon the map attached hereto are made a part of this Ordinance, being designated as the Zoning Map of the Township of Sciota, with all proper notations, references and other information shown thereon.
+
+Section 103: Interpretation of the Zoning Map 
+Where, due to the scale, lack of detail of legibility of the zoning map attached hereto, there is an uncertainty, contradiction or conflict as to the intended location of any zoning district boundary as shown thereon, the Township Planning Commission shall make an interpretation of said map upon request of any person.  Any person aggrieved by any such interpretation may appeal such interpretation to the Sciota Town Board.  The Sciota Town Board, in interpreting the zoning map or deciding any appeal, shall apply to the following standards:
+
+1.	Zoning district boundary lines are intended to follow lot lines, or be parallel or perpendicular thereto, or along the centerlines of roads, rights-of-ways or lines fixed by dimensions shown on the zoning map, or to follow floodplain elevation contour lines.
+2.	Where zoning district boundary lines are so indicated that they approximately follow lot lines, such lot lines shall be constructed to be such boundary lines.
+3.	Contours lines of elevation.
+4.	Where a zoning district boundary line divides a lot, the location of any such zoning district boundary line, unless indicated by dimensions shown on the zoning map, shall be determined by the use of the map scale shown thereon.
+5.	If, after the application of the foregoing rules, uncertainty still exists as to the exact location of a zoning district boundary line the boundary line shall be determined in a reasonable manner, considering the history of uses of property and the history of zoning ordinances and amendments in Sciota Township as well as all other relevant facts.
+ 
+MAP  (Needs to be procured from Dakota County)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Housing
+
+Article II
+
+Zoning Districts
+
+SECTION 201: DISTRICT CH - CLUSTER HOUSING
+
+SECTION 201.01: Cluster Housing Purpose 
+The purpose of the Cluster Housing District or Development is to allow single-family detached dwellings to be clustered together in a manner that will preserve land for continued agricultural use as districts of the township, experiencing pressure for residential growth:
+
+SECTION 201.02: Cluster Housing General Regulation
+1.	The overall density of the Cluster Housing Development shall not exceed a density of four dwelling units per quarter section (160 acres.)
+2.	All lots within the Cluster Housing Development shall be contiguous to each other or shall be separated only by a road right-of-way.
+3.	The proposed Cluster Housing Development shall comply with all applicable requirements of this zoning ordinance.
+4.	The need for a private roadway within the Cluster Housing shall be minimized but in no case shall a new drive road necessary for a Cluster Housing Development exceed one half mile.
+5.	The minimum lot size for Cluster Housing shall be two acres
+6.	All dwellings within the Cluster Housing shall have a minimum separation of 400 feet from an existing feedlot.
+7.	The boundaries of the two designated areas Agricultural and Clustering shall be permanent unless all the land (160 acres) is rezoned to a different zoning district.
+
+SECTION 202: DISTRICT RR - RURAL RESIDENTIAL 
+
+SECTION 202.01: Rural Residential Purpose
+The purpose of Rural Residential District Development is to allow single-family detached dwellings of medium density development and on-lot utilities in areas where agricultural/residential mix land use patterns exist.
+
+SECTION 202.02: Rural Residential General Regulation
+1.	The overall density of the Rural Residential District Development shall not exceed a density of five residential lots (1 single-family dwelling) per one quarter, quarter sections (1/4-1/4section 40 acres.)  
+2.	Maximum of eight residential lots (1 single-family lot) within one quarter, quarter sections (1/4-1/4section 40 acres.) in areas specified by and approved by Town Board on recommendation of the Planning Commission.
+3.	The proposed Rural Residential District Development shall comply with all applicable requirements of this zoning ordinance and shall be subdivided in accordance with Sciota Township’s Subdivision Ordinance.
+4.	All lots within the Rural Residential District Development shall be contiguous to each other or shall be separated by a road right-of-way.
+5.	The existing roads to a Rural Residential District Development shall not need to be upgraded by the township in order to handle additional traffic generated by the Rural Residential District Development.
+6.	All dwelling within the Rural Residential District Development shall have a minimum separation of 400 foot from an existing feed lot.
+7.	The animal density of grazing animals shall not be greater than one animal unit per acre of pastureland.  In no case shall any structure used for animal housing be located any closer than fifty feet from any property line.
+8.	All covenants, restructure covenants or other restrictions to be placed against real property within the Rural Residential District Development at the time of platting or subdivision, or within two years thereof, shall be submitted for approval to the Sciota Town Board, and upon approval.  
+
+Section 203: DISTRICT  A - AGRICULTURE
+
+Section 203.01: Agriculture Purpose
+Agricultural Districts are established In rural areas for the purpose of; protecting viable agricultural lands from non-farm influence; retaining valuable areas for conservation purposes; preventing scattered non-farm growth; and preserving a secure economy in governmental expenditures and other natural resources of the community.
+Section 203.02: Agriculture Permitted Uses
+1.	Agricultural Uses, Including Livestock
+2.	Single-Family Dwellings
+3.	Forestry and Nurseries
+4.	Historic Sites
+5.	Public Recreation
+Section 203.03: Agriculture Accessory Uses
+1.	Essential Services
+2.	Fences
+3.	Landscaping Features
+4.	Garages
+5.	Machinery, structures, or buildings incidental to, but necessary for the conduct of agricultural operations or other permitted uses.
+Section 203.04: Agriculture Conditional Uses
+1.	Private Roads
+2.	Home Occupations
+3.	Agricultural Service Establishments
+4.	Utility Buildings and Structures
+5.	Resorts
+6.	Institutional Uses
+7.	Greenhouses
+8.	Commercial Recreation
+9.	Mining Operations
+10.	Equipment Storage and Maintenance
+11.	Mobile Homes
+12.	Retail, Wholesale Commercial
+Section 203.05: Agriculture Prohibited uses and Structures
+1.	All other uses and structures which are not specifically allowed as permitted or conditional uses, or cannot be considered as an accessory use, shall be prohibited in the Agriculture District (A).
+
+Section 203.06: Agriculture General Regulations
+Additional requirements for parking, signs, sewage systems, and area and height regulations, -including the 4 residence per quarter section maximum density requirement, are set forth in Articles III through VI.
+
+Section 204: DISTRICT FP - FLOODPLAIN OVERLAY DISTRICT
+
+Section 204.01: Floodplain Overlay Purpose
+The Floodplain Overlay District is intended to be applied to properties in the Agricultural District (A) which lie within a primary floodplain, which for the purposes of this Ordinance shall be construed to be a stream channel and the portions of the adjacent floodplain of the Cannon River and Chub Creek as are required to efficiently carry the flood flow of the stream.  On such properties, special regulations are necessary for the minimum protection of the public health and safety and for the protection of property and improvements from hazards and damage resulting from floodwaters.
+Section 204.02: Floodplain Overlay Township Regulations
+Land use regulations of the Agricultural District (A) shall apply for all lands in the Floodplain Overlay District (FP). The height, yard, area, and lot width and residential density regulations of the Agricultural District (A) shall apply for all uses permitted in this District.
+Section 204.03: Floodplain Overlay County Regulations
+The Dakota County Shoreland and Floodplain Management Ordinance prescribes additional land use regulations for the Floodplain Overlay District.  If any specific regulation in the County Ordinance differs from any specific regulation contained herein, the most restrictive specific regulation shall apply.
+Section 204.04: Floodplain Overlay General Regulations
+Requirements for sewage treatment, and area and height regulations are set forth in Articles III through VI.
+ 
+Section 204.05: Floodplain Overlay Disclaimer of Liability
+The FP District herein established is intended to provide a reasonable approach to flood control based on present information.  As additional information becomes available, the extent of the various boundaries shall be so altered to maintain this reasonableness.  This Ordinance does not imply that areas beyond the district limits will be free from flooding; nor shall this Ordinance, or districts established therein, create a liability on the part of, or cause action against Sciota Township or any office, official, or employee thereof, for any flood damage that may result from reliance upon this ordinance or flood district so established.
+
+Section 205: DISTRICT SL - SHORELAND OVERLAY DISTRICT
+
+Section 205.01: Shoreland Overlay District Purpose
+This SL. District is intended to apply to properties in the Agricultural District (A) which lie within 1000 feet of the shoreline of public waters, which for the purposes of this Ordinance shall be construed to be the Cannon River, Chub Creek, and the North Branch of Chub Creek. Such properties require special regulations for the minimum protection of the quality of the shoreland area, and the health and safety of shoreland residents.
+Section 205.02: Shoreland Overlay District Township Regulations
+Land uses regulations of the Agricultural District (A) shall apply for all lands in the Shoreland Overlay District (SL). The height, yard, area, and lot width and depth regulations of the Agriculture District shall apply for all uses permitted in this district
+Section 205.03: Shoreland Overlay District County Regulations
+The County Shoreland and Floodplain Management Ordinance prescribes additional land use and placement regulations for the Shoreland Overlay District.  County regulations include provisions for a minimum building setback of  200 feet from the rivers, with a minimum lot size of two (2) acres required for residences.  Any specific regulation in the County Ordinance that has been adopted by Sciota Township that differs from any specific regulation contained herein, the most restrictive specific regulation shall apply.  Building permits must be acquired from both Sciota Township and Dakota County prior to beginning any construction projects that require a building permits.
+
+Section 205.04: Shoreland Overlay District General Regulations
+Requirements for sewage treatment, and area and height regulations are set forth in Articles III through VI. 
+
+
+
+
+
+Housing
+
+Article III
+
+Height and Placement Regulations
+
+Section 301: HEIGHT AND PLACEMENT REGULATIONS
+
+Except as otherwise specifically provided in this Ordinance, no structure shall be erected or maintained between any lot line and the pertinent setback distance listed below, and no structure shall be erected or maintained which exceeds the height limit specified below.  
+Where a lot fronts on two streets within 30 degrees of being parallel but not at their intersection, no rear setback is required.  The side setback requirement applies to a side lot line, and also to any lot line, which is neither a front, rear, nor side lot line.  The required side yard on the street side of a corner lot shall be the same as the required front yard on such street.
+
+Placement and Heights of Structures
+
+Setback Limit___________________________ Height Limits*
+
+
+Uses 			Side Setback     Rear Setback     Farm uses  Non-farm uses 
+Agriculture	10 ft.	10 ft.	200 ft.	30 ft.
+Floodplain Overlay	10 ft.	10 ft.	200 ft.	30 ft.
+Shoreland Overlay	10 ft.	10 ft.	200 ft.	30 ft. 
+Rural Residential	10 ft.	10 ft.		30 ft.	
+Cluster Housing	10 ft.	10 ft.		30 ft.		                          
+
+Conditional use permits or variances for any non-farm structure over 25 feet may be granted after review by the Planning Commission and the Town Board.
+
+Any sponsor who proposes any construction or alteration that would exceed a height of 200 feet above ground level at the site shall notify the Commissioner of the Minnesota Department of Transportation at least 30 days In advance as required by Aeronautics Rule 14 HCAR 1.3015, Subdivision C; and shall present a certified copy of such notification to the Township at least 10 days before any building permit is issued. 
+*See Section 302 for front setbacks
+
+
+
+
+ 
+Section 302: LAND USE DENSITY AND INTENSITY REGULATIONS
+
+Except as otherwise specifically provided in this Ordinance, no development, use or structure shall exceed the density and intensity limit specified below.  Minimum lot width shall be measured at the front line.
+
+Maximum Density Single-Family Residential
+
+		Minimum Lot		Maximum Density
+		Minimum	Width at Front	Minimum	Single-Family Residential
+District 	Lot Area	Setback Line	Lot Depth	Per Quarter Section	
+
+Agriculture	2 acre	150 ft.	200 ft.           4 per Quarter Section	
+
+Rural 
+Residential	2 acre	150 ft.	200 ft.        * 5 per Quarter Quarter  Section 
+
+Floodplain
+Overlay	2 acre	150 ft.	200 ft.	
+
+Shoreland
+Overlay	2 acre	150 ft.	200 ft.	
+
+*Rural Residential 5 per quarter section - 8 per quarter section with approval of planning commission and town board 
+
+All undeveloped lots of record prior to the date of this ordinance adoption may be entitled to a single-family residential unit, provided that the parcel or parcels meets all other provisions of this Ordinance.
+
+Section 303: SETBACKS FROM ROAD CENTERLINE
+Minimum Front Setback
+
+The minimum distance of a driveway entrance from the intersection of two or more roads shall be at least 100 feet.
+
+			Minimum Front setback
+Road Classification	from Road Centerline 
+		
+	Minor Arterial		140 ft.
+
+	Collector		120 ft.
+
+	Local		100 ft.
+
+	Private		100 ft.
+
+	Cul-de-sac  (turn around)	60 ft. (From road edge)
+
+	Dead-End  (turn around)		100 ft.
+
+Section 304: SOLAR ACCESS PROVISION
+
+Pursuant to Minnesota Statute 500.30, easements to obtain access to solar energy may be obtained as follows:
+
+Section 304.01:
+
+Any property owner may grant a solar easement in the same manner and with the same effect as a conveyance of an Interest in real property.  The easements shall be created in writing and shall be filed, duly recorded, and indexed in the Office of the Recorder of the County in which the easement is granted.  No duly recorded solar easement shall be unenforceable on account of lack of privity
+of estate or privity of contract; such easements shall run with the land or lands benefited and burdened and shall constitute a perpetual easement, except that a solar easement may terminate upon the conditions stated therein or pursuant to the provisions of State law.
+
+Section 304.02:
+
+Any deed, will, or other instrument that creates a solar easement shall include, but the contents are not limited to:
+1.	A description of the real property subject to the solar easement and a description of the real property benefiting from the solar easement.
+2.	A description of the vertical and horizontal angles, expressed in degrees and measured from the site of the solar energy system, at which the solar easement extends over the real property subject to the solar easement, or any other description which defines the three dimensional space, or the place and times of day in which an obstruction to direct sunlight is prohibited or limited. 
+3.	Any terms or conditions under which the solar easement is granted or may be terminated.
+4.	Any provisions for compensation of the owner of the real property benefiting from the solar easement in the event of interference with the enjoyment of the solar easement, or compensation of the owner of the real property subject to the solar easement for maintaining the solar easement.
+5.	Any other provisions necessary or desirable to execute the instrument.
+
+
+
+Section 304.03:
+
+A solar easement may be enforced by injunction or proceedings in equity, or other civil action.
+
+Section 304.04:
+
+Any depreciation caused by any solar easement, which is imposed upon designated property, but not any appreciation caused by any solar easement which benefits designated property, shall be included in the valuation of the property for property tax purposes.
+ 
+
+HOUSING
+
+Article IV
+
+Non-Conforming Use and Substandard Lot Provisions
+
+Section 401: INTENT
+
+It is the Intent of this Ordinance to permit legal, non-conforming uses and structures existing on the effective date of this Ordinance or amendment thereto, to continue until they are removed; but not to encourage their survival.
+
+Section 402: NON-CONFORMING USE, BUILDINGS
+
+The lawful use of a building or structure existing at the time of the adoption of this Ordinance may be continued, although such use does not conform to the district provisions herein.
+
+Section 403: NON-CONFORMING USE, EXTENSION
+
+A non-conforming use may be extended throughout the building or structure, provided no structural alterations or changes are made therein; except those required by law or Ordinance, such as may be required for safety, or such as may be necessary to secure or insure the continued use of the building during its natural life.
+
+Section 404:  NON-CONFORMING USE, DAMAGES
+
+Any non-conforming building or structure damaged by fire, collapses, explosion, or acts of God or public enemy, may be restored or reconstructed and used as before such happening; provided that It is done within twelve (12) months of such happening, it be built of like or similar materials, and the architectural design and building materials are approved by the Planning commission
+
+Section 405: NON-CONFORMING USE, LAND WITH NO BUILDINGS
+
+A non-conforming use of land which has no non-conforming building or buildings existing at the time that this Ordinance becomes effective, may be continued, provided:
+(1)	The non-conforming use of land shall not in any way be expanded or extended either on the same or adjoining property. 
+
+
+
+
+Section 406: NON-CONFORMING USE CHANGE
+
+A non-conforming use may be changed to a different non-conforming use in the same zoning classification; only upon approval of a conditional use permit for said change by the Town Board.  Wherever a non-conforming use has been changed to a conforming use, it shall not thereafter be changed to a non-conforming use of a less restricted district.
+
+  Section 407: NON-CONFORMING USE, DISCONTINUANCE
+
+In the event that a non-conforming use of any building, or building and land’s discontinued for a period of one (1) year, the use of the same shall conform thereafter to the uses permitted in the district in which it is located.
+
+Section 408: NON-CONFORMING USE, ZONE CHANGE
+
+The foregoing provisions relative to non-conforming uses shall apply to buildings, land and uses which hereafter become non-conforming, due to classification or reclassification of districts under this Ordinance.
+
+Section 409: SUBSTANDARD LOT PROVISIONS
+
+A substandard lot or parcel of land for which a deed has been recorded in the Office of the County Recorder, upon or prior to the effective date of this Ordinance, shall be deemed a buildable lot, provided it:
+1)	Is at least 35,000 sq.ft. in size;
+2)	Was under separate ownership from abutting lands upon or prior to the effective date of the 1982 Sciota Township Ordinance;
+3)	Has frontage on a public or private road; and
+4)	Its development for single-family residential purposes will not violate the general intents and purposes of this Ordinance, including but not limited to the prevention of pollution of applicable waters and surrounding lands, and the preservation of the health, safety and welfare of the general public.
+
+
+
+Section 410: NON-CONFORMING HOME OCCUPATIONS
+
+All non-conforming home occupations legally existing prior to the adoption of this ordinance shall be allowed to continue.  But shall not be allowed to expand, be rebuilt, replaced or altered without being brought into compliance with all requirements to this subdivision.
+ 
+HOUSING
+
+Article V
+
+Performance Standards
+
+
+Section 501: Intent
+
+The performance standards established in this sect-ion are designed to encourage a high standard of development by providing assurance that neighboring land uses will be compatible.  All future development in all districts shall be required to meet these standards.  The standards shall also apply to existing development where so stated.  The Town Board shall be responsible for enforcing the standards.
+
+Section 502: BUILDING PERMITS
+
+For the purposes of enforcing this ordinance, a building permit shall be required of all persons intending to erect, change, repair, move, or improve any building the cost of which action would exceed fifteen thousand ($15,000.00) dollars.
+
+All new construction must comply and conform to Minnesota State Building Code, the Minnesota Uniform Fire Code, and the Sciota Township Ordinances, and all required fees would be collected prior to the approval and issuance of a building permit.
+
+1.	Persons requesting a building permit shall fill out a building permit form available from the planning commission or clerk.  In the event construction is started before a building permit is obtained, fees will be doubled.
+2.	Any construction started before a building permit is obtained will require compliance to all ordinance requirements. Any construction not in compliance with ordinance requirements must be moved or remove at the expense of the owner.
+3.	Completed building permit forms on building valuation shall be returned to the Planning Commission.  The Planning Commission will review the permit forms to insure that the request is in compliance with standards and regulations of the Zoning Ordinances and all other applicable township Ordinances.  Town Board will review the Planning Commissions recommendations.
+
+4.	Any construction occurring within a shoreland or floodplain Overlay District also requires a permit from Dakota County.  All appropriate permits must be acquired from all applicable governmental agencies prior to beginning any construction.
+
+Section 503: DETERMINATION OF CONFORMITY
+
+Before any building permit is approved, the Township Clerk and the Planning Commission will determine whether the proposed use will conform to the performance standards. The developer or landowners shall supply data necessary to demonstrate such conformance. Such data may include description of equipment to be used, hours of operation, method of refuse disposal, type and location of exterior storage, etc.  It may occasionally be necessary for a developer or business to employ specialized consultants to demonstrate that a given use will not exceed the performance standards.
+
+Section 504: RESIDENTIAL STRUCTURES
+
+Section 504.01: Dwelling Units
+Housing performance standards are established for the purpose of promoting residential energy conservation; preserving and protecting desired architectural and aesthetic characteristics of housing in the community, and protecting the health, safety, and welfare of residents of the community.
+
+1.	All residential dwellings shall be firmly anchored to a wood or concrete block or other suitable materials providing continuous foundation below frost line. The structure must be attached with anchor bolts in accordance with the State of Minnesota Building Code in effect at the time the building permit is granted, as required by the manufacturer’s installation instructions.
+
+2.	All residential dwellings shall have 1400 square feet of livable floor space.  The square footage requirements shall not include bay windows, roof overhangs, or eaves under which there is no interior space. Full description and definition of requirements for livable floor space is located in the Definition section of the Township Ordinance Primary Document. 
+
+3.	All residential structures shall have a minimum width of 26 feet.
+
+4.	All residential structures, except earth-sheltered homes, shall have pitched roofs with a minimum pitch of 3:12, except in cases of unique architectural design reviewed by the planning commission and town board. All roof designs must be designed and constructed to meet requirements of he State Building Code for snow load capacity.
+
+5.	Residential dwellings of unique architectural design may be considered by the Planning Commission and Sciota Town Board to meet Zoning Ordinance requirements.
+
+
+Section 504.02: Residential Accessory Building 
+Section 504.02: Residential Accessory Building portion of the Sciota Township Housing and Zoning Ordinance, adopted November 1, 2001, is hereby repealed and replaced with the following, approved May 12, 2008, and adopted May 12, 2008.
+
+The combined foundation square footage of non-agricultural buildings and structures (residences, including garages, plus accessory buildings) on parcels of less than seven acres will be subject to a maximum of 7.5% of the area of the parcel, as described by the Dakota County Tax Assessor.  The maximum sidewall of non-agricultural accessory buildings will be 14 feet.  
+
+Outside wall dimensions will be used to determine maximum building area, except where a roof extends more than two feet horizontally from the sidewall, the area covered by the roof (dripline) will be used to determine maximum building area.
+
+Owners of tracts of land of seven contiguous acres or more may construct non-agricultural structures occupying more than 7.5% of the parcel area, subject to the approval of the Town Board prior to issuance of a building permit.  
+
+Agricultural accessory buildings require a building permit but no permit fee is charged.
+
+Aesthetic coordination between the house and accessory building(s) is encouraged (i.e., color, style, siding, roof pitch, location of accessory building(s) in relationship to the house, landscaping).
+
+Variances may be granted for building height restrictions for certain circumstances after request to the Planning Commission and Town Board.  Circumstances may include specialty buildings such as airplane hangars or storage for health-related equipment such as vans with wheelchair lifts.  Building height variances may include restrictions, such as greater than usual setbacks from property lines, to mitigate impacts on neighboring properties.
+
+Sciota Township assumes no responsibility for the presence or location of covenants, easements, rights-of-way, utilities, or other land use restrictions that may limit the size or location of any structures, residential or accessory, that may be constructed on a parcel of land.  
+
+
+Section 504.03: Earth Sheltered Homes
+Earth-Sheltered homes for use as a primary single-family residential structure shall be allowed a building permit, if such structures possess the following characteristics:
+
+At least (50%) fifty percent of the structure is covered with the earth or earthen materials.
+
+The structure is waterproofed to sufficiently provide a low-humidity interior environment.
+
+The structure is not designed to provide for an upper floor in the future. 
+ 
+The structure meets or exceeds all building code standards for fire safety, window area, and other requirements.
+
+Section 505: TRAFFIC CONTROL
+
+Section 505.01: Private Roads
+1.	A private road may be constructed in order to provide access to a parcel or parcels that do not abut a public road.
+2.	The Town Board for conformity with the standards that govern Township roads shall review all plans for a private road.
+3.	Under no circumstances shall the Township be obligated to provide maintenance for a private road.
+4.	Any private road which intersects with a County highway shall require a permit from the County Highway Department 
+
+Section 505.02: DRIVEWAYS and CUL-DE-SAC
+1.	Driveways and cul-de-sacs shall join at right angles to a public road and provide a clear and unimpeded view at the intersection of the driveway with any public road.
+2.	In special circumstances, a cul-de-sac may intersect a private drive.
+3.	Minimum cul-de-sacs diameter shall be 120 ft.
+4.	The gradient of any driveway or cul-de-sacs extending from a public road or right -of –way shall not be less than 3% nor exceed 15%. The approach to the public road should be lower in elevation than the elevation of the public road. If the approach to the public road is higher in elevation than the public road, the approach shall be designed such that storm water from the roadway does not run onto the public road. Any maintenance that is required to correct a drainage problem associated to improper installation of a roadway shall be the responsibility of the owner.
+5.	Prevention of erosion is required and the responsibility of owner in the installation of a driveway or cul-de-sac. Control measures are necessary to assure the safety to public roadways and right-of ways.
+6.	A driveway or cul-de-sac shall have an elevation of six (6) inches below the road elevation, at a point of 15 ft. from the edge of the road.
+7.	All roadways that require a culvert shall be at least 15 inches diameter and 20 foot length and at approved load strength. Larger and /or longer culverts to handle the water flow may be required by the township if deemed necessary.
+
+For residential driveways, clear and unimpeded vision shall be provided at the intersection of the driveway with any public road.  Vision must be unimpeded between a height of two and one-half and ten feet above the centerline grade of the public street, such that a clear line of vision from the entrance of the driveway is possible in either direction for a distance of 500 feet along the public road Centerline
+. 
+ Driveways for residential use shall be located to conform with the side yard requirements of Section 301.  All dwellings shall be so located as to permit an eight-foot wide driveway to be placed from either a public street or a public alleyway to the rear house line.
+
+Section 505.03: Private Parking
+1.	It is unlawful for anyone to park, or allow to be parked, any non-licensed or any un-licenseable semi trailer on private, non-farming property within the Rural residential district.
+2.	It is unlawful for any person to park, store or leave any abandoned motor vehicle on any public or private property within the township, or for any property owner or occupant to permit parking, storing or leaving of any abandoned motor vehicle upon such private property, unless such vehicle is within an enclosed building or structure or out of public view.   
+
+Section 506: HOME OCCUPATIONS
+
+In any zoning district where home occupations are authorized, the following regulations governing said home occupations must comply with:
+1.	The home occupation must be registered and on file with the Township.
+
+2.	Said user shall not occupy an area more than (25%) twenty five percent of the total floor area of the dwelling.
+
+3.	Said use shall not create excessive odor, dust, noise, electrical glare, or vibrations noticeable outside of dwelling that cause or create a public nuisance.
+
+4.	Employ less than three employees at the site at one time, other than the occupants of the dwelling.
+
+5.	No such home occupant shall require substantial interior or exterior alterations of the dwelling.
+
+6.	There shall be no outside storage of material or equipment or display of merchandise.
+
+7.	Advertising sign regulations will be addressed in the general sign ordinances.
+
+8.	No extra traffic generated of an estimated four vehicle trips per day.
+
+
+9.	No home occupation shall cause an increase in the use of utilities (water, sewer, electricity, garbage) so that the combined total use for the dwelling and home occupation purposes exceed the average for the residence in the neighborhood.
+
+10.	Produce no special or hazardous wasted that require special treatment.
+
+11.	A home occupation may be carried out in an accessory building with all applicable standards for the designated home occupation level. Meaning occupation may only use 25% of accessory building size.
+
+Section 507: MOBILE HOMES
+
+All mobile homes shall meet the construction, plumbing, electrical, and mechanical standards as prescribed by the State of Minnesota and American Standards Association Code. All mobile homes shall also be certified to these standards by a manufacturer seal or certificate. Copies of the seal or certificate will be submitted to the township for permanent record.
+
+Mobile homes shall not be allowed to be used for rental income.
+
+Section 507.01: Mobile Homes for Full Time Farm Employment
+A mobile home may be allowed in the Agricultural Districts as a conditional use providing the following:
+
+1)	The farm has a minimum of 80 acres and is being actively farmed.
+
+2)	The mobile home shall be located on the farm with the principal residence.
+
+3)	The mobile home shall be removed from the site within sixty (60) days after it ceases to be farm related under criteria of the above criteria.
+
+4)	The mobile home shall not be made a permanent structure.
+
+5)	Sewage Treatment System shall be installed in accordance with Dakota County Individual Sewage Treatment System Ordinance.
+
+6)	The applicant shall demonstrate the need for the farm related mobile home.
+
+7)	The Town Board for compliance shall review the permit on a yearly basis.
+
+8)	The Town Board shall evaluate and decide if the intent of the Conditional Use Permit is being met.
+
+9)	The Planning Commission and the Town Board may impose additional conditions
+
+Section 507.02: Mobile Home for an Infirmed Family Member
+A mobile home may be located as a conditional use in any zoning district under the following conditions:
+
+1.	The parcel of property shall be a minimum of ten (10) acres in size and must have a permanent residence existing on the property. Variances may be granted for smaller parcel area after the Planning Commission and the Town Board reviews circumstances.
+
+2.	An infirmed family member of the owners and residents of the parcel property shall occupy the mobile home.  For the purpose of this section, the term “infirmed” shall mean  “being of such state of mind or body as to require assistance in maintaining oneself.”
+
+3.	The mobile home shall be removed from the property within six (6) months after the person or persons for whom the conditional use was granted vacate the mobile home.
+
+4.	The owners of the property on which the conditional use has been granted shall pay any funds expended by the Township in the removal of the mobile home.
+
+5.	A letter shall be signed and submitted by a licensed medical doctor certifying that the person or persons who will be occupying the mobile home are infirmed or is 65 years of age or older.
+
+6.	Occupation of the mobile home by live-in caregivers will be allowed in cases when the primary dwelling owner/resident is classified as infirmed or is 65 years of age or older.
+
+7.	The mobile home shall meet all setback requirements of the zoning district, including sewage treatment system setbacks.  A common sewage treatment system and common water system may be used upon proof to the Building Inspector that these systems are adequate for the additional use proposed.
+
+8.	The Planning Commission and the Town Board may impose additional conditions.
+
+
+Section 507.03: Mobile Home while Building A Home
+A mobile home may be allowed as a conditional use in a zoning district where residential buildings are allowed for a period of six (6) months under the following conditions:
+
+1.	The issuance of a building permit for a permanent residential home has been issued.
+
+2.	Property owner of the building site parcel during construction shall occupy the mobile home.
+
+3.	The mobile home shall be located on the same tract as approved for the building permit.
+
+4.	The mobile home shall be connected to the Individual Sewage Treatment System as approved in the building permit application.
+
+5.	The Planning Commission and the Town Board may impose additional conditions
+
+Section 508: DWELLING UNITS 
+
+Section 508.01: Dwelling Units Prohibited
+
+It shall not be lawful for any persons to erect or occupy a temporary dwelling on any lot or parcel of land in Sciota Township, except that travel and motor home coaches can be used for such purposes for a period not to exceed four weeks.  Residing in basement or foundation structures before the completion of the total structure shall be permitted, providing that one wall is exposed to the outside.  No garage, tent, or accessory building shall at any time be used as a separate dwelling.  The basement portion of a finished home or apartment may be used for normal eating and sleeping purposes provided it is properly damp-roofed, has suitable fire protection and exits, and it’s otherwise approved by the Building Inspector. 
+
+
+Section 509: RELOCATING STRUCTURES
+
+A building permit shall be required for all permanent relocation of residential structures. All new or used permanent structures moved into or within the Township shall meet the following minimum requirements.
+
+1.	Every existing structure to be relocated into Sciota Township will be inspected and approved by the Building Inspector prior to said structure being moved in.
+
+2.	Every structure being moved into this jurisdiction must meet the requirements of the Minnesota State Building Code.
+
+3.	A building permit will be required for all permanent relocation of residential structures.
+
+4.	Every dwelling moved into this jurisdiction must have a basement or foundation meeting the requirements as defined in Residential Structure Section 504.01.1, which complies with requirement of the Minnesota State Building Code.
+
+Section 510: SUBSURFACE SEWAGE TREATMENT SYSTEMS (SSTS) AND WATER SUPPLY
+
+Section 510.01: Subsurface Sewage Treatment Systems (SSTS) 
+
+A.	All buildings intended for human habitation shall be served by a subsurface sewage treatment system designed, installed and maintained to meet the requirements of this section.
+
+B.	No person shall install, repair or alter an on-site sewer system without first obtaining a permit from the Township.
+
+1.	 Applications, on a form provided by the Township must be completed in writing by the applicant prior to issuance of a permit.
+
+2.	 A fee, as established by the Township Board of Supervisors shall accompany the application.
+
+3.	A permit is not required for emergency repairs or maintenance.
+
+C.	Subsurface sewage treatment systems shall be designed, installed, and maintained in accordance with Dakota County Ordinance No. 113 and Minnesota Rule Chapters 7080-7083 published by the Minnesota Pollution Control Agency, which are incorporated into this ordinance by reference.  The stricter provisions of Dakota County Ordinance No. 113 shall apply.
+
+D.	Licensing for the installation, repair, inspection, pumping and hauling of private on-site sewer systems shall be in accordance with the requirements of the Minnesota Pollution Control Agency.
+
+E.	Enforcement of this ordinance, in accordance with Dakota County Ordinance No. 113 and Minnesota Rule Chapters 7080-7083 shall be the responsibility of the Township Board of Supervisors and their duly appointed Septic System Inspector.
+
+Enacted by Sciota Twp Board on July 11, 2011
+Attested: Shannon Olson, Clerk
+
+Section 511: WATER WELLS
+
+Section 511.01: Water Well General Provisions
+A well shall be located consistent with the general layout and surrounding area, giving due consideration of the size of the lot, contour of the land, slope of the water table, rock formation, porosity and absorbency of the soil, local ground water conditions.  Such well shall be:
+1.	Located on a site which has good surface drainage at a higher elevation than, and at a sufficient distance from cesspools, buried sewers, septic tanks, privies, barnyards, and feedlots or other possible sources of contamination, so that the supply cannot be affected thereby, either underground or from the surface of the ground. 
+2.	Located so that the well and its surrounding area can be kept in a sanitary condition.
+3.	Adequate in size, design and development for the intended use. 
+4.	Constructed so as to maintain existing natural protection against pollution of water bearing formations, and to exclude all known sources of pollution from entering the well.
+
+Section 511.02: Water WELLS Specific Standards
+The installation of water wells shall be in accordance with the regulations contained within the Dakota County Ordinance No 114 – “Well and Water Supply Management”, which is hereby adopted by Sciota Township by reference declared to be a part of this Ordinance, and any subsequent amendments thereto.
+
+Section 512: DRAINAGE
+No land shall be developed, and no use shall be permitted, that results in additional water run-off that causes flooding or erosion on adjacent properties Run-off shall be properly channeled into a storm drain, watercourse, pond area, or other public facility.
+
+Section 513: SOIL EROSION AND SEDIMENTATION CONTROL
+
+Section 513.01: Soil Erosion and Sedimentation Control General Standards
+1.	All development shall conform to the natural limitations presented by the topography and soil, as to create the least potential for soil erosion.
+2.	Slopes over eighteen percent in grade shall not be developed.
+3.	Development on slopes with a grade between twelve and eighteen percent shall be carefully reviewed to insure adequate measures have been taken to prevent erosion, sedimentation and structural damage.
+4.	The construction site shall be permanently vegetated within twelve (12) months after the construction begins.
+Section 513.02: Soil Erosion and Sedimentation Control Exposed Slopes
+1.	The following control measures should be taken to control erosion during construction.
+2.	No exposed slope should be steeper in grade than five- (5) feet horizontal to one (1) foot vertical. 
+3.	Exposed slopes steeper in grade than ten (10) feet horizontal to one (1) foot vertical should be contour plowed to minimize direct runoff of water.
+4.	At the foot of each exposed slope, a channel and berm should be constructed to control runoff.  The channeled water should be diverted to a sedimentation basin (debris basin, silt basin or silt trap) before being allowed to enter the natural drainage system. 
+5.	Along the top of each exposed slope, a berm should be constructed to prevent runoff from flowing over the edge of the slope.  Where runoff collecting behind said berm cannot be diverted elsewhere and must be directed down the berm, appropriate measures should be taken to prevent erosion.  Such measures should consist of either an asphalt paved flow apron and drop chute laid down the slope, or a flexible slope drain.  At the base of the slope drain flow apron, a gravel energy dissipater should be installed to prevent erosion at the discharge end.
+6.	Exposed slopes should be protected by whatever means will effectively prevent erosion, considering the degree of slope, soil material, and expected length of exposure.  Slope protection shall consist of mulch, sheets of plastic, burlap or jute netting, sod blankets, fast-growing grasses, or temporary seeding of annual grasses.  Mulch consists of hay, straw, wood chips, corn stalks, bark or other protective material.  Mulch should be anchored to slopes with a liquid asphalt, stakes and netting or should be worked into the soil to provide additional slope stability.
+7.	Control measures, other than those specifically stated above, may be used in place of the above measures, if it can be demonstrated that they will as effectively protect exposed slopes.
+
+ Section 514: PRESERVATION OF NATURAL DRAINAGEWAYS
+
+Section 514.01: Soil Erosion and Sedimentation Control Waterways
+1.	The use of storm sewers for runoff control is not an acceptable alternative to the use of a natural aboveground drainage system. Storm sewers may only be used where it can be demonstrated that the use of the aboveground natural drainage system will inadequately dispose of runoff.  Aboveground runoff disposal waterways may be constructed to augment the natural drainage system.
+2.	The widths of a constructed waterway shall be sufficiently large to adequately channel runoff from a ten- (10) year storm.  Adequacy shall be determined by the expected runoff, when full development of the drainage area 1s reached. 
+3.	No fences or structures shall be constructed across the waterway that will reduce or restrict the flow of water.
+4.	The banks of the waterway shall be protected with permanent turf vegetation.
+5.	The banks of the waterways:’ should not exceed five (5) feet horizontal to one (1) foot vertical in gradient.
+6.	The gradient of the waterway bed should not exceed a grade that will result in a velocity that will cause erosion of the banks of the waterway.
+7.	The bed of the waterway should be protected with turf, sod or concrete.  If turf sod will not function properly, riprap may be used.  Riprap shall consist of quarried limestone, fieldstone (if random riprap is used), or construction materials provided said construction materials are limited to asphalt, cement and concrete.  The riprap shall be no smaller than two (2) feet square.  Construction materials shall be used only in those areas where the waterway is not used as part of a recreation trail system.
+ 
+8.	If the flow velocity in the waterway is such that erosion of the turf sidewall will occur and said velocity cannot be decreased via velocity control structures, then other materials may replace turf on the sidewall.  Either gravel or riprap would be allowed to prevent erosion at these points.
+
+ Section 514.02: Soil Erosion and Sedimentation Control Waterway Velocity
+1.	The flow velocity of runoff in waterways shall be controlled to a velocity that will not cause erosion of the waterway. 
+2.	Flow velocity should be controlled through the installation of diversions, berms, slope drains and other similarly effective velocity control structures.
+Section 514.03: Soil Erosion and Sedimentation Control Sediment Control
+1.	To prevent sedimentation of waterways, pervious and impervious sediment traps and other sediment control structures, shall be incorporated throughout the contributing watershed.
+2.	Temporary pervious sediment traps could consist of a construction of bales of hay with a low spillway embankment section of sand and gravel that permits a slow movement of water while filtering sediment.  Such structures would serve as temporary sediment control features during the Construction State of development. Development of housing or other structures shall be restricted from the area on either side of the waterway required to channel a twenty-five-(25) year storm.
+3.	Permanent impervious sediment control structures consist of sediment basins (debris basins, desilting basins, or silt traps) and shall be utilized to remove sediment from runoff prior to its disposal in any permanent body of water.
+
+Section 514.04: Soil Erosion and Sedimentation Control Maintenance of Erosion Control System
+1.	The erosion and velocity control structures shall be maintained in a condition that will insure continuous functioning according to the provisions of this Ordinance.
+2.	Sediment basins shall be maintained as the need occurs, to insure continuous de-silting action. 
+3.	The areas utilized for runoff waterways and sediment basins shall not be allowed to exist in an unsightly condition.  The banks of the sediment basins and waterways shall be landscaped. 
+4.	Prior to the approval of any plat for development, the developer shall make provision for continued maintenance on the erosion and sediment control system.
+
+Section 515: TREE AND WOODLAND REGULATIONS
+
+1.	The following regulation shall apply to all residential development occurring in wooded areas.  Structures shall be located in such a manner that the maximum number of trees shall be preserved.  Prior to the granting of a building permit, it shall be the duty of the person seeking the permit to demonstrate that there are no feasible or prudent alternatives to the cutting of trees on the site, and that if trees are cut, proper reforestation will occur upon or before completion of the development. 
+2.	Forestation, reforestation, or landscaping shall utilize a variety of tree species, and shall not utilize any species presently under disease epidemic. Species planted shall be hardy under local conditions and compatible with the local landscape.
+3.	Grading and contouring shall take place in such a manner that the root zone aeration and stability of existing trees shall not be affected, and shall provide existing trees with a watering area equal to one-half of the crown area. Development in woodlands shall not reduce the existing crown cover greater than fifty-percent, and shall be conducted in such a manner that the forest understory is preserved.
+4.	Notwithstanding the above, the removal of trees seriously damaged by storms or other acts of God, or diseased trees, shall not he prohibited.
+ 
+Section 515.01: Tree and Woodland Regulations Landscaping
+Except as otherwise specifically provided in this Ordinance, no trees shall be planted between any lot line, which abuts an agricultural field and the pertinent setback distance listed below.
+
+District		 Setback Limit
+	Agriculture 		50 ft.
+	Floodplain Overlay		50 ft.
+	Shoreland Overlay 		50 ft.
+	Cluster Housing		50 ft.
+	Rural Residential		50 ft.
+
+The Town Board may grant variances after recommendation of the Planning Commission. Variances will only be considered after written agreement has been granted and agreed by all effected landowners of adjoining lands.
+
+Section 516: Utility Construction and Maintenance
+The following standards shall apply to the construction and maintenance of utility lines and public service structures, and shall be considered as requirements for issuance of permits for construction:
+
+1.	The Town Board shall be notified, at least one (1) year in advance of all non-local power lines and pipelines, which are proposed to be installed in the Township. The appropriate road authority shall approve each utility road crossing.
+2.	Primary consideration shall be given to underground utility placement when feasible in order to minimize visual impact.
+3.	Placement of overhead transmission lines should take into consideration the impact on views and the appearance of the structures as much as practicable.
+4.	Cleared portions of right-of-way for proposed transmission lines shall be minimized. Where vegetation has been removed, new native vegetation, which does not restrict use or pose a hazard, shall be allowed to grow in the right-of-way.
+5.	River crossing for utilities shall be minimized and concentrated at existing crossings where possible.
+6.	In case of repair or improvements of a road, the line owner shall pay for necessary movement and replacement of the line.
+7.	In the event of necessary repairs or improvements of drainage ditches, the line owner shall pay for necessary movement and repair of the utility line.
+8.	Drain tile lines shall be repaired or replaced where cut or damaged by construction, for at least 5 feet from the damaged sections.
+9.	Utility lines and associated structures (except service lines from a main to a customer) shall be at least 250 feet from residential dwelling units.
+10.	Whenever feasible, utility lines shall be located within or along existing railroad or highway rights of way, section lines, or other established boundaries and/or easements, or other such routed as approved by the Town Board.
+11.	The owner and/or builder of the utility line shall be responsible to pay for such inspection procedures incident to the line’s construction and maintenance as the Town Board determines necessary to protect the public interest.
+
+Section 516.01: Utility Construction and Maintenance for Underground Utility Lines
+
+For underground utility lines:
+1.	All underground lines shall be bored and cased through public and private roads unless the road authority cases and backfills the crossing.
+2.	All underground lines shall be at least five feet below the bottom of drainage ditches, and not impeded the flow of water.
+3.	All underground lines shall be at least one foot below existing and proposed drain tile lines. The utility line owner shall be responsible for:
+•	The cost of surveys for future drain tile line plans that are incurred because of the existence of the utility line
+•	Additional expenses for installation of future drain tile caused by existence of the line
+•	Cost of repair of drain tile and crop loss due to settling after utility line construction
+4.	Where feasible, underground utility lines shall be at least 20 feet from parallel drain tile.
+5.	Except as otherwise stated, underground utility lines shall be at least 4 feet below the ground surface.
+
+The owners of utility lines shall be held strictly liable for any and all damages that may arise out of the operation or malfunction of any utility line or facilities incidental to the operation of the utility line.
+
+The Town Board may impose such other conditions, terms, bonds, and indemnities as may be necessary to protect the public interest.
+
+Section 517: SIGN REGULATIONS
+
+The regulations established in this chapter are designed to protect the property values, create a more attractive business climate, enhance and protect the physical appearance of the community, prevent and reduce potential traffic hazards caused by distracting and obstructing signs, and to remove safety hazards to pedestrians that may be caused by signs projecting over public right-of-way.
+
+Section 517.01: Sign Regulation - Public Right-of-Way
+
+Only official identification, directional, or traffic control sighs shall be allowed within the public right-of-way.
+
+Section517.02: Sign Regulation – On-Site Advertising Signs
+
+All signs larger than fifty square feet shall require a Conditional Use Permit.
+
+Section517.03: Sign Regulation – Off-Site Advertising Signs
+
+Off-site advertising signs may be permitted in all districts as conditional uses.
+
+Section517.04: Sign Regulation – Change in Advertising Message
+
+The change in advertising message maintenance and repair, or the use of extensions, cutouts or embellishments upon an existing advertising structure shall not be considered an enlargement, extension structure, or structure alteration provided that thereby the advertising structure is not caused to exceed any size limitation by this ordinance.
+
+Section517.05: Sign Regulation – Poorly Maintained Signs
+
+Unpainted signs, broken signs and signs on vacated buildings shall be removed from the premises on order of the Town Board.
+
+Section517.06: Sign Regulation – Symbolic Signs
+
+Symbolic signs such as a barber pole, which are traditional in nature and size shall be permitted. Small identifying signs under canopies or on retractable awnings shall also be permitted.
+
+Section517.07: Sign Regulation – Announcement Signs
+
+Signs for the following purposes not exceeding ten square feet in area and placed back twenty feet from front lot lines shall be permitted in all districts:
+1.	A sign advertising only the sale, rental, or lease of the building or premises on which it is maintained.
+2.	Announcement sign or bulletin board for the use of a public, charitable, or religious institution occupying the premises.
+3.	An advertising sign in connection with a lawfully maintained non-conforming use.
+4.	Political signs.
+
+Section517.08: Sign Regulation – Lighting
+
+Signs may be illuminated by flashing, intermittent rotating or moving light or lights as a conditional use.
+In all districts, any lighting used to illuminate a lot or structure (including signs) thereon shall be arranged so as to deflect light away from adjacent streets. The source of light shall be hooded or shielded so as to prevent beams or rays of light from being directed at any portion of adjoining properties or streets.
+
+Section517.09: Sign Regulation Non-Conforming Signs
+
+Signs prior to the date of enactment of this ordinance, which do not conform with the signs regulations contained herein, shall not be expanded, modified or changed in any way except to conformity with these sign regulations. Non-conforming signs must be removed or modified to conform to the ordinance within five years of adoption of this Ordinance.
+
+Section518: REFUSE/DISPOSAL/RECYCLING OPERATIONS
+
+Section518.01: Refuse/Disposal/Recycling Operation – Containment
+
+All waste material, debris, refuse or garbage, except animal manure, shall be kept in an enclosed building or properly contained in an enclosed container designed for such purpose
+
+Section518.02: Refuse/Disposal/Recycling Operation – Vacant Land
+
+The owner of vacant land shall be responsible for keeping such land free of refuse and noxious weeds.
+
+
+Section518.03: Refuse/Disposal/Recycling Operation - Enactment
+
+Existing uses shall comply with this provision within six months following enactment of this ordinance.
+
+Section518.04: Refuse/Disposal/Recycling Operation - Establishment
+
+No person, firm, partnership, corporation, or other entity shall establish, locate, relocate, and undertake within the Township of Sciota any:
+1.	Demolition Landfill
+2.	Salvage yard
+3.	Junkyard
+4.	Sanitary landfill
+5.	Compost facility, excluding residential or agricultural facilities for waste product on-site.
+6.	Landfilling, spreading or storing, or creation of any depository site of sewage or sewage sludge is prohibited
+7.	Commercial or municipal waste treatment facilities, plants, or operations.
+
+Section518.05: Refuse/Disposal/Recycling Operation – Distance
+
+Stockpiles or deposits of manure, organic compost, silage, wastewater, or other similar substances or material shall be located or maintained not closer than 300 feet from another property owner’s dwelling or structure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+HOUSING
+
+Article VI
+
+Subdivision Regulation
+
+Subdivision Regulation section is contained within Township Ordinance Primary Ordinance documents.
+
+
+
+
+ 
+
+HOUSING
+
+Article VII
+
+Administration and Enforcement
+
+Administration and Enforcement section are contained within Township Ordinance primary ordinance document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
