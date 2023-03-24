@@ -2,7 +2,7 @@
 NATIONAL ZONING AND LAND USE DATABASE
 #####################################
 
-DATE THIS README WAS LAST UPDATED: 03/17/2023
+DATE THIS README WAS LAST UPDATED: 03/24/2023
 
 PROJECT DESCRIPTION: We created the National Zoning and Land Use Database (NZLUD) to provide national zoning and land use data for the 2019-2022 time period. We supply our source code to enable timely access to publicly available zoning information. Users can rerun our code at regular intervals to create panel zoning data moving forward. Users can also expand to additional municipalities or additional zoning and land use measures not currently captured by our process. The intent is for this code to further automate the process of building national zoning and land use information in an open source way. 
 
@@ -42,3 +42,5 @@ FILES:
 - Online Only Supplement for Mleczko and Desmond (2023)
 
 LICENSE: MIT license
+
+03/24/2023: 002_create_analytic.R contained an error in calculating zri_c; this only impacts Tables S12 and S15 in the Online Only Supplement, which has been updated on GitHub.

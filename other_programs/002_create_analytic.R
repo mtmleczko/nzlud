@@ -29,6 +29,7 @@
 ##                                                    ##
 ## LIST OF UPDATES:                                   ##
 ## 12/28/2021: Updated code for updated data          ##
+## 03/24/2023: Corrected zri_c calculation            ##
 ########################################################
 
 #log <- file("path to programs here/002_create_analytic.txt")
@@ -288,7 +289,7 @@ create.zri.sc2 <- function(in.data){
     in.data$sindex4.c*loadings.c[4,1] + 
     in.data$sindex5.c*loadings.c[5,1] + 
     in.data$sindex6.c*loadings.c[6,1] + 
-    in.data$sindex6.c*loadings.c[7,1]
+    in.data$sindex7.c*loadings.c[7,1]   ## MTM corrected 03/24/2023
   
   ## standardized final index ## 
   
