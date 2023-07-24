@@ -64,7 +64,7 @@ filedirect = "INPUT HERE"
 # INPUT FOLDER FILE PATH TO KEYWORDS FILE #
 kwpath = "INPUT HERE"
 
-# KEYWORD CSV FILE NAME #
+# KEYWORD CSV FILE NAME (include extension) #
 kwfile = "INPUT HERE"
 
 ###########################
@@ -110,7 +110,7 @@ object, the user simply write dicts = get_keywords().
 
 def get_keywords():
     keyword_dict = {}
-    with open(os.path.join(kwpath, kwfile + '.' + csv), "rt") as csvfile:
+    with open(os.path.join(kwpath, kwfile), "rt") as csvfile:
         reader = csv.reader(csvfile)
         next(reader)
         qnum = 1
