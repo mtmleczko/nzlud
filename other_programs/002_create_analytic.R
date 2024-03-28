@@ -1382,7 +1382,7 @@ nzlu.msas.2019 <- nzlu.2019.wmsas %>%
 
 ## merge on central cities ##
 
-load("003_cc_out.Rda")
+load("cc_out.Rda")
 
 nzlu.msa.2019.pt2.m <- stata.merge(nzlu.2019.wmsas,
                                    cc.out,
