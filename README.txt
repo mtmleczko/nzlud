@@ -22,7 +22,7 @@ NOTE ABOUT MSA coverage: Because we replicate the sample from the 2006 Wharton R
 			   
 AUTHORS: Matt Mleczko, Scott Overbey, Matt Desmond
 
-CONTACT: mmleczko@princeton.edu 
+CONTACT: Matt Mleczko, mmleczko@princeton.edu 
 
 LINK TO PAPER AND ONLINE SUPPLEMENT: https://journals.sagepub.com/doi/10.1177/00420980231156352
 
@@ -43,4 +43,7 @@ FILES:
 
 LICENSE: MIT license
 
+UPDATES: 
 03/24/2023: 002_create_analytic.R contained an error in calculating zri_c; this only impacts Tables S12 and S15 in the Online Only Supplement, which has been updated on GitHub.
+03/28/2024: added cc_out.Rda and updated 002_create_analytic.R to account for filename change
+04/02/2024: added nzlu_ts.Rda, acs_rank_H_1519_out.dta, 2019_ACS_tracts_p1.Rda, and 2019_ACS_tracts_p2.Rda and updated 004_compare.R
