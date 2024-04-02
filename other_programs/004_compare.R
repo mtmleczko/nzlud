@@ -5,7 +5,8 @@
 ## INPUTS:                                            ##
 ##    msa_delineation_2020.xls                        ##
 ##    acs_rank_H_1519_out.dta                         ##
-##    2019_ACS_tracts.Rda                             ##
+##    2019_ACS_tracts_p1.Rda                          ##
+##    2019_ACS_tracts_p2.Rda                          ##
 ##    nzlu_ts.Rda                                     ##
 ##    001_zd_nonmatches.Rda                           ##
 ##    001_wrld_2018.Rda                               ##
@@ -37,6 +38,10 @@
 ##          output NZLUD                              ##
 ##                                                    ##
 ## LIST OF UPDATES:                                   ##
+## 04/02/2024 MTM: Added code to process              ##
+##                 alltracts.2019.p1 and              ##
+##                 alltracts.2019.p2 (original file   ##
+##                 was too large for GitHub           ##
 ########################################################
 
 #log <- file("path to programs here/004_compare.txt")
@@ -117,7 +122,8 @@ load("003_nzlu_wts_all_2019.Rda")
 load("003_nzlu_wts_msa_2019.Rda")
 load("003_allmunis_2019.Rda")
 load("003_msa_munis_2019.Rda")
-load("2019_ACS_tracts.Rda")
+load("2019_ACS_tracts_p1.Rda")
+load("2019_ACS_tracts_p2.Rda")
 load("nzlu_ts.rda")
 
 ## rank H input file for later ##
@@ -2087,6 +2093,11 @@ msas.2019.complete <- msas.2019.complete.m %>%
   mutate(aland_num = as.numeric(ALAND),
          land_area_sqmiles = aland_num/2589988,
          pop_density_msa = pop_total_msa/land_area_sqmiles)
+
+# combine alltracts.2019.p1 and alltracts.2019.p2
+
+alltracts.2019 <- bind_rows(alltracts.2019.p1,
+                            alltracts.2019.p2)
 
 ## now, clean input tracts file ##
 
