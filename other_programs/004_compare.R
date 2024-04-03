@@ -42,6 +42,10 @@
 ##                 alltracts.2019.p1 and              ##
 ##                 alltracts.2019.p2 (original file   ##
 ##                 was too large for GitHub           ##
+## 04/03/2024 MTM: Corrected code for outputting data ## 
+##                 to correct file path               ##
+##                 Corrected code for calculating     ##
+##                 summary stats with survey weights  ##
 ########################################################
 
 #log <- file("path to programs here/004_compare.txt")
@@ -191,18 +195,21 @@ nzlu.data <- m3m %>%
 ## rda ##
 
 save(nzlu.data,
-     file = "Y:/Zoning/ZoningI/Data/Processed/Out/nzlud_muni.Rda")
+     file = paste0(output_path,
+                   "nzlud_muni.Rda"))
 
 ## csv ##
 write.csv(nzlu.data,
-     file = "Y:/Zoning/ZoningI/Data/Processed/Out/nzlud_muni.csv")
+     file = paste0(output_path,
+                   "nzlud_muni.csv"))
 
 ## output nzlu (msa-level) ##
 
 ## csv (.rda already exists as 002_nzlu_msa_2019.rda) ##
 
 write.csv(nzlu.msa.2019.final,
-          file = "Y:/Zoning/ZoningI/Data/Processed/Out/nzlud_msa.csv")
+          file = paste0(output_path,
+                        "nzlud_msa.csv"))
 
 
 #######################
@@ -1208,7 +1215,7 @@ summary(all.samples.msa.2019.final$zri_c_st)
 sd(all.samples.msa.2019.final$zri_c_st, na.rm=T)
 
 
-## correlation between ez.index.st (2019) and WRLURI 2018 ##
+## correlation between ZRI (2019) and WRLURI 2018 ##
 
 ## merge checks ## 
 nrow(nzlu.2019.final) == length(unique(nzlu.2019.final$GEOID))
@@ -1286,7 +1293,7 @@ legend("topright",
 
 plot(density(all.samples.2019.final$zri_s_st, na.rm=T), 
      col = "blue",
-     main = "Density of ez.index in full samples",
+     main = "Density of ZRI in full samples",
      xlab = "Index value")
 lines(density(all.samples.2019.final$zri_c_st, na.rm=T), col = "red")
 legend("topright",
@@ -1296,7 +1303,7 @@ legend("topright",
        col = c("blue","red"))
 
 
-plot(density(nzlu.msa.2019.final$zri_st, na.rm=T), 
+plot(density(nzlu.msa.2019.final$zri_full_st, na.rm=T), 
      col = "blue",
      main = "Density of ZRI in full samples (MSA level)",
      xlab = "Index value")
@@ -1349,7 +1356,7 @@ legend("topright",
 
 plot(density(all.samples.msa.2019.final$zri_s_st, na.rm=T), 
      col = "blue",
-     main = "Density of ez.index in full samples (MSA level)",
+     main = "Density of ZRI in full samples (MSA level)",
      xlab = "Index value")
 lines(density(all.samples.msa.2019.final$zri_c_st, na.rm=T), col = "red")
 legend("topright",
@@ -1681,21 +1688,21 @@ ggplot(iz.bp, aes(gf, n, fill = reorder(state, -n))) +
 ## 2019 ##
 
 ## row 1 ##
-summary(nzlu.panel.final$zri_st_2019)
-sd(nzlu.panel.final$zri_st_2019, na.rm=T)
-nrow(nzlu.panel.final)
+summary(nzlu.data$zri_st)
+sd(nzlu.data$zri_st, na.rm=T)
+nrow(nzlu.data)
 
 ## row 2 ##
-weighted.mean(nzlu.panel.final$zri_st_2019, w = nzlu.panel.final$fwt_all,na.rm=T)
-min(nzlu.panel.final$zri_st_2019*nzlu.panel.final$fwt_all,na.rm=T)
-wtd.quantile(nzlu.panel.final$zri_st_2019, q=0.25, na.rm = T, weight=nzlu.panel.final$fwt_all)
-wtd.quantile(nzlu.panel.final$zri_st_2019, q=0.5, na.rm = T, weight=nzlu.panel.final$fwt_all)
-wtd.quantile(nzlu.panel.final$zri_st_2019, q=0.75, na.rm = T, weight=nzlu.panel.final$fwt_all)
-max(nzlu.panel.final$zri_st_2019*nzlu.panel.final$fwt_all)
-sqrt(wtd.var(nzlu.panel.final$zri_st_2019, nzlu.panel.final$fwt_all))
+weighted.mean(nzlu.data$zri_st, w = nzlu.data$st_wt_all_2019,na.rm=T)
+min(nzlu.data$zri_st*nzlu.data$st_wt_all_2019,na.rm=T)
+wtd.quantile(nzlu.data$zri_st, q=0.25, na.rm = T, weight=nzlu.data$st_wt_all_2019)
+wtd.quantile(nzlu.data$zri_st, q=0.5, na.rm = T, weight=nzlu.data$st_wt_all_2019)
+wtd.quantile(nzlu.data$zri_st, q=0.75, na.rm = T, weight=nzlu.data$st_wt_all_2019)
+max(nzlu.data$zri_st*nzlu.data$st_wt_all_2019)
+sqrt(wtd.var(nzlu.data$zri_st, nzlu.data$st_wt_all_2019))
 
 
-ms.2019 <- stata.merge(nzlu.panel.final,
+ms.2019 <- stata.merge(nzlu.data,
                        nzlu.2019.wmsas.out,
                        "GEOID")
 
@@ -1710,31 +1717,31 @@ ms.2019.keep <- ms.2019 %>%
   select(-merge.variable)
 
 ms.2019.keep.nm <- ms.2019.keep %>%
-  filter(!is.na(fwt_msa))
+  filter(!is.na(st_wt_msa_2019))
 
 ## row 3 ##
-summary(ms.2019.keep$zri_st_2019)
-sd(ms.2019.keep$zri_st_2019)
+summary(ms.2019.keep$zri_st)
+sd(ms.2019.keep$zri_st)
 nrow(ms.2019.keep)
 
 ## row 4 ##
-weighted.mean(ms.2019.keep.nm$zri_st_2019, w = ms.2019.keep.nm$fwt_msa)
-min(ms.2019.keep$zri_st_2019*ms.2019.keep$fwt_msa, na.rm=T)
-wtd.quantile(ms.2019.keep$zri_st_2019, q=0.25, na.rm = FALSE, weight=ms.2019.keep$fwt_msa)
-wtd.quantile(ms.2019.keep$zri_st_2019, q=0.5, na.rm = FALSE, weight=ms.2019.keep$fwt_msa)
-wtd.quantile(ms.2019.keep$zri_st_2019, q=0.75, na.rm = FALSE, weight=ms.2019.keep$fwt_msa)
-max(ms.2019.keep$zri_st_2019*ms.2019.keep$fwt_msa, na.rm=T)
-sqrt(wtd.var(ms.2019.keep.nm$zri_st_2019, ms.2019.keep.nm$fwt_msa))
+weighted.mean(ms.2019.keep.nm$zri_st, w = ms.2019.keep.nm$st_wt_msa_2019)
+min(ms.2019.keep$zri_st*ms.2019.keep$st_wt_msa_2019, na.rm=T)
+wtd.quantile(ms.2019.keep$zri_st, q=0.25, na.rm = FALSE, weight=ms.2019.keep$st_wt_msa_2019)
+wtd.quantile(ms.2019.keep$zri_st, q=0.5, na.rm = FALSE, weight=ms.2019.keep$st_wt_msa_2019)
+wtd.quantile(ms.2019.keep$zri_st, q=0.75, na.rm = FALSE, weight=ms.2019.keep$st_wt_msa_2019)
+max(ms.2019.keep$zri_st*ms.2019.keep$st_wt_msa_2019, na.rm=T)
+sqrt(wtd.var(ms.2019.keep.nm$zri_st, ms.2019.keep.nm$st_wt_msa_2019))
 
 ## row 5 ##
-summary(non.msa.sample$zri_st_2019)
-sd(non.msa.sample$zri_st_2019)
+summary(non.msa.sample$zri_st)
+sd(non.msa.sample$zri_st)
 nrow(non.msa.sample)
 
 ## individual metros (with 10 or more municipalities) ##
 
-nzlu.lmsa <- nzlu.panel.final %>%
-  filter(!is.na(fwt_lmsa))
+nzlu.lmsa <- nzlu.data %>%
+  filter(!is.na(st_wt_lmsa_2019))
 
 ## merge on cbsa codes ##
 
@@ -1761,13 +1768,13 @@ lmsa.wt <- function(cbsa){
   indata <- nzlu.lmsa.cbsa %>%
     filter(cbsa10 == cbsa)
   
-  r1 <- weighted.mean(indata$zri_st_2019, w = indata$fwt_lmsa)
-  r2 <- min(indata$zri_st_2019*indata$fwt_lmsa, na.rm=T)
-  r3 <- wtd.quantile(indata$zri_st_2019, q=0.25, na.rm = FALSE, weight=indata$fwt_lmsa)
-  r4 <- wtd.quantile(indata$zri_st_2019, q=0.5, na.rm = FALSE, weight=indata$fwt_lmsa)
-  r5 <- wtd.quantile(indata$zri_st_2019, q=0.75, na.rm = FALSE, weight=indata$fwt_lmsa)
-  r6 <- max(indata$zri_st_2019*indata$fwt_lmsa, na.rm=T)
-  r7 <- sqrt(wtd.var(indata$zri_st_2019, indata$fwt_lmsa))
+  r1 <- weighted.mean(indata$zri_st, w = indata$st_wt_lmsa_2019)
+  r2 <- min(indata$zri_st*indata$st_wt_lmsa_2019, na.rm=T)
+  r3 <- wtd.quantile(indata$zri_st, q=0.25, na.rm = FALSE, weight=indata$st_wt_lmsa_2019)
+  r4 <- wtd.quantile(indata$zri_st, q=0.5, na.rm = FALSE, weight=indata$st_wt_lmsa_2019)
+  r5 <- wtd.quantile(indata$zri_st, q=0.75, na.rm = FALSE, weight=indata$st_wt_lmsa_2019)
+  r6 <- max(indata$zri_st*indata$st_wt_lmsa_2019, na.rm=T)
+  r7 <- sqrt(wtd.var(indata$zri_st, indata$st_wt_lmsa_2019))
   
   res.in <- data.frame(rbind(r1,r2,r3,r4,r5,r6,r7))
   res <- as.data.frame(t(res.in))
@@ -2254,7 +2261,8 @@ msa.k2.2019 <- msa.fm2.2019 %>%
   filter(merge.variable == 3) %>%
   select(-merge.variable)
 
-summary(msa.k2.2019$ez.index.st)
+summary(msa.k2.2019$zri_full_st)
+sum(!is.na(msa.k2.2019$zri_full_st))
 
 ## merge on rank H ##
 
@@ -2289,7 +2297,7 @@ nzlu.msa.sda.m <- nzlu.msa.sda %>%
 nzlu.msa.sda.h <- nzlu.msa.sda %>%
   filter(rl == "high") 
 
-nrow(nzlu.msa.sda.l) + nrow(nzlu.msa.sda.m) + nrow(nzlu.msa.sda.h) == 327
+nrow(nzlu.msa.sda.l) + nrow(nzlu.msa.sda.m) + nrow(nzlu.msa.sda.h) == 164
 
 
 nzlu.msa.sda.ls <- nzlu.msa.sda.l %>%
