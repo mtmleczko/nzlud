@@ -2093,6 +2093,8 @@ p2019.final$place[p2019.final$statename == "NY" & p2019.final$place.fips == "327
 
 p2019.final$place[p2019.final$statename == "NY" & p2019.final$place.fips == "78960"] <- "WebsterVillage"
 
+p2019.final$place[p2019.final$statename == "NM" & p2019.final$place.fips == "25170"] <- "Española"
+
 p2019.final$type[p2019.final$statename == "OH" & p2019.final$place.fips == "11332"] <- "Village"
 
 p2019.final$type[p2019.final$statename == "OH" & p2019.final$place.fips == "11332"] <- "Village"
